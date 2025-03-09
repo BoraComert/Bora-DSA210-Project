@@ -31,7 +31,7 @@ My goal is to understand how weather patterns such as precipitation ,temperature
 
 1. - Since the weather data have been recorded daily, i will compute daily averages for key weather elements to align with the foreign visitor dataset which has been recorded monthly.
 
-2. - Minimum and maximum temperatures will be averaged to obtain a temperature value to represent the month.
+2. - Minimum and maximum temperatures will be averaged to obtain a temperature value.
 
 
 
