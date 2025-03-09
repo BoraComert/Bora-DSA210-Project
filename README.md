@@ -15,9 +15,12 @@ My goal is to understand how weather patterns such as precipitation ,temperature
 - **Maximum and minimum temperatures of the day**
 - **Average Humidity**
 
-Foreign visitor data will be obtained from Turkish Ministry of Culture and Tourism.
+
+Foreign visitor data will be obtained from https://data.ibb.gov.tr/tr/dataset/eed05b14-a829-4a58-9c0f-86e57e1f472a/resource/e1f59ff6-0d2f-4c51-8d57-fe97dde47d79/download/turkiye-ve-istanbul-olceginde-gelen-yabanci-ziyaretci-sayisi.csv
 
 - **Monthly Foreign Visitor number**
+
+
 
 
 
