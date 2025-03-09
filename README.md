@@ -7,12 +7,18 @@ My goal is to understand how weather patterns such as precipitation ,temperature
 
 ## Data
 
-Weather dataset contains:
+ Weather data will be obtained from https://www.kaggle.com/datasets/vonline9/weather-istanbul-data-20092019
+ 
 - **Average Wind Speed**
 - **Weather Condition**(sunny,cloudy etc.) 
 - **Precipitation**  
 - **Maximum and minimum temperatures of the day**
+- **Average Humidity**
 
-https://www.kaggle.com/datasets/vonline9/weather-istanbul-data-20092019
+Foreign visitor data will be obtained from Turkish Ministry of Culture and Tourism.
+
+- **Monthly Foreign Visitor number**
+
+
 
 
