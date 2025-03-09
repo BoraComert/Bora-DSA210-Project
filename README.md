@@ -7,7 +7,11 @@ My goal is to understand how weather patterns such as precipitation ,temperature
 
 ## Data
 
-Weather data
+Weather dataset contains:
+**Average Wind Speed**
+**Weather Condition**(sunny,cloudy etc.) 
+**Precipitation**  
+**Maximum and minimum temperatures of the day**
 
 https://www.kaggle.com/datasets/vonline9/weather-istanbul-data-20092019
 
