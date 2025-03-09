@@ -7,7 +7,7 @@ My goal is to understand how weather patterns such as precipitation ,temperature
 
 ## Data
 
-**Weather Data**
+**Daily Weather Data**
 
  Source: https://www.kaggle.com/datasets/vonline9/weather-istanbul-data-20092019
  
@@ -18,12 +18,16 @@ My goal is to understand how weather patterns such as precipitation ,temperature
 - Minimum temperature
 - Average Humidity
 
-**Foreign Visitor Data** 
+**Timeframe: 2009-2019**
+
+**Monthly Foreign Visitor Data** 
  
  Source:  https://data.ibb.gov.tr/tr/dataset/eed05b14-a829-4a58-9c0f-86e57e1f472a/resource/e1f59ff6-0d2f-4c51-8d57-fe97dde47d79/download/turkiye-ve-istanbul-olceginde-gelen-yabanci-ziyaretci-sayisi.csv
 
 - Place(Turkey or Istanbul)
 - Monthly Foreign Visitor Number
+
+**Timeframe: 2009-2019**
 
 ## Data Analysis Plan
 
