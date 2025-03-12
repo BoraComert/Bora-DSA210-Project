@@ -38,11 +38,13 @@ Source: https://data.ibb.gov.tr/dataset/milliyetlerine-gore-istanbul-a-gelen-yab
 ## Data Analysis Plan
 
 
-1. - A daily weather quality score will be generated from weather data.
+1. - Weather data's will be requested from weather api and arranged into a dataset.
+   
+2. - A daily weather quality score will be generated from weather data.
 
-2. - Monthly foreign visitor numbers will be compared to see if a pattern exists.
+3. - Monthly foreign visitor numbers will be compared to see if a pattern exists.
 
-3. - Nationalities of the the foreign visitor will be compared if a pattern exists.
+4. - Nationalities of the the foreign visitor will be compared if a pattern exists.
 
 
 
