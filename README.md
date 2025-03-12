@@ -32,6 +32,9 @@ Additionally i will explore how the climate of the visitor's country affects tou
 
 Source: https://data.ibb.gov.tr/dataset/milliyetlerine-gore-istanbul-a-gelen-yabanci-turist-sayisi
 
+-Nationality Of The Visitor
+-Monthly Visitor Count By Nationality
+
 ## Data Analysis Plan
 
 
