@@ -9,7 +9,7 @@ Additionally i will explore how the climate of the visitor's country affects tou
 
 ## Data
 
-** Weather Data(2019-2024)**
+**Weather Data(2019-2024)**
 
  Source: Past Observations will be taken from Weather Api
  
