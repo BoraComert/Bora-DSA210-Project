@@ -38,13 +38,17 @@ Source: https://data.ibb.gov.tr/dataset/milliyetlerine-gore-istanbul-a-gelen-yab
 ## Data Analysis Plan
 
 
-1. - Weather data's will be requested from weather api and arranged into a dataset.
+1. - Weather data of Istanbul will be requested from weather api and arranged into a dataset.
    
-2. - A daily weather quality score will be generated from weather data.
+2. - A daily weather quality score will be generated from weather data for Istanbul.
 
 3. - Monthly foreign visitor numbers will be compared to see if a pattern exists.
 
 4. - Nationalities of the the foreign visitor will be compared if a pattern exists.
+
+5. - Top 5 countries for summer and winter will be analyzed.
+
+6. - Their weather datas will be arranged into a dataset.
 
 
 
