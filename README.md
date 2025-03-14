@@ -35,6 +35,9 @@ Source: https://data.ibb.gov.tr/dataset/milliyetlerine-gore-istanbul-a-gelen-yab
 - Nationality Of The Visitor
 - Monthly Visitor Count By Nationality
 
+**Median Income Of The World**
+Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country=TUR~OWID_WRL~AUT
+
 ## Data Analysis Plan
 
 
