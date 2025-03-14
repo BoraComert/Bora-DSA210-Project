@@ -41,7 +41,7 @@ Source: https://data.ibb.gov.tr/dataset/milliyetlerine-gore-istanbul-a-gelen-yab
 
 Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country=TUR~OWID_WRL~AUT
 
-**Gdp Per Capita Of Countries*
+**Gdp Per Capita Of Countries**
 
 Source: https://ourworldindata.org/grapher/gdp-per-capita-worldbank
 
