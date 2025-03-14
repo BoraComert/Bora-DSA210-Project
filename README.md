@@ -45,6 +45,10 @@ Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country
 
 Source: https://ourworldindata.org/grapher/gdp-per-capita-worldbank
 
+**Inflation Of Consumer Prices**
+
+Source: https://ourworldindata.org/grapher/inflation-of-consumer-prices
+
 ## Data Analysis Plan
 
 **Weather Conditions Analysis**
