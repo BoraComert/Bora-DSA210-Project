@@ -67,7 +67,7 @@ Source: https://ourworldindata.org/grapher/inflation-of-consumer-prices
 
 1. Median income of citizens of foreign countries will be compared against Turkish Citizens.
    
-2. 
+2. Inflation trends in Turkey and the rest of the world will be analyzed.
  
 
 
