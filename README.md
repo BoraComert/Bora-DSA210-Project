@@ -59,9 +59,9 @@ Source: https://ourworldindata.org/grapher/inflation-of-consumer-prices
 
 3.  Monthly foreign visitor numbers will be compared to see if a pattern exists.
 
-4.  Nationalities of the the foreign visitor will be compared if a pattern exists.
+4.  Nationalities of the the foreign visitors will be compared if a pattern exists.
 
-5.  Climate of the Countries with the most tourists come from will be analyzed and put into cold or hot weather categories.
+5.  Climate of the Countries with the most tourists come from will be analyzed and seperated into cold or hot weather categories.
 
 **Economic Conditions Analysis**
 
