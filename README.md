@@ -41,9 +41,15 @@ Source: https://data.ibb.gov.tr/dataset/milliyetlerine-gore-istanbul-a-gelen-yab
 
 Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country=TUR~OWID_WRL~AUT
 
+**Gdp Per Capita Of Countries*
+
+Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country=TUR~OWID_WRL~AUT
+
 - Median income for countries
 
 ## Data Analysis Plan
+
+**Weather Conditions Analysis**
 
 1.  Weather data of Istanbul will be requested from weather api and arranged into a dataset.
    
@@ -55,6 +61,11 @@ Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country
 
 5.  Climate of the Countries with the most tourists come from will be analyzed and put into cold or hot weather categories.
 
+**Economic Conditions Analysis**
+
+1. Median income of citizens of foreign countries will be compared against Turkish Citizens.
+   
+2. 
  
 
 
