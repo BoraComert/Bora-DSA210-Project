@@ -43,9 +43,7 @@ Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country
 
 **Gdp Per Capita Of Countries*
 
-Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country=TUR~OWID_WRL~AUT
-
-- Median income for countries
+Source: https://ourworldindata.org/grapher/gdp-per-capita-worldbank
 
 ## Data Analysis Plan
 
