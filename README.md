@@ -39,8 +39,9 @@ Source: https://data.ibb.gov.tr/dataset/milliyetlerine-gore-istanbul-a-gelen-yab
 
 Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country=TUR~OWID_WRL~AUT
 
-## Data Analysis Plan
+- Median income for countries
 
+## Data Analysis Plan
 
 1.  Weather data of Istanbul will be requested from weather api and arranged into a dataset.
    
@@ -50,9 +51,9 @@ Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country
 
 4.  Nationalities of the the foreign visitor will be compared if a pattern exists.
 
-5.  Top 5 countries for summer and winter will be analyzed.
+5.  Climate of the Countries with the most tourists come from will be analyzed and put into cold or hot weather categories.
 
-6.  Their weather datas will be arranged into a dataset.
+ 
 
 
 
