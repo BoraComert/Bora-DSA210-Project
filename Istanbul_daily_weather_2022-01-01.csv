@@ -1,0 +1,366 @@
+Date,Avg Temperature (C),Condition,Avg Humidity (%),Avg Wind Speed (km/h),Total Precipitation (mm)
+2022-01-01,9,Moderate rain at times,78,16,1.6
+2022-01-02,10,Patchy rain possible,78,10,0.9
+2022-01-03,10,Partly cloudy,71,15,0.0
+2022-01-04,11,Partly cloudy,81,12,0.0
+2022-01-05,13,Sunny,72,22,0.0
+2022-01-06,14,Overcast,72,25,0.0
+2022-01-07,11,Patchy rain possible,84,18,1.7
+2022-01-08,11,Patchy rain possible,84,11,0.7
+2022-01-09,11,Partly cloudy,76,10,0.0
+2022-01-10,11,Patchy rain possible,74,11,0.8
+2022-01-11,9,Patchy rain possible,86,31,2.3
+2022-01-12,4,Moderate or heavy rain shower,77,36,17.4
+2022-01-13,3,Patchy rain possible,52,23,1.4
+2022-01-14,3,Partly cloudy,55,12,0.0
+2022-01-15,6,Overcast,58,15,0.4
+2022-01-16,5,Sunny,58,12,0.0
+2022-01-17,6,Cloudy,62,21,0.0
+2022-01-18,6,Patchy rain possible,55,23,1.6
+2022-01-19,4,Patchy rain possible,50,19,0.9
+2022-01-20,6,Sunny,51,24,0.0
+2022-01-21,7,Moderate or heavy rain shower,79,24,13.7
+2022-01-22,1,Light freezing rain,67,14,3.4
+2022-01-23,2,Moderate rain at times,59,22,5.3
+2022-01-24,2,Patchy rain possible,72,21,4.4
+2022-01-25,1,Patchy rain possible,76,25,2.0
+2022-01-26,1,Patchy rain possible,66,13,1.2
+2022-01-27,1,Light freezing rain,83,11,1.9
+2022-01-28,4,Partly cloudy,71,19,0.0
+2022-01-29,5,Overcast,75,10,0.0
+2022-01-30,5,Overcast,76,15,0.1
+2022-01-31,6,Overcast,65,15,0.0
+2022-02-01,7,Moderate rain at times,71,12,1.5
+2022-02-02,6,Heavy rain at times,92,14,11.2
+2022-02-03,3,Heavy rain at times,91,20,13.2
+2022-02-04,5,Patchy rain possible,63,14,0.2
+2022-02-05,5,Sunny,63,13,0.0
+2022-02-06,8,Partly cloudy,74,7,0.0
+2022-02-07,9,Overcast,68,20,0.9
+2022-02-08,6,Moderate or heavy rain shower,91,31,38.8
+2022-02-09,6,Cloudy,71,29,2.0
+2022-02-10,7,Partly cloudy,70,14,0.0
+2022-02-11,6,Sunny,63,8,0.0
+2022-02-12,8,Sunny,72,12,0.0
+2022-02-13,7,Overcast,76,28,0.0
+2022-02-14,7,Patchy rain possible,66,12,0.5
+2022-02-15,6,Sunny,66,5,0.0
+2022-02-16,8,Overcast,63,4,0.0
+2022-02-17,9,Partly cloudy,62,9,0.0
+2022-02-18,10,Heavy rain at times,76,15,4.4
+2022-02-19,8,Sunny,53,7,0.0
+2022-02-20,9,Overcast,60,9,0.0
+2022-02-21,11,Overcast,64,6,0.0
+2022-02-22,13,Cloudy,70,14,1.8
+2022-02-23,9,Moderate rain at times,88,16,7.6
+2022-02-24,7,Heavy rain at times,89,27,17.8
+2022-02-25,7,Patchy rain possible,86,22,4.7
+2022-02-26,8,Partly cloudy,71,9,0.0
+2022-02-27,8,Overcast,78,25,2.4
+2022-02-28,6,Patchy rain possible,87,21,5.6
+2022-03-01,5,Patchy rain possible,79,19,2.1
+2022-03-02,4,Patchy rain possible,68,15,0.2
+2022-03-03,5,Patchy rain possible,67,15,0.9
+2022-03-04,7,Overcast,56,9,0.0
+2022-03-05,8,Overcast,58,12,0.0
+2022-03-06,7,Patchy rain possible,73,30,1.2
+2022-03-07,6,Patchy rain possible,90,15,4.3
+2022-03-08,5,Patchy rain possible,81,19,2.3
+2022-03-09,5,Patchy rain possible,57,24,0.9
+2022-03-10,3,Patchy rain possible,69,26,4.2
+2022-03-11,2,Patchy moderate snow,63,29,5.0
+2022-03-12,1,Light freezing rain,53,20,6.7
+2022-03-13,2,Light freezing rain,75,13,2.0
+2022-03-14,3,Patchy rain possible,62,11,0.4
+2022-03-15,5,Partly cloudy,62,9,0.0
+2022-03-16,6,Overcast,57,8,0.0
+2022-03-17,6,Moderate rain at times,71,18,4.2
+2022-03-18,3,Patchy rain possible,58,25,2.0
+2022-03-19,3,Patchy rain possible,63,24,2.9
+2022-03-20,4,Patchy rain possible,64,27,2.2
+2022-03-21,5,Patchy rain possible,63,26,0.6
+2022-03-22,6,Patchy rain possible,70,21,0.1
+2022-03-23,6,Patchy rain possible,75,23,1.2
+2022-03-24,8,Partly cloudy,58,15,0.0
+2022-03-25,9,Cloudy,64,11,0.2
+2022-03-26,8,Patchy rain possible,72,9,1.4
+2022-03-27,9,Sunny,66,14,0.0
+2022-03-28,12,Sunny,61,6,0.0
+2022-03-29,11,Overcast,70,12,0.0
+2022-03-30,12,Sunny,68,13,0.0
+2022-03-31,13,Partly cloudy,62,18,0.1
+2022-04-01,15,Cloudy,56,15,0.0
+2022-04-02,16,Sunny,55,29,0.0
+2022-04-03,13,Moderate or heavy rain shower,68,25,3.8
+2022-04-04,10,Patchy rain possible,60,16,3.7
+2022-04-05,10,Heavy rain at times,72,10,11.7
+2022-04-06,11,Sunny,70,12,0.0
+2022-04-07,13,Moderate or heavy rain shower,74,14,7.3
+2022-04-08,13,Patchy rain possible,81,13,0.1
+2022-04-09,15,Sunny,64,10,0.0
+2022-04-10,15,Sunny,69,13,2.4
+2022-04-11,8,Heavy rain at times,82,22,10.7
+2022-04-12,10,Patchy rain possible,63,7,0.4
+2022-04-13,10,Patchy rain possible,59,7,0.3
+2022-04-14,11,Cloudy,58,9,0.0
+2022-04-15,13,Sunny,66,11,0.0
+2022-04-16,14,Overcast,60,5,0.0
+2022-04-17,12,Heavy rain at times,74,20,15.6
+2022-04-18,8,Heavy rain at times,90,23,14.0
+2022-04-19,7,Moderate rain at times,85,13,6.4
+2022-04-20,9,Partly cloudy,67,11,0.0
+2022-04-21,12,Patchy rain possible,72,10,2.3
+2022-04-22,15,Partly cloudy,63,9,0.0
+2022-04-23,17,Partly cloudy,65,6,0.0
+2022-04-24,17,Sunny,63,8,0.0
+2022-04-25,16,Cloudy,70,5,0.0
+2022-04-26,17,Sunny,66,11,0.0
+2022-04-27,16,Sunny,63,15,0.0
+2022-04-28,15,Sunny,69,20,0.0
+2022-04-29,15,Sunny,72,20,0.0
+2022-04-30,13,Overcast,81,19,0.0
+2022-05-01,14,Overcast,75,21,0.0
+2022-05-02,14,Cloudy,74,26,0.3
+2022-05-03,13,Moderate rain at times,84,21,3.6
+2022-05-04,12,Moderate rain at times,84,15,2.4
+2022-05-05,13,Patchy rain possible,69,12,0.1
+2022-05-06,14,Patchy rain possible,70,17,0.6
+2022-05-07,13,Patchy rain possible,80,17,0.1
+2022-05-08,14,Sunny,72,20,0.0
+2022-05-09,14,Sunny,68,23,0.0
+2022-05-10,15,Sunny,65,21,0.0
+2022-05-11,15,Partly cloudy,69,17,0.0
+2022-05-12,16,Sunny,60,12,0.0
+2022-05-13,19,Sunny,47,9,0.0
+2022-05-14,18,Sunny,54,7,0.0
+2022-05-15,19,Patchy rain possible,64,8,0.2
+2022-05-16,19,Partly cloudy,59,10,0.0
+2022-05-17,20,Sunny,58,7,0.0
+2022-05-18,18,Moderate rain at times,72,17,7.8
+2022-05-19,14,Patchy rain possible,65,19,0.6
+2022-05-20,16,Partly cloudy,58,8,0.0
+2022-05-21,18,Sunny,51,6,0.0
+2022-05-22,19,Partly cloudy,65,11,0.0
+2022-05-23,18,Patchy rain possible,73,14,0.4
+2022-05-24,19,Partly cloudy,59,13,1.0
+2022-05-25,19,Partly cloudy,53,13,2.0
+2022-05-26,21,Sunny,53,7,0.0
+2022-05-27,22,Sunny,62,13,0.0
+2022-05-28,22,Sunny,54,6,0.0
+2022-05-29,22,Patchy rain possible,65,18,0.7
+2022-05-30,23,Sunny,64,11,0.1
+2022-05-31,23,Sunny,66,8,0.0
+2022-06-01,23,Sunny,69,11,0.0
+2022-06-02,22,Partly cloudy,65,17,0.0
+2022-06-03,22,Sunny,73,19,0.0
+2022-06-04,22,Partly cloudy,75,18,0.0
+2022-06-05,23,Partly cloudy,70,10,0.0
+2022-06-06,22,Overcast,69,16,0.0
+2022-06-07,20,Patchy rain possible,75,17,0.5
+2022-06-08,20,Heavy rain at times,75,14,4.8
+2022-06-09,21,Sunny,68,5,0.0
+2022-06-10,24,Patchy rain possible,63,8,0.4
+2022-06-11,22,Moderate or heavy rain shower,71,16,6.1
+2022-06-12,20,Moderate or heavy rain shower,84,15,12.1
+2022-06-13,23,Overcast,77,18,0.0
+2022-06-14,24,Sunny,69,13,0.0
+2022-06-15,23,Moderate rain at times,71,21,0.7
+2022-06-16,22,Sunny,60,24,0.0
+2022-06-17,22,Sunny,69,20,0.0
+2022-06-18,22,Sunny,67,22,0.0
+2022-06-19,22,Sunny,65,25,0.0
+2022-06-20,22,Patchy rain possible,68,19,1.4
+2022-06-21,23,Patchy rain possible,64,10,1.1
+2022-06-22,25,Sunny,64,9,0.2
+2022-06-23,23,Partly cloudy,60,13,0.5
+2022-06-24,23,Heavy rain at times,56,11,1.3
+2022-06-25,23,Patchy rain possible,57,10,0.3
+2022-06-26,23,Patchy rain possible,56,10,0.1
+2022-06-27,23,Patchy rain possible,65,11,1.6
+2022-06-28,23,Patchy rain possible,75,17,6.1
+2022-06-29,23,Patchy rain possible,73,17,1.5
+2022-06-30,24,Patchy rain possible,69,15,0.2
+2022-07-01,25,Sunny,67,17,0.0
+2022-07-02,25,Sunny,63,21,0.0
+2022-07-03,24,Sunny,57,29,0.0
+2022-07-04,24,Sunny,58,28,0.0
+2022-07-05,25,Sunny,60,26,0.0
+2022-07-06,26,Partly cloudy,64,22,0.0
+2022-07-07,26,Partly cloudy,67,16,0.4
+2022-07-08,25,Patchy rain possible,62,14,1.5
+2022-07-09,25,Patchy rain possible,69,20,2.2
+2022-07-10,23,Moderate or heavy rain shower,62,17,20.7
+2022-07-11,24,Patchy rain possible,54,12,0.4
+2022-07-12,24,Patchy rain possible,55,18,0.2
+2022-07-13,24,Patchy rain possible,56,15,0.8
+2022-07-14,24,Sunny,52,20,0.0
+2022-07-15,25,Sunny,63,24,0.0
+2022-07-16,25,Sunny,61,17,0.0
+2022-07-17,26,Sunny,58,19,0.0
+2022-07-18,25,Patchy rain possible,58,28,0.2
+2022-07-19,24,Sunny,56,27,0.0
+2022-07-20,25,Sunny,57,26,0.0
+2022-07-21,24,Sunny,58,12,0.0
+2022-07-22,25,Sunny,52,12,0.0
+2022-07-23,26,Sunny,46,10,0.0
+2022-07-24,27,Sunny,47,14,0.0
+2022-07-25,26,Sunny,50,18,0.0
+2022-07-26,26,Sunny,54,17,0.0
+2022-07-27,27,Sunny,43,20,0.0
+2022-07-28,26,Sunny,62,27,0.0
+2022-07-29,27,Sunny,62,27,0.0
+2022-07-30,27,Sunny,61,22,0.0
+2022-07-31,27,Patchy rain possible,67,20,1.3
+2022-08-01,27,Patchy rain possible,57,14,0.6
+2022-08-02,26,Patchy rain possible,62,17,0.2
+2022-08-03,26,Patchy rain possible,63,20,0.5
+2022-08-04,26,Sunny,67,23,0.0
+2022-08-05,26,Patchy rain possible,65,18,0.1
+2022-08-06,26,Patchy rain possible,67,22,0.2
+2022-08-07,27,Patchy rain possible,65,24,0.5
+2022-08-08,28,Patchy rain possible,58,28,0.8
+2022-08-09,28,Patchy rain possible,60,22,0.1
+2022-08-10,27,Heavy rain at times,69,20,1.9
+2022-08-11,25,Patchy rain possible,70,25,0.9
+2022-08-12,26,Patchy rain possible,67,18,1.3
+2022-08-13,27,Patchy rain possible,63,16,0.1
+2022-08-14,26,Patchy rain possible,65,13,0.3
+2022-08-15,25,Moderate or heavy rain shower,69,10,7.4
+2022-08-16,27,Sunny,59,9,0.0
+2022-08-17,28,Sunny,53,7,0.0
+2022-08-18,28,Patchy rain possible,50,8,0.3
+2022-08-19,27,Patchy rain possible,57,12,1.0
+2022-08-20,27,Sunny,62,14,0.0
+2022-08-21,26,Partly cloudy,71,19,0.0
+2022-08-22,27,Partly cloudy,72,17,0.0
+2022-08-23,27,Partly cloudy,73,14,0.0
+2022-08-24,27,Partly cloudy,73,16,0.1
+2022-08-25,26,Heavy rain at times,65,9,3.8
+2022-08-26,26,Patchy rain possible,65,5,0.2
+2022-08-27,27,Patchy rain possible,60,7,0.5
+2022-08-28,28,Sunny,48,7,0.0
+2022-08-29,28,Sunny,48,14,0.0
+2022-08-30,28,Patchy rain possible,61,18,0.2
+2022-08-31,27,Moderate or heavy rain shower,73,16,4.3
+2022-09-01,27,Heavy rain at times,66,13,2.5
+2022-09-02,27,Patchy rain possible,69,14,2.3
+2022-09-03,25,Patchy rain possible,72,13,1.6
+2022-09-04,24,Patchy rain possible,69,22,1.8
+2022-09-05,23,Patchy rain possible,63,27,1.7
+2022-09-06,23,Patchy rain possible,55,28,0.4
+2022-09-07,23,Sunny,49,27,0.0
+2022-09-08,23,Partly cloudy,55,22,0.0
+2022-09-09,24,Sunny,58,16,0.0
+2022-09-10,24,Sunny,60,9,0.0
+2022-09-11,25,Patchy rain possible,59,10,0.1
+2022-09-12,22,Moderate or heavy rain shower,67,16,3.9
+2022-09-13,21,Heavy rain at times,58,11,4.6
+2022-09-14,23,Sunny,52,9,0.0
+2022-09-15,24,Sunny,45,13,0.0
+2022-09-16,26,Sunny,48,14,0.0
+2022-09-17,26,Sunny,49,11,0.0
+2022-09-18,24,Moderate or heavy rain shower,55,15,10.1
+2022-09-19,21,Partly cloudy,61,20,0.0
+2022-09-20,20,Patchy rain possible,57,18,0.3
+2022-09-21,20,Patchy rain possible,49,18,1.6
+2022-09-22,16,Moderate or heavy rain shower,63,20,19.7
+2022-09-23,17,Moderate or heavy rain shower,57,13,4.7
+2022-09-24,18,Sunny,49,7,0.1
+2022-09-25,19,Overcast,41,9,0.0
+2022-09-26,20,Partly cloudy,42,10,0.0
+2022-09-27,22,Patchy rain possible,51,16,1.1
+2022-09-28,22,Patchy rain possible,72,17,0.1
+2022-09-29,24,Sunny,63,12,0.0
+2022-09-30,24,Sunny,60,9,0.0
+2022-10-01,23,Sunny,62,8,0.0
+2022-10-02,22,Heavy rain at times,61,15,2.9
+2022-10-03,20,Sunny,53,16,0.6
+2022-10-04,18,Heavy rain at times,55,16,1.9
+2022-10-05,18,Patchy rain possible,54,22,1.1
+2022-10-06,19,Partly cloudy,58,26,0.0
+2022-10-07,19,Patchy rain possible,62,30,4.0
+2022-10-08,20,Patchy rain possible,64,22,2.4
+2022-10-09,19,Patchy rain possible,66,11,0.1
+2022-10-10,19,Patchy rain possible,67,18,0.1
+2022-10-11,19,Cloudy,64,24,0.0
+2022-10-12,19,Cloudy,59,23,0.0
+2022-10-13,19,Partly cloudy,59,24,0.0
+2022-10-14,18,Overcast,63,27,0.3
+2022-10-15,17,Patchy rain possible,73,31,3.0
+2022-10-16,17,Patchy rain possible,67,27,0.9
+2022-10-17,18,Patchy rain possible,71,26,0.8
+2022-10-18,18,Patchy rain possible,74,25,0.8
+2022-10-19,17,Patchy rain possible,80,15,0.4
+2022-10-20,16,Patchy rain possible,70,18,0.7
+2022-10-21,15,Sunny,53,22,0.0
+2022-10-22,15,Partly cloudy,48,8,0.0
+2022-10-23,17,Sunny,54,11,0.0
+2022-10-24,17,Sunny,66,10,0.0
+2022-10-25,18,Sunny,51,4,0.0
+2022-10-26,18,Sunny,63,12,0.0
+2022-10-27,18,Sunny,73,17,0.0
+2022-10-28,17,Sunny,68,24,0.1
+2022-10-29,16,Cloudy,64,23,0.0
+2022-10-30,16,Sunny,68,13,0.0
+2022-10-31,16,Patchy rain possible,70,10,0.2
+2022-11-01,17,Sunny,68,14,0.0
+2022-11-02,16,Sunny,65,9,0.0
+2022-11-03,17,Overcast,64,11,0.0
+2022-11-04,17,Sunny,69,9,0.0
+2022-11-05,18,Sunny,52,6,0.0
+2022-11-06,18,Overcast,59,8,0.0
+2022-11-07,16,Overcast,72,19,0.0
+2022-11-08,14,Partly cloudy,66,14,0.0
+2022-11-09,14,Sunny,66,14,0.0
+2022-11-10,14,Sunny,67,14,0.0
+2022-11-11,14,Cloudy,72,11,0.0
+2022-11-12,15,Patchy rain possible,73,23,0.5
+2022-11-13,15,Cloudy,67,20,0.0
+2022-11-14,14,Partly cloudy,71,17,0.0
+2022-11-15,14,Partly cloudy,73,12,0.0
+2022-11-16,14,Partly cloudy,73,13,0.0
+2022-11-17,16,Patchy rain possible,68,25,1.2
+2022-11-18,16,Patchy rain possible,74,18,4.5
+2022-11-19,19,Cloudy,66,27,0.0
+2022-11-20,19,Cloudy,63,19,0.0
+2022-11-21,19,Overcast,54,25,2.9
+2022-11-22,14,Moderate or heavy rain shower,69,14,8.6
+2022-11-23,16,Heavy rain at times,65,14,5.9
+2022-11-24,14,Moderate rain at times,84,12,6.8
+2022-11-25,12,Patchy rain possible,60,20,2.5
+2022-11-26,11,Patchy rain possible,61,18,0.7
+2022-11-27,11,Patchy rain possible,61,21,0.1
+2022-11-28,12,Patchy rain possible,69,20,0.6
+2022-11-29,12,Patchy rain possible,73,11,0.2
+2022-11-30,13,Patchy rain possible,81,22,1.1
+2022-12-01,14,Heavy rain at times,84,17,7.5
+2022-12-02,13,Moderate rain at times,84,10,4.9
+2022-12-03,12,Overcast,81,21,0.3
+2022-12-04,12,Patchy rain possible,71,19,0.2
+2022-12-05,11,Patchy rain possible,78,15,0.8
+2022-12-06,11,Patchy rain possible,78,17,1.4
+2022-12-07,11,Partly cloudy,77,6,0.0
+2022-12-08,13,Cloudy,67,7,0.0
+2022-12-09,14,Patchy rain possible,72,10,0.9
+2022-12-10,15,Overcast,72,18,0.3
+2022-12-11,16,Moderate rain at times,65,23,1.1
+2022-12-12,15,Patchy rain possible,71,20,1.3
+2022-12-13,10,Moderate or heavy rain shower,82,18,11.5
+2022-12-14,9,Overcast,67,21,0.0
+2022-12-15,12,Heavy rain at times,87,9,12.5
+2022-12-16,15,Partly cloudy,82,9,0.6
+2022-12-17,15,Sunny,77,11,0.0
+2022-12-18,13,Patchy rain possible,82,19,2.5
+2022-12-19,8,Moderate rain at times,70,31,5.1
+2022-12-20,9,Overcast,57,29,0.1
+2022-12-21,9,Cloudy,62,18,0.0
+2022-12-22,9,Sunny,59,5,0.0
+2022-12-23,10,Sunny,70,9,0.0
+2022-12-24,10,Sunny,68,8,0.1
+2022-12-25,11,Moderate rain at times,71,9,3.1
+2022-12-26,9,Partly cloudy,70,9,0.1
+2022-12-27,10,Partly cloudy,63,14,0.0
+2022-12-28,10,Overcast,82,17,1.1
+2022-12-29,10,Partly cloudy,78,12,0.5
+2022-12-30,10,Sunny,75,8,0.0
+2022-12-31,11,Partly cloudy,78,7,0.0
