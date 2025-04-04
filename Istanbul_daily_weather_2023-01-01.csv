@@ -1,0 +1,366 @@
+Date,Avg Temperature (C),Condition,Avg Humidity (%),Avg Wind Speed (km/h),Total Precipitation (mm)
+2023-01-01,10,Partly cloudy,72,9,0.0
+2023-01-02,10,Sunny,61,4,0.0
+2023-01-03,9,Sunny,61,11,0.0
+2023-01-04,10,Overcast,78,13,0.0
+2023-01-05,10,Sunny,80,11,0.0
+2023-01-06,11,Moderate rain at times,82,14,1.0
+2023-01-07,10,Sunny,68,9,0.0
+2023-01-08,9,Sunny,68,11,0.0
+2023-01-09,9,Overcast,70,12,0.0
+2023-01-10,11,Patchy rain possible,58,17,2.0
+2023-01-11,12,Patchy rain possible,75,12,1.3
+2023-01-12,11,Partly cloudy,80,12,0.8
+2023-01-13,10,Overcast,87,18,3.1
+2023-01-14,9,Overcast,80,18,0.0
+2023-01-15,9,Cloudy,68,18,0.0
+2023-01-16,9,Sunny,77,9,0.0
+2023-01-17,12,Overcast,66,30,0.0
+2023-01-18,15,Sunny,61,34,0.0
+2023-01-19,14,Partly cloudy,61,21,0.0
+2023-01-20,12,Moderate rain at times,58,13,3.5
+2023-01-21,13,Sunny,63,15,0.0
+2023-01-22,12,Partly cloudy,63,7,0.0
+2023-01-23,10,Partly cloudy,76,19,0.0
+2023-01-24,9,Cloudy,77,21,0.0
+2023-01-25,8,Overcast,70,22,0.0
+2023-01-26,9,Partly cloudy,71,19,0.0
+2023-01-27,10,Moderate or heavy rain shower,78,13,8.5
+2023-01-28,8,Moderate rain at times,82,17,3.0
+2023-01-29,5,Overcast,72,18,0.0
+2023-01-30,5,Overcast,68,13,0.0
+2023-01-31,5,Patchy rain possible,67,8,0.1
+2023-02-01,5,Patchy rain possible,73,14,2.9
+2023-02-02,8,Moderate rain at times,60,24,1.1
+2023-02-03,6,Moderate or heavy rain shower,71,13,6.7
+2023-02-04,6,Heavy rain at times,79,23,3.7
+2023-02-05,3,Moderate or heavy rain shower,87,37,13.9
+2023-02-06,3,Moderate or heavy rain shower,89,45,17.8
+2023-02-07,3,Heavy rain at times,79,36,7.2
+2023-02-08,3,Patchy rain possible,86,31,2.3
+2023-02-09,4,Patchy rain possible,89,25,1.7
+2023-02-10,4,Overcast,75,21,0.3
+2023-02-11,4,Overcast,65,14,0.0
+2023-02-12,4,Overcast,60,7,0.0
+2023-02-13,6,Overcast,66,18,0.0
+2023-02-14,5,Partly cloudy,59,7,0.0
+2023-02-15,5,Patchy rain possible,65,17,0.5
+2023-02-16,6,Sunny,60,7,0.0
+2023-02-17,8,Overcast,65,21,0.0
+2023-02-18,10,Cloudy,73,23,0.0
+2023-02-19,11,Sunny,76,23,0.0
+2023-02-20,9,Moderate or heavy rain shower,82,15,3.9
+2023-02-21,10,Overcast,73,18,0.0
+2023-02-22,11,Sunny,72,12,0.0
+2023-02-23,9,Cloudy,69,18,0.0
+2023-02-24,8,Sunny,67,12,0.0
+2023-02-25,12,Partly cloudy,75,22,0.0
+2023-02-26,13,Partly cloudy,63,19,0.0
+2023-02-27,14,Patchy rain possible,56,10,0.3
+2023-02-28,11,Patchy rain possible,78,19,1.9
+2023-03-01,9,Partly cloudy,84,25,6.3
+2023-03-02,9,Patchy rain possible,84,23,1.1
+2023-03-03,9,Patchy rain possible,77,14,0.4
+2023-03-04,9,Moderate rain at times,78,5,0.6
+2023-03-05,10,Moderate or heavy rain shower,86,7,18.6
+2023-03-06,10,Cloudy,76,8,4.2
+2023-03-07,11,Patchy rain possible,71,17,0.1
+2023-03-08,12,Moderate or heavy rain shower,75,16,6.1
+2023-03-09,12,Overcast,74,17,0.3
+2023-03-10,12,Overcast,74,19,0.0
+2023-03-11,12,Moderate or heavy rain shower,83,28,19.1
+2023-03-12,9,Moderate or heavy rain shower,79,24,8.6
+2023-03-13,8,Overcast,59,28,0.1
+2023-03-14,8,Cloudy,68,18,0.0
+2023-03-15,10,Overcast,68,5,0.0
+2023-03-16,10,Moderate rain at times,82,13,6.1
+2023-03-17,8,Moderate or heavy rain shower,87,28,17.5
+2023-03-18,9,Moderate rain at times,91,22,6.0
+2023-03-19,8,Patchy rain possible,84,22,1.6
+2023-03-20,10,Partly cloudy,76,7,0.0
+2023-03-21,11,Overcast,53,9,0.0
+2023-03-22,11,Moderate rain at times,65,16,7.3
+2023-03-23,9,Patchy rain possible,89,11,0.8
+2023-03-24,10,Cloudy,78,11,0.0
+2023-03-25,10,Sunny,69,5,0.0
+2023-03-26,12,Moderate rain at times,65,5,2.1
+2023-03-27,13,Sunny,68,13,0.0
+2023-03-28,9,Moderate or heavy rain shower,77,21,22.4
+2023-03-29,5,Moderate or heavy rain shower,67,18,12.0
+2023-03-30,7,Sunny,48,12,0.0
+2023-03-31,10,Patchy rain possible,53,15,0.2
+2023-04-01,13,Cloudy,66,20,0.0
+2023-04-02,13,Moderate or heavy rain shower,76,19,6.3
+2023-04-03,13,Moderate or heavy rain shower,82,16,4.6
+2023-04-04,13,Heavy rain at times,79,10,8.8
+2023-04-05,9,Moderate rain at times,86,15,3.0
+2023-04-06,9,Heavy rain at times,77,9,4.8
+2023-04-07,9,Patchy rain possible,71,17,1.8
+2023-04-08,10,Sunny,69,15,0.0
+2023-04-09,11,Partly cloudy,77,20,0.2
+2023-04-10,10,Moderate or heavy rain shower,90,23,12.4
+2023-04-11,9,Moderate rain at times,86,19,4.8
+2023-04-12,10,Heavy rain at times,85,20,11.2
+2023-04-13,11,Overcast,77,10,0.0
+2023-04-14,14,Sunny,62,16,0.0
+2023-04-15,15,Partly cloudy,63,8,0.0
+2023-04-16,15,Patchy rain possible,66,6,0.2
+2023-04-17,14,Moderate or heavy rain shower,83,10,4.2
+2023-04-18,13,Moderate or heavy rain shower,83,15,3.5
+2023-04-19,12,Overcast,83,10,0.3
+2023-04-20,13,Patchy rain possible,75,7,0.1
+2023-04-21,13,Patchy rain possible,77,9,0.8
+2023-04-22,13,Partly cloudy,66,15,0.0
+2023-04-23,12,Overcast,70,18,0.0
+2023-04-24,12,Sunny,72,7,0.0
+2023-04-25,15,Overcast,64,10,0.0
+2023-04-26,14,Moderate or heavy rain shower,82,11,24.7
+2023-04-27,11,Moderate or heavy rain shower,80,21,15.8
+2023-04-28,11,Overcast,66,17,0.0
+2023-04-29,12,Patchy rain possible,60,13,0.2
+2023-04-30,13,Overcast,59,9,0.0
+2023-05-01,14,Cloudy,57,10,0.0
+2023-05-02,15,Sunny,59,20,0.0
+2023-05-03,15,Cloudy,62,18,0.8
+2023-05-04,14,Moderate or heavy rain shower,91,13,16.8
+2023-05-05,13,Patchy rain possible,77,23,0.7
+2023-05-06,13,Moderate or heavy rain shower,88,23,10.3
+2023-05-07,13,Overcast,89,17,0.0
+2023-05-08,14,Partly cloudy,74,13,0.0
+2023-05-09,14,Patchy rain possible,79,23,0.2
+2023-05-10,13,Overcast,82,23,0.0
+2023-05-11,13,Cloudy,75,29,0.0
+2023-05-12,13,Patchy rain possible,77,25,0.4
+2023-05-13,14,Sunny,69,12,0.0
+2023-05-14,15,Partly cloudy,65,13,0.4
+2023-05-15,17,Cloudy,54,11,0.0
+2023-05-16,18,Sunny,61,18,0.0
+2023-05-17,16,Moderate or heavy rain shower,88,14,11.2
+2023-05-18,15,Moderate or heavy rain shower,85,11,12.9
+2023-05-19,15,Patchy rain possible,82,11,1.0
+2023-05-20,16,Heavy rain at times,83,15,2.5
+2023-05-21,16,Overcast,82,11,0.0
+2023-05-22,17,Overcast,75,20,0.1
+2023-05-23,16,Patchy rain possible,83,10,0.4
+2023-05-24,16,Cloudy,76,7,0.0
+2023-05-25,17,Overcast,73,11,0.0
+2023-05-26,18,Patchy rain possible,72,11,0.1
+2023-05-27,18,Sunny,72,16,0.0
+2023-05-28,18,Patchy rain possible,79,21,0.1
+2023-05-29,18,Patchy rain possible,84,17,0.2
+2023-05-30,18,Patchy rain possible,82,9,1.0
+2023-05-31,19,Patchy rain possible,70,10,5.9
+2023-06-01,20,Sunny,69,19,0.0
+2023-06-02,20,Sunny,65,18,0.0
+2023-06-03,19,Overcast,76,18,2.2
+2023-06-04,19,Heavy rain at times,80,18,3.3
+2023-06-05,19,Overcast,71,21,0.0
+2023-06-06,20,Overcast,74,25,0.0
+2023-06-07,20,Sunny,71,25,0.0
+2023-06-08,20,Partly cloudy,75,20,0.0
+2023-06-09,20,Cloudy,74,14,0.0
+2023-06-10,20,Sunny,64,8,0.0
+2023-06-11,20,Sunny,64,11,0.0
+2023-06-12,20,Patchy rain possible,70,20,0.5
+2023-06-13,20,Cloudy,68,19,0.0
+2023-06-14,20,Patchy rain possible,76,10,0.9
+2023-06-15,21,Overcast,73,14,0.0
+2023-06-16,22,Sunny,70,19,0.0
+2023-06-17,22,Patchy rain possible,75,17,2.7
+2023-06-18,22,Moderate rain at times,71,12,2.9
+2023-06-19,22,Patchy rain possible,71,13,2.1
+2023-06-20,21,Heavy rain at times,69,10,5.9
+2023-06-21,22,Sunny,67,11,0.0
+2023-06-22,23,Sunny,61,13,0.0
+2023-06-23,23,Sunny,63,19,0.0
+2023-06-24,24,Sunny,55,18,0.0
+2023-06-25,23,Sunny,67,16,0.0
+2023-06-26,23,Patchy rain possible,74,14,0.1
+2023-06-27,24,Overcast,65,16,0.5
+2023-06-28,24,Sunny,55,11,0.0
+2023-06-29,22,Patchy rain possible,70,17,0.2
+2023-06-30,22,Sunny,49,8,0.0
+2023-07-01,24,Sunny,46,11,0.0
+2023-07-02,25,Sunny,50,7,0.0
+2023-07-03,26,Cloudy,55,14,0.0
+2023-07-04,26,Sunny,61,17,0.0
+2023-07-05,25,Sunny,67,22,0.0
+2023-07-06,26,Overcast,61,18,0.6
+2023-07-07,26,Cloudy,60,9,1.5
+2023-07-08,23,Moderate or heavy rain shower,72,21,35.0
+2023-07-09,24,Cloudy,56,22,0.1
+2023-07-10,24,Partly cloudy,53,11,0.0
+2023-07-11,25,Partly cloudy,51,9,0.0
+2023-07-12,26,Sunny,52,10,0.0
+2023-07-13,27,Sunny,44,9,0.0
+2023-07-14,28,Cloudy,44,10,0.0
+2023-07-15,27,Sunny,58,23,0.0
+2023-07-16,26,Sunny,60,23,0.0
+2023-07-17,26,Sunny,56,23,0.0
+2023-07-18,26,Sunny,54,21,0.0
+2023-07-19,26,Sunny,54,18,0.0
+2023-07-20,27,Sunny,46,9,0.0
+2023-07-21,27,Sunny,56,12,0.0
+2023-07-22,27,Sunny,51,9,0.0
+2023-07-23,28,Sunny,50,11,0.0
+2023-07-24,27,Sunny,60,18,0.1
+2023-07-25,27,Sunny,48,9,0.0
+2023-07-26,29,Sunny,40,9,0.0
+2023-07-27,26,Heavy rain at times,55,23,1.3
+2023-07-28,24,Sunny,52,13,0.0
+2023-07-29,25,Sunny,48,20,0.0
+2023-07-30,25,Sunny,57,21,0.0
+2023-07-31,25,Sunny,61,20,0.0
+2023-08-01,25,Patchy rain possible,66,17,0.3
+2023-08-02,25,Sunny,61,7,0.0
+2023-08-03,28,Sunny,46,9,0.0
+2023-08-04,29,Sunny,48,19,0.0
+2023-08-05,27,Sunny,67,16,0.0
+2023-08-06,27,Sunny,60,16,0.0
+2023-08-07,26,Cloudy,60,17,0.0
+2023-08-08,25,Overcast,66,28,0.0
+2023-08-09,24,Overcast,64,29,0.0
+2023-08-10,25,Patchy rain possible,64,18,0.6
+2023-08-11,24,Patchy rain possible,55,20,0.9
+2023-08-12,25,Sunny,59,26,0.0
+2023-08-13,25,Overcast,68,32,0.0
+2023-08-14,26,Overcast,77,29,0.0
+2023-08-15,25,Overcast,80,14,0.0
+2023-08-16,25,Cloudy,74,17,0.0
+2023-08-17,26,Sunny,68,26,0.0
+2023-08-18,26,Sunny,63,30,0.0
+2023-08-19,26,Sunny,62,31,0.0
+2023-08-20,26,Sunny,61,23,0.0
+2023-08-21,26,Sunny,62,20,0.0
+2023-08-22,27,Sunny,54,22,0.0
+2023-08-23,27,Sunny,59,23,0.0
+2023-08-24,27,Sunny,60,21,0.0
+2023-08-25,26,Sunny,59,21,0.0
+2023-08-26,26,Sunny,59,26,0.0
+2023-08-27,26,Partly cloudy,68,23,0.0
+2023-08-28,26,Cloudy,65,15,0.0
+2023-08-29,26,Sunny,62,13,0.0
+2023-08-30,25,Sunny,64,7,0.0
+2023-08-31,26,Overcast,56,11,0.0
+2023-09-01,25,Moderate rain at times,63,13,6.5
+2023-09-02,26,Sunny,62,23,0.1
+2023-09-03,25,Patchy rain possible,59,24,0.3
+2023-09-04,24,Sunny,58,21,0.0
+2023-09-05,24,Patchy rain possible,70,30,0.3
+2023-09-06,25,Patchy rain possible,71,26,0.1
+2023-09-07,25,Sunny,64,28,0.0
+2023-09-08,24,Moderate rain at times,61,29,0.5
+2023-09-09,23,Sunny,54,26,0.0
+2023-09-10,23,Patchy rain possible,56,29,0.2
+2023-09-11,22,Overcast,57,28,0.0
+2023-09-12,23,Partly cloudy,53,21,0.0
+2023-09-13,22,Sunny,57,16,0.0
+2023-09-14,22,Partly cloudy,54,15,0.0
+2023-09-15,23,Sunny,55,13,0.0
+2023-09-16,23,Partly cloudy,64,20,0.0
+2023-09-17,23,Overcast,70,24,0.0
+2023-09-18,22,Cloudy,59,30,0.0
+2023-09-19,22,Partly cloudy,59,22,0.0
+2023-09-20,21,Overcast,64,11,0.0
+2023-09-21,22,Sunny,60,13,0.0
+2023-09-22,22,Partly cloudy,48,6,0.0
+2023-09-23,25,Sunny,41,8,0.0
+2023-09-24,24,Sunny,53,17,0.0
+2023-09-25,23,Overcast,74,25,0.0
+2023-09-26,23,Overcast,72,28,0.0
+2023-09-27,23,Cloudy,69,26,0.0
+2023-09-28,22,Moderate or heavy rain shower,74,13,17.8
+2023-09-29,21,Patchy rain possible,69,9,2.6
+2023-09-30,21,Moderate or heavy rain shower,72,9,18.6
+2023-10-01,20,Moderate or heavy rain shower,76,17,16.4
+2023-10-02,20,Moderate rain at times,63,19,2.9
+2023-10-03,20,Partly cloudy,54,20,0.0
+2023-10-04,19,Sunny,58,13,0.0
+2023-10-05,20,Overcast,62,15,0.0
+2023-10-06,20,Sunny,62,12,0.0
+2023-10-07,21,Cloudy,62,20,0.0
+2023-10-08,21,Sunny,56,11,0.0
+2023-10-09,17,Patchy rain possible,58,27,0.1
+2023-10-10,16,Overcast,46,12,0.0
+2023-10-11,18,Overcast,60,24,0.0
+2023-10-12,18,Sunny,64,18,0.0
+2023-10-13,18,Sunny,65,6,0.0
+2023-10-14,20,Sunny,65,13,0.0
+2023-10-15,19,Sunny,68,7,0.0
+2023-10-16,17,Moderate or heavy rain shower,71,23,5.4
+2023-10-17,17,Overcast,62,21,0.0
+2023-10-18,15,Moderate or heavy rain shower,76,18,11.3
+2023-10-19,16,Cloudy,73,8,0.0
+2023-10-20,19,Sunny,65,19,0.0
+2023-10-21,21,Sunny,65,15,0.0
+2023-10-22,21,Sunny,62,7,0.0
+2023-10-23,21,Partly cloudy,54,5,0.0
+2023-10-24,20,Sunny,61,5,0.0
+2023-10-25,20,Overcast,62,13,0.0
+2023-10-26,21,Overcast,60,23,0.0
+2023-10-27,21,Sunny,63,20,0.0
+2023-10-28,21,Partly cloudy,69,19,0.0
+2023-10-29,20,Partly cloudy,77,9,0.0
+2023-10-30,20,Partly cloudy,79,17,0.0
+2023-10-31,19,Patchy rain possible,82,6,0.2
+2023-11-01,20,Patchy rain possible,70,12,0.1
+2023-11-02,18,Moderate or heavy rain shower,72,10,22.1
+2023-11-03,19,Sunny,73,16,1.8
+2023-11-04,22,Cloudy,55,24,1.8
+2023-11-05,20,Sunny,67,29,7.4
+2023-11-06,20,Cloudy,71,22,0.0
+2023-11-07,20,Overcast,70,3,0.0
+2023-11-08,19,Overcast,72,10,0.0
+2023-11-09,15,Moderate or heavy rain shower,74,19,12.5
+2023-11-10,15,Partly cloudy,63,13,0.0
+2023-11-11,19,Moderate or heavy rain shower,66,31,18.4
+2023-11-12,18,Overcast,58,15,0.4
+2023-11-13,17,Moderate or heavy rain shower,74,13,24.4
+2023-11-14,15,Sunny,56,9,0.0
+2023-11-15,17,Sunny,61,19,0.1
+2023-11-16,14,Moderate or heavy rain shower,69,14,26.2
+2023-11-17,15,Patchy rain possible,59,13,0.6
+2023-11-18,13,Moderate or heavy rain shower,71,31,53.4
+2023-11-19,8,Moderate or heavy rain shower,82,40,15.5
+2023-11-20,11,Moderate or heavy rain shower,64,19,5.4
+2023-11-21,14,Cloudy,59,14,0.1
+2023-11-22,16,Overcast,70,12,0.0
+2023-11-23,13,Patchy rain possible,85,17,7.4
+2023-11-24,15,Moderate or heavy rain shower,84,18,9.7
+2023-11-25,17,Patchy rain possible,66,34,0.1
+2023-11-26,10,Moderate rain at times,66,36,7.3
+2023-11-27,6,Overcast,51,23,0.0
+2023-11-28,12,Patchy rain possible,54,36,1.5
+2023-11-29,15,Moderate or heavy rain shower,80,39,42.4
+2023-11-30,13,Overcast,78,15,14.1
+2023-12-01,16,Sunny,77,28,0.0
+2023-12-02,17,Sunny,68,37,0.0
+2023-12-03,17,Overcast,64,26,0.0
+2023-12-04,10,Moderate or heavy rain shower,83,28,4.7
+2023-12-05,11,Overcast,80,22,0.0
+2023-12-06,12,Patchy rain possible,82,11,3.5
+2023-12-07,12,Heavy rain at times,84,10,6.7
+2023-12-08,8,Patchy rain possible,85,32,4.0
+2023-12-09,8,Heavy rain at times,85,32,14.4
+2023-12-10,9,Overcast,74,7,0.2
+2023-12-11,10,Overcast,76,10,0.0
+2023-12-12,10,Overcast,79,8,0.0
+2023-12-13,11,Cloudy,71,9,0.0
+2023-12-14,14,Partly cloudy,62,22,0.0
+2023-12-15,12,Moderate or heavy rain shower,77,21,45.2
+2023-12-16,8,Moderate or heavy rain shower,86,36,20.8
+2023-12-17,7,Overcast,68,24,2.5
+2023-12-18,8,Sunny,67,11,0.0
+2023-12-19,10,Sunny,58,7,0.0
+2023-12-20,10,Sunny,63,9,0.0
+2023-12-21,11,Heavy rain at times,74,11,5.7
+2023-12-22,11,Moderate or heavy rain shower,79,21,7.2
+2023-12-23,11,Moderate rain at times,58,26,1.5
+2023-12-24,12,Overcast,74,17,0.0
+2023-12-25,12,Sunny,78,20,0.0
+2023-12-26,13,Partly cloudy,73,15,0.0
+2023-12-27,12,Patchy rain possible,76,14,0.1
+2023-12-28,12,Sunny,72,6,0.0
+2023-12-29,11,Sunny,72,8,0.0
+2023-12-30,12,Overcast,70,9,0.0
+2023-12-31,13,Overcast,73,5,0.1
