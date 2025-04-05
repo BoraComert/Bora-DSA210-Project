@@ -1,0 +1,367 @@
+Date,Avg Temperature (C),Condition,Avg Humidity (%),Avg Wind Speed (km/h),Total Precipitation (mm)
+2024-01-01,13,Overcast,73,10,0.0
+2024-01-02,12,Moderate or heavy rain shower,82,16,7.7
+2024-01-03,11,Patchy rain possible,85,13,2.6
+2024-01-04,12,Overcast,86,17,0.0
+2024-01-05,12,Sunny,74,13,1.9
+2024-01-06,12,Overcast,61,10,0.0
+2024-01-07,13,Moderate or heavy rain shower,70,25,9.4
+2024-01-08,12,Patchy rain possible,74,32,0.2
+2024-01-09,6,Moderate or heavy rain shower,88,35,15.9
+2024-01-10,6,Heavy rain at times,75,36,10.9
+2024-01-11,5,Overcast,64,16,0.0
+2024-01-12,4,Patchy rain possible,68,16,0.3
+2024-01-13,3,Overcast,58,19,0.0
+2024-01-14,5,Overcast,56,12,0.0
+2024-01-15,9,Cloudy,60,26,0.0
+2024-01-16,10,Moderate or heavy rain shower,79,26,11.6
+2024-01-17,9,Partly cloudy,77,9,0.0
+2024-01-18,11,Moderate rain at times,81,25,1.0
+2024-01-19,13,Patchy rain possible,80,30,0.7
+2024-01-20,8,Moderate or heavy rain shower,91,28,17.8
+2024-01-21,6,Moderate rain at times,72,33,4.7
+2024-01-22,6,Patchy rain possible,58,28,0.3
+2024-01-23,6,Sunny,66,16,0.0
+2024-01-24,6,Patchy rain possible,72,20,0.2
+2024-01-25,7,Overcast,71,16,1.4
+2024-01-26,7,Patchy rain possible,71,9,1.9
+2024-01-27,6,Moderate rain at times,79,16,7.2
+2024-01-28,6,Patchy rain possible,71,23,0.8
+2024-01-29,5,Moderate or heavy rain shower,76,28,6.1
+2024-01-30,6,Patchy rain possible,71,31,4.8
+2024-01-31,6,Overcast,72,30,0.0
+2024-02-01,7,Overcast,63,15,0.0
+2024-02-02,6,Overcast,68,15,0.3
+2024-02-03,7,Partly cloudy,65,10,0.2
+2024-02-04,8,Patchy rain possible,71,18,0.3
+2024-02-05,10,Overcast,79,24,0.0
+2024-02-06,11,Sunny,75,15,0.0
+2024-02-07,11,Overcast,77,17,0.0
+2024-02-08,13,Patchy rain possible,72,20,1.3
+2024-02-09,12,Sunny,72,16,0.0
+2024-02-10,13,Overcast,69,24,0.0
+2024-02-11,13,Cloudy,67,24,0.0
+2024-02-12,13,Patchy rain possible,68,14,4.3
+2024-02-13,11,Patchy rain possible,79,12,2.8
+2024-02-14,9,Overcast,82,20,0.5
+2024-02-15,7,Moderate rain at times,85,28,7.7
+2024-02-16,8,Moderate rain at times,85,19,6.1
+2024-02-17,7,Overcast,81,20,0.0
+2024-02-18,7,Overcast,70,12,0.0
+2024-02-19,7,Overcast,75,14,0.0
+2024-02-20,7,Sunny,71,14,0.0
+2024-02-21,7,Overcast,64,8,0.0
+2024-02-22,9,Sunny,58,5,0.0
+2024-02-23,11,Partly cloudy,63,12,0.0
+2024-02-24,13,Sunny,68,13,0.0
+2024-02-25,13,Overcast,65,7,0.0
+2024-02-26,12,Overcast,66,11,0.0
+2024-02-27,10,Partly cloudy,78,12,0.0
+2024-02-28,10,Sunny,69,8,0.0
+2024-02-29,11,Sunny,64,10,0.0
+2024-03-01,11,Cloudy,72,12,0.0
+2024-03-02,10,Overcast,79,10,0.0
+2024-03-03,10,Moderate rain at times,72,9,1.0
+2024-03-04,9,Sunny,67,6,0.0
+2024-03-05,11,Heavy rain at times,75,11,2.4
+2024-03-06,9,Patchy rain possible,78,15,0.9
+2024-03-07,9,Partly cloudy,71,10,0.0
+2024-03-08,8,Moderate or heavy rain shower,73,21,18.4
+2024-03-09,8,Patchy rain possible,76,12,0.4
+2024-03-10,8,Sunny,65,6,0.0
+2024-03-11,11,Overcast,56,8,0.0
+2024-03-12,12,Moderate or heavy rain shower,65,13,3.6
+2024-03-13,12,Moderate rain at times,79,17,3.7
+2024-03-14,11,Moderate rain at times,80,7,2.2
+2024-03-15,8,Moderate rain at times,82,12,4.4
+2024-03-16,9,Patchy rain possible,66,6,0.7
+2024-03-17,10,Overcast,65,12,0.0
+2024-03-18,9,Partly cloudy,61,6,0.0
+2024-03-19,11,Partly cloudy,58,9,0.0
+2024-03-20,8,Moderate rain at times,76,25,5.1
+2024-03-21,7,Heavy rain at times,66,8,2.7
+2024-03-22,8,Moderate or heavy rain shower,73,16,2.6
+2024-03-23,8,Sunny,61,5,0.0
+2024-03-24,10,Overcast,63,12,0.0
+2024-03-25,10,Moderate or heavy rain shower,72,22,14.2
+2024-03-26,11,Cloudy,63,14,0.1
+2024-03-27,14,Heavy rain at times,56,12,3.3
+2024-03-28,15,Patchy rain possible,59,11,0.5
+2024-03-29,14,Sunny,74,8,0.0
+2024-03-30,15,Overcast,63,5,0.0
+2024-03-31,15,Sunny,67,7,0.0
+2024-04-01,15,Sunny,64,8,0.0
+2024-04-02,16,Cloudy,59,9,0.0
+2024-04-03,16,Overcast,49,15,0.0
+2024-04-04,15,Overcast,52,11,0.0
+2024-04-05,13,Partly cloudy,57,5,0.0
+2024-04-06,14,Sunny,51,8,0.0
+2024-04-07,12,Heavy rain at times,77,14,5.4
+2024-04-08,13,Sunny,65,21,0.0
+2024-04-09,13,Sunny,71,14,0.0
+2024-04-10,14,Sunny,69,12,0.0
+2024-04-11,14,Sunny,71,16,0.0
+2024-04-12,15,Sunny,72,15,0.0
+2024-04-13,15,Sunny,70,13,0.0
+2024-04-14,15,Partly cloudy,61,8,0.0
+2024-04-15,16,Sunny,58,5,0.0
+2024-04-16,18,Cloudy,58,11,0.0
+2024-04-17,18,Patchy rain possible,52,15,0.3
+2024-04-18,16,Patchy rain possible,69,18,0.2
+2024-04-19,13,Moderate rain at times,71,19,6.3
+2024-04-20,12,Moderate or heavy rain shower,86,26,21.8
+2024-04-21,14,Sunny,66,12,0.0
+2024-04-22,15,Moderate rain at times,67,16,2.6
+2024-04-23,17,Patchy rain possible,66,20,0.4
+2024-04-24,18,Sunny,62,9,0.0
+2024-04-25,17,Partly cloudy,75,7,0.1
+2024-04-26,16,Cloudy,65,11,0.1
+2024-04-27,15,Sunny,72,25,0.0
+2024-04-28,15,Moderate or heavy rain shower,81,21,18.7
+2024-04-29,14,Patchy rain possible,87,20,0.1
+2024-04-30,14,Patchy rain possible,89,18,0.2
+2024-05-01,14,Patchy rain possible,90,23,6.6
+2024-05-02,14,Patchy rain possible,84,8,0.1
+2024-05-03,14,Moderate or heavy rain shower,84,7,7.6
+2024-05-04,13,Patchy rain possible,85,12,0.4
+2024-05-05,14,Overcast,69,20,2.7
+2024-05-06,14,Sunny,56,9,0.0
+2024-05-07,15,Sunny,44,5,0.0
+2024-05-08,17,Sunny,61,10,0.0
+2024-05-09,16,Overcast,77,23,0.0
+2024-05-10,15,Patchy rain possible,75,30,9.8
+2024-05-11,14,Patchy rain possible,76,27,9.5
+2024-05-12,14,Partly cloudy,64,11,0.0
+2024-05-13,13,Moderate or heavy rain shower,76,18,4.3
+2024-05-14,13,Overcast,60,13,0.0
+2024-05-15,14,Overcast,62,17,0.0
+2024-05-16,15,Partly cloudy,66,15,0.2
+2024-05-17,16,Heavy rain at times,64,16,5.9
+2024-05-18,16,Sunny,65,12,0.0
+2024-05-19,16,Moderate rain at times,72,17,0.5
+2024-05-20,17,Cloudy,70,19,0.0
+2024-05-21,17,Sunny,67,15,0.0
+2024-05-22,18,Cloudy,62,12,0.0
+2024-05-23,18,Overcast,67,15,6.1
+2024-05-24,18,Heavy rain at times,75,14,6.8
+2024-05-25,18,Overcast,75,15,0.0
+2024-05-26,18,Overcast,73,23,0.0
+2024-05-27,16,Patchy rain possible,78,18,0.3
+2024-05-28,17,Patchy rain possible,72,7,0.2
+2024-05-29,18,Sunny,63,5,0.0
+2024-05-30,20,Sunny,58,7,0.0
+2024-05-31,21,Sunny,59,6,0.0
+2024-06-01,21,Sunny,58,6,0.0
+2024-06-02,23,Sunny,54,6,0.0
+2024-06-03,25,Sunny,48,9,0.0
+2024-06-04,24,Overcast,47,8,0.0
+2024-06-05,24,Sunny,60,12,0.0
+2024-06-06,24,Patchy rain possible,58,18,0.4
+2024-06-07,23,Sunny,62,22,0.0
+2024-06-08,22,Sunny,66,20,0.0
+2024-06-09,23,Partly cloudy,63,15,0.0
+2024-06-10,24,Sunny,51,8,0.0
+2024-06-11,25,Sunny,45,7,0.0
+2024-06-12,26,Sunny,57,11,0.0
+2024-06-13,25,Sunny,65,14,0.0
+2024-06-14,24,Moderate rain at times,68,16,8.3
+2024-06-15,21,Patchy rain possible,68,13,0.3
+2024-06-16,23,Sunny,56,13,0.0
+2024-06-17,24,Sunny,51,14,0.0
+2024-06-18,25,Sunny,57,23,0.0
+2024-06-19,24,Sunny,62,24,0.0
+2024-06-20,25,Sunny,62,21,0.0
+2024-06-21,25,Sunny,66,26,0.0
+2024-06-22,24,Sunny,60,25,0.0
+2024-06-23,24,Sunny,63,25,0.0
+2024-06-24,24,Partly cloudy,69,20,0.0
+2024-06-25,24,Partly cloudy,66,24,0.0
+2024-06-26,24,Sunny,63,24,0.0
+2024-06-27,24,Sunny,60,24,0.0
+2024-06-28,24,Sunny,61,29,0.0
+2024-06-29,25,Sunny,59,26,0.0
+2024-06-30,25,Sunny,58,22,0.0
+2024-07-01,25,Sunny,63,17,0.0
+2024-07-02,25,Sunny,54,11,0.0
+2024-07-03,26,Overcast,52,16,0.0
+2024-07-04,25,Patchy rain possible,70,14,3.1
+2024-07-05,24,Moderate or heavy rain shower,60,12,3.6
+2024-07-06,25,Patchy rain possible,63,20,0.2
+2024-07-07,26,Sunny,63,23,0.0
+2024-07-08,26,Sunny,64,19,0.0
+2024-07-09,27,Sunny,63,20,0.0
+2024-07-10,27,Partly cloudy,67,18,0.0
+2024-07-11,26,Moderate or heavy rain shower,69,13,8.8
+2024-07-12,27,Patchy rain possible,65,15,0.7
+2024-07-13,27,Partly cloudy,65,16,0.0
+2024-07-14,27,Sunny,54,19,0.0
+2024-07-15,27,Sunny,55,18,0.0
+2024-07-16,28,Sunny,53,18,0.0
+2024-07-17,28,Partly cloudy,59,15,0.0
+2024-07-18,29,Sunny,60,18,0.0
+2024-07-19,27,Sunny,68,21,0.0
+2024-07-20,28,Sunny,62,19,0.1
+2024-07-21,28,Sunny,54,18,0.0
+2024-07-22,28,Sunny,53,15,0.0
+2024-07-23,28,Sunny,61,22,0.0
+2024-07-24,27,Patchy rain possible,59,20,0.3
+2024-07-25,27,Patchy rain possible,58,20,0.3
+2024-07-26,25,Heavy rain at times,62,17,3.8
+2024-07-27,25,Patchy rain possible,60,17,0.3
+2024-07-28,27,Sunny,59,21,0.1
+2024-07-29,28,Sunny,54,23,0.0
+2024-07-30,26,Patchy rain possible,61,24,0.5
+2024-07-31,25,Sunny,54,21,0.0
+2024-08-01,25,Sunny,58,21,0.0
+2024-08-02,26,Sunny,56,18,0.0
+2024-08-03,26,Sunny,54,10,0.0
+2024-08-04,28,Sunny,51,13,0.0
+2024-08-05,26,Sunny,60,22,0.0
+2024-08-06,26,Sunny,53,8,0.0
+2024-08-07,25,Sunny,56,17,0.2
+2024-08-08,25,Sunny,62,17,0.0
+2024-08-09,26,Partly cloudy,63,18,0.0
+2024-08-10,27,Sunny,59,17,0.0
+2024-08-11,27,Sunny,59,20,0.0
+2024-08-12,27,Sunny,59,21,0.0
+2024-08-13,27,Sunny,51,22,0.0
+2024-08-14,28,Sunny,52,28,0.0
+2024-08-15,27,Sunny,52,26,0.0
+2024-08-16,26,Sunny,54,26,0.0
+2024-08-17,26,Sunny,54,25,0.0
+2024-08-18,26,Sunny,63,19,0.0
+2024-08-19,25,Patchy rain possible,64,10,1.0
+2024-08-20,25,Sunny,60,10,0.0
+2024-08-21,25,Sunny,59,15,0.0
+2024-08-22,26,Sunny,59,12,0.0
+2024-08-23,26,Partly cloudy,65,14,0.0
+2024-08-24,26,Sunny,62,19,0.0
+2024-08-25,26,Sunny,59,19,0.0
+2024-08-26,26,Sunny,66,19,0.0
+2024-08-27,26,Heavy rain at times,62,17,2.4
+2024-08-28,25,Partly cloudy,59,12,0.0
+2024-08-29,25,Patchy rain possible,59,8,0.4
+2024-08-30,24,Moderate rain at times,65,10,1.5
+2024-08-31,25,Patchy rain possible,70,10,1.7
+2024-09-01,24,Moderate or heavy rain shower,74,13,8.1
+2024-09-02,24,Moderate or heavy rain shower,74,9,22.7
+2024-09-03,25,Patchy rain possible,64,7,0.4
+2024-09-04,26,Sunny,61,13,0.0
+2024-09-05,25,Sunny,61,11,0.0
+2024-09-06,24,Sunny,58,12,0.0
+2024-09-07,24,Heavy rain at times,65,14,2.2
+2024-09-08,23,Heavy rain at times,67,19,2.6
+2024-09-09,24,Overcast,71,10,0.1
+2024-09-10,25,Partly cloudy,64,9,0.0
+2024-09-11,25,Moderate or heavy rain shower,64,12,2.1
+2024-09-12,25,Patchy rain possible,64,11,0.8
+2024-09-13,26,Overcast,58,6,0.0
+2024-09-14,26,Sunny,58,16,0.0
+2024-09-15,23,Moderate rain at times,67,16,7.8
+2024-09-16,21,Cloudy,67,14,0.5
+2024-09-17,21,Patchy rain possible,59,19,0.4
+2024-09-18,22,Patchy rain possible,63,16,1.7
+2024-09-19,21,Cloudy,61,19,0.1
+2024-09-20,21,Moderate rain at times,67,17,1.3
+2024-09-21,20,Moderate or heavy rain shower,71,22,18.3
+2024-09-22,22,Patchy rain possible,53,19,2.4
+2024-09-23,21,Patchy rain possible,58,8,1.2
+2024-09-24,22,Moderate rain at times,55,7,0.9
+2024-09-25,22,Sunny,56,8,0.0
+2024-09-26,22,Overcast,62,12,0.0
+2024-09-27,22,Sunny,67,14,0.0
+2024-09-28,23,Sunny,73,10,0.0
+2024-09-29,22,Partly cloudy,70,10,0.1
+2024-09-30,16,Light rain shower,75,24,11.6
+2024-10-01,16,Overcast,54,15,0.0
+2024-10-02,19,Overcast,56,10,0.0
+2024-10-03,20,Patchy rain possible,59,6,0.1
+2024-10-04,22,Sunny,54,7,0.0
+2024-10-05,24,Sunny,47,5,0.0
+2024-10-06,23,Moderate or heavy rain shower,64,7,3.1
+2024-10-07,21,Patchy rain possible,61,14,2.2
+2024-10-08,21,Sunny,53,17,0.0
+2024-10-09,21,Overcast,62,10,0.1
+2024-10-10,22,Partly cloudy,64,10,0.1
+2024-10-11,23,Partly cloudy,68,11,0.0
+2024-10-12,21,Moderate rain at times,73,18,2.1
+2024-10-13,18,Overcast,70,19,0.2
+2024-10-14,18,Sunny,64,12,0.0
+2024-10-15,19,Sunny,63,22,0.0
+2024-10-16,18,Overcast,68,20,0.0
+2024-10-17,16,Patchy rain possible,57,25,0.7
+2024-10-18,15,Patchy rain possible,56,19,1.1
+2024-10-19,15,Patchy rain possible,55,16,0.8
+2024-10-20,15,Cloudy,61,18,0.0
+2024-10-21,15,Overcast,59,19,0.2
+2024-10-22,15,Partly cloudy,65,18,0.0
+2024-10-23,16,Sunny,69,19,0.1
+2024-10-24,16,Sunny,67,20,0.0
+2024-10-25,15,Overcast,72,19,0.2
+2024-10-26,15,Sunny,65,21,0.0
+2024-10-27,15,Partly cloudy,64,24,0.0
+2024-10-28,15,Sunny,73,10,0.0
+2024-10-29,16,Sunny,74,16,0.0
+2024-10-30,16,Patchy rain possible,70,20,0.1
+2024-10-31,15,Patchy rain possible,69,20,0.1
+2024-11-01,16,Sunny,72,19,0.0
+2024-11-02,15,Partly cloudy,69,6,0.0
+2024-11-03,14,Patchy rain possible,64,26,0.5
+2024-11-04,13,Overcast,52,12,0.0
+2024-11-05,13,Partly cloudy,56,21,0.0
+2024-11-06,12,Sunny,57,24,0.0
+2024-11-07,14,Cloudy,63,25,0.0
+2024-11-08,14,Partly cloudy,69,26,0.0
+2024-11-09,14,Cloudy,65,21,0.0
+2024-11-10,13,Patchy rain possible,68,21,0.2
+2024-11-11,14,Patchy rain possible,77,17,0.1
+2024-11-12,14,Cloudy,79,13,0.0
+2024-11-13,14,Patchy rain possible,75,15,0.4
+2024-11-14,13,Overcast,73,12,0.0
+2024-11-15,13,Patchy rain possible,83,18,4.6
+2024-11-16,11,Patchy rain possible,70,26,2.2
+2024-11-17,12,Overcast,67,20,0.0
+2024-11-18,12,Patchy rain possible,72,9,1.6
+2024-11-19,12,Overcast,60,8,0.0
+2024-11-20,14,Sunny,66,21,0.0
+2024-11-21,15,Moderate or heavy rain shower,69,34,22.2
+2024-11-22,14,Cloudy,69,20,0.0
+2024-11-23,10,Moderate or heavy rain shower,73,30,35.0
+2024-11-24,7,Patchy rain possible,56,21,0.4
+2024-11-25,8,Patchy rain possible,55,13,0.3
+2024-11-26,9,Overcast,56,7,0.0
+2024-11-27,10,Patchy rain possible,61,10,0.4
+2024-11-28,10,Cloudy,68,6,0.0
+2024-11-29,12,Sunny,64,6,0.0
+2024-11-30,12,Sunny,65,19,0.0
+2024-12-01,12,Cloudy,74,31,0.1
+2024-12-02,11,Moderate or heavy rain shower,75,24,5.1
+2024-12-03,11,Heavy rain at times,71,20,3.9
+2024-12-04,11,Moderate rain at times,74,11,6.8
+2024-12-05,10,Overcast,80,15,0.0
+2024-12-06,11,Overcast,73,8,0.0
+2024-12-07,13,Patchy rain possible,70,11,0.1
+2024-12-08,13,Moderate rain at times,79,13,2.5
+2024-12-09,15,Heavy rain at times,71,21,14.7
+2024-12-10,14,Moderate or heavy rain shower,78,16,25.2
+2024-12-11,12,Patchy rain possible,89,10,7.3
+2024-12-12,9,Heavy rain at times,70,11,1.7
+2024-12-13,8,Patchy rain possible,63,13,0.5
+2024-12-14,8,Overcast,57,13,0.0
+2024-12-15,9,Moderate or heavy rain shower,75,21,16.4
+2024-12-16,8,Overcast,61,13,0.8
+2024-12-17,9,Partly cloudy,62,16,0.0
+2024-12-18,11,Sunny,73,8,0.0
+2024-12-19,11,Sunny,67,4,0.0
+2024-12-20,12,Sunny,65,10,0.0
+2024-12-21,12,Moderate or heavy rain shower,76,16,13.1
+2024-12-22,7,Moderate or heavy rain shower,78,16,9.0
+2024-12-23,10,Cloudy,68,13,0.0
+2024-12-24,11,Moderate rain at times,78,10,7.2
+2024-12-25,12,Overcast,71,16,0.4
+2024-12-26,10,Moderate rain at times,89,27,2.9
+2024-12-27,7,Heavy rain at times,80,29,4.9
+2024-12-28,8,Patchy rain possible,74,25,0.7
+2024-12-29,8,Moderate rain at times,78,28,3.6
+2024-12-30,8,Overcast,72,19,0.0
+2024-12-31,8,Sunny,70,9,0.0
