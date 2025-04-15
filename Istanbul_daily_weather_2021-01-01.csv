@@ -363,3 +363,6 @@ Date,Avg Temperature (C),Condition,Avg Humidity (%),Avg Wind Speed (km/h),Total 
 2021-12-28,12,Cloudy,67,20,0.0
 2021-12-29,11,Moderate rain at times,80,11,5.0
 2021-12-30,11,Overcast,76,20,0.4
+
+2021-12-31,9,Overcast,80,20,0.0
+
