@@ -1,17 +1,30 @@
 import pandas as pd
+import requests
+import matplotlib.pyplot as plt
 
-# Load the dataset with a custom User-Agent to avoid 403 error
-url = "https://ourworldindata.org/grapher/daily-median-income.csv?v=1&csvType=full&useColumnShortNames=true"
-df = pd.read_csv(url, storage_options={'User-Agent': 'Our World In Data data fetch/1.0'})
+# Step 1: Load the CSV data
+df = pd.read_csv(
+    "https://ourworldindata.org/grapher/inflation-of-consumer-prices.csv?v=1&csvType=full&useColumnShortNames=true",
+    storage_options={'User-Agent': 'Our World In Data data fetch/1.0'}
+)
 
-# Filter for Turkey
-turkey_df = df[df['Entity'] == 'United States']
+# Step 2: Load the metadata (optional, useful for descriptions/units)
+metadata = requests.get(
+    "https://ourworldindata.org/grapher/inflation-of-consumer-prices.metadata.json?v=1&csvType=full&useColumnShortNames=true"
+).json()
 
-# Filter for the years 2019–2024
-turkey_df = turkey_df[(turkey_df['Year'] >= 2019) & (turkey_df['Year'] <= 2024)]
+# Step 3: Filter the data for Turkey
+turkey_df = df[df['Entity'] == 'Turkey']
 
-# Reset index for cleanliness
-turkey_df.reset_index(drop=True, inplace=True)
+# Step 4: Sort by year just in case
+turkey_df = turkey_df.sort_values(by='Year')
 
-# Show the result
-print(turkey_df)
+# Step 5: Plot inflation over time
+plt.figure(figsize=(10, 5))
+plt.plot(turkey_df['Year'], turkey_df['Inflation of consumer prices (annual %)'], marker='o', linestyle='-')
+plt.title("Inflation in Turkey (Consumer Prices, Annual %)")
+plt.xlabel("Year")
+plt.ylabel("Inflation Rate (%)")
+plt.grid(True)
+plt.tight_layout()
+plt.show()
