@@ -14,7 +14,7 @@ def process_all_months_total_precipitation(file_path):
     df = pd.read_csv(file_path, parse_dates=['Date'])
 
     # Ensure only data from 2020 is included
-    df = df[df['Date'].dt.year == 2024]
+    df = df[df['Date'].dt.year == 2019]
 
     # Create Year-Month column for grouping
     df['Year-Month'] = df['Date'].dt.to_period('M')
@@ -39,9 +39,9 @@ def process_all_months_total_precipitation(file_path):
     return monthly_totals
 
 # Example usage
-file_path = 'Istanbul_daily_weather_2024-01-01.csv'  # Make sure this matches your actual file
+file_path = 'Istanbul_daily_weather_2019-01-01.csv'  # Make sure this matches your actual file
 summary = process_all_months_total_precipitation(file_path)
 print(summary)
 
 # Optional: Save to CSV
-summary.to_csv("monthly_totals_2024.csv", index=False)
+summary.to_csv("monthly_totals_2019.csv", index=False)

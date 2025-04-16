@@ -1,0 +1,366 @@
+Date,Avg Temperature (C),Condition,Avg Humidity (%),Avg Wind Speed (km/h),Total Precipitation (mm)
+2019-01-01,7,Overcast,68,26,0.0
+2019-01-02,7,Patchy rain possible,74,14,0.2
+2019-01-03,7,Moderate rain at times,76,22,10.3
+2019-01-04,5,Moderate or heavy rain shower,77,32,16.4
+2019-01-05,4,Moderate or heavy rain shower,84,28,12.8
+2019-01-06,4,Patchy rain possible,72,18,0.6
+2019-01-07,2,Patchy rain possible,76,26,1.6
+2019-01-08,2,Patchy rain possible,74,25,1.4
+2019-01-09,4,Overcast,63,27,0.5
+2019-01-10,10,Heavy rain at times,73,33,3.2
+2019-01-11,9,Moderate or heavy rain shower,86,25,22.9
+2019-01-12,5,Heavy rain at times,82,22,14.0
+2019-01-13,4,Overcast,75,16,0.9
+2019-01-14,7,Patchy rain possible,74,18,0.3
+2019-01-15,5,Heavy rain at times,74,25,12.2
+2019-01-16,4,Cloudy,62,23,0.1
+2019-01-17,8,Sunny,67,17,0.0
+2019-01-18,9,Partly cloudy,67,18,0.0
+2019-01-19,10,Overcast,77,14,0.2
+2019-01-20,9,Moderate rain at times,70,12,1.1
+2019-01-21,8,Patchy rain possible,81,16,2.2
+2019-01-22,8,Overcast,79,17,0.0
+2019-01-23,10,Heavy rain at times,76,18,5.9
+2019-01-24,11,Patchy rain possible,68,19,0.9
+2019-01-25,11,Patchy rain possible,68,19,0.1
+2019-01-26,11,Moderate rain at times,71,13,3.1
+2019-01-27,7,Moderate rain at times,84,17,2.2
+2019-01-28,9,Partly cloudy,75,11,0.0
+2019-01-29,12,Partly cloudy,65,18,0.4
+2019-01-30,12,Patchy rain possible,64,13,0.1
+2019-01-31,11,Moderate or heavy rain shower,68,20,9.1
+2019-02-01,10,Moderate or heavy rain shower,68,24,4.2
+2019-02-02,11,Sunny,68,15,0.0
+2019-02-03,12,Sunny,62,11,0.0
+2019-02-04,12,Sunny,62,8,0.0
+2019-02-05,10,Sunny,75,18,0.0
+2019-02-06,9,Heavy rain at times,83,23,2.9
+2019-02-07,8,Heavy rain at times,80,29,6.9
+2019-02-08,7,Moderate rain at times,82,19,3.8
+2019-02-09,7,Patchy rain possible,76,17,0.2
+2019-02-10,7,Sunny,68,6,0.0
+2019-02-11,9,Partly cloudy,65,17,0.0
+2019-02-12,12,Moderate or heavy rain shower,75,26,10.4
+2019-02-13,7,Moderate or heavy rain shower,80,31,16.8
+2019-02-14,7,Patchy rain possible,69,33,0.8
+2019-02-15,7,Moderate rain at times,70,31,2.8
+2019-02-16,7,Patchy rain possible,70,28,0.4
+2019-02-17,7,Partly cloudy,68,13,0.0
+2019-02-18,8,Sunny,67,7,0.0
+2019-02-19,9,Sunny,73,14,0.0
+2019-02-20,9,Partly cloudy,71,8,0.0
+2019-02-21,9,Patchy rain possible,73,12,0.2
+2019-02-22,8,Cloudy,70,8,0.0
+2019-02-23,4,Heavy rain at times,83,37,12.0
+2019-02-24,4,Moderate rain at times,84,34,4.7
+2019-02-25,6,Patchy rain possible,81,32,0.7
+2019-02-26,7,Cloudy,66,15,0.1
+2019-02-27,6,Moderate rain at times,69,26,5.7
+2019-02-28,7,Partly cloudy,66,22,0.2
+2019-03-01,11,Overcast,70,27,0.0
+2019-03-02,10,Patchy rain possible,78,18,0.4
+2019-03-03,7,Partly cloudy,63,23,0.0
+2019-03-04,7,Sunny,53,7,0.0
+2019-03-05,10,Cloudy,59,17,0.0
+2019-03-06,11,Moderate rain at times,76,15,3.5
+2019-03-07,11,Sunny,57,9,0.0
+2019-03-08,12,Sunny,60,9,0.0
+2019-03-09,12,Cloudy,68,15,0.0
+2019-03-10,12,Patchy rain possible,70,17,0.1
+2019-03-11,13,Partly cloudy,61,16,0.0
+2019-03-12,11,Moderate or heavy rain shower,79,26,20.5
+2019-03-13,7,Heavy rain at times,80,34,12.5
+2019-03-14,8,Patchy rain possible,71,16,0.1
+2019-03-15,8,Patchy rain possible,71,11,0.2
+2019-03-16,9,Cloudy,65,16,0.0
+2019-03-17,11,Partly cloudy,65,13,0.0
+2019-03-18,14,Sunny,61,8,0.0
+2019-03-19,13,Cloudy,67,7,0.0
+2019-03-20,11,Sunny,71,20,0.0
+2019-03-21,9,Cloudy,73,26,0.0
+2019-03-22,9,Sunny,56,18,0.0
+2019-03-23,10,Partly cloudy,58,17,0.0
+2019-03-24,8,Partly cloudy,52,17,0.0
+2019-03-25,9,Sunny,53,10,0.0
+2019-03-26,11,Sunny,57,11,0.0
+2019-03-27,10,Overcast,73,18,0.0
+2019-03-28,8,Overcast,61,28,0.0
+2019-03-29,7,Partly cloudy,60,35,0.0
+2019-03-30,8,Patchy rain possible,64,36,0.2
+2019-03-31,9,Partly cloudy,66,31,0.0
+2019-04-01,10,Overcast,72,14,0.0
+2019-04-02,10,Partly cloudy,74,21,0.0
+2019-04-03,9,Overcast,70,23,0.0
+2019-04-04,9,Overcast,74,20,0.0
+2019-04-05,11,Sunny,72,12,0.0
+2019-04-06,11,Cloudy,77,19,0.0
+2019-04-07,12,Cloudy,75,8,1.8
+2019-04-08,14,Cloudy,74,9,0.6
+2019-04-09,13,Moderate or heavy rain shower,74,11,3.3
+2019-04-10,12,Moderate rain at times,81,12,3.0
+2019-04-11,13,Moderate or heavy rain shower,75,19,10.9
+2019-04-12,14,Patchy rain possible,73,22,3.0
+2019-04-13,13,Patchy rain possible,74,7,4.6
+2019-04-14,12,Moderate or heavy rain shower,85,13,6.3
+2019-04-15,10,Patchy rain possible,79,18,0.2
+2019-04-16,10,Patchy rain possible,60,17,0.1
+2019-04-17,11,Partly cloudy,61,9,0.0
+2019-04-18,10,Patchy rain possible,77,19,1.0
+2019-04-19,10,Patchy rain possible,61,19,0.5
+2019-04-20,9,Moderate rain at times,60,21,2.1
+2019-04-21,10,Partly cloudy,52,14,0.0
+2019-04-22,10,Sunny,52,11,0.0
+2019-04-23,12,Cloudy,56,15,0.0
+2019-04-24,14,Patchy rain possible,63,9,4.2
+2019-04-25,15,Partly cloudy,65,11,0.0
+2019-04-26,14,Partly cloudy,66,13,0.0
+2019-04-27,14,Cloudy,60,7,0.0
+2019-04-28,16,Patchy rain possible,66,8,0.1
+2019-04-29,18,Sunny,65,7,0.0
+2019-04-30,17,Sunny,57,17,0.0
+2019-05-01,17,Overcast,61,19,0.0
+2019-05-02,16,Heavy rain at times,69,13,2.4
+2019-05-03,16,Partly cloudy,62,11,0.0
+2019-05-04,17,Cloudy,58,11,0.9
+2019-05-05,17,Moderate rain at times,62,13,3.5
+2019-05-06,17,Partly cloudy,65,13,0.2
+2019-05-07,15,Patchy rain possible,67,19,1.6
+2019-05-08,14,Patchy rain possible,63,11,2.8
+2019-05-09,15,Cloudy,59,7,0.0
+2019-05-10,16,Moderate rain at times,69,10,4.7
+2019-05-11,16,Moderate rain at times,71,12,2.1
+2019-05-12,17,Cloudy,64,9,0.0
+2019-05-13,17,Sunny,68,22,0.0
+2019-05-14,17,Patchy rain possible,75,19,0.3
+2019-05-15,19,Partly cloudy,72,11,0.0
+2019-05-16,18,Patchy rain possible,66,16,0.1
+2019-05-17,17,Patchy rain possible,77,17,0.9
+2019-05-18,18,Overcast,80,12,0.0
+2019-05-19,19,Sunny,65,12,0.0
+2019-05-20,21,Partly cloudy,56,12,0.0
+2019-05-21,20,Sunny,59,11,0.0
+2019-05-22,21,Partly cloudy,60,10,0.0
+2019-05-23,20,Sunny,60,9,0.0
+2019-05-24,18,Moderate or heavy rain shower,74,11,6.1
+2019-05-25,18,Moderate or heavy rain shower,74,14,5.7
+2019-05-26,20,Sunny,68,10,0.0
+2019-05-27,21,Sunny,61,15,0.0
+2019-05-28,23,Sunny,62,8,0.0
+2019-05-29,22,Sunny,57,10,0.0
+2019-05-30,22,Sunny,63,8,0.0
+2019-05-31,22,Sunny,63,8,0.0
+2019-06-01,21,Cloudy,80,17,0.0
+2019-06-02,22,Patchy rain possible,73,12,0.9
+2019-06-03,22,Sunny,61,8,0.1
+2019-06-04,22,Moderate rain at times,61,8,1.5
+2019-06-05,22,Sunny,64,9,0.1
+2019-06-06,23,Sunny,63,7,0.0
+2019-06-07,23,Sunny,59,7,0.0
+2019-06-08,24,Sunny,60,13,0.0
+2019-06-09,23,Patchy rain possible,68,19,0.2
+2019-06-10,23,Cloudy,71,21,0.0
+2019-06-11,23,Patchy rain possible,70,11,0.5
+2019-06-12,23,Moderate rain at times,69,8,0.8
+2019-06-13,24,Sunny,66,9,0.0
+2019-06-14,24,Cloudy,66,15,0.0
+2019-06-15,24,Moderate rain at times,70,15,3.4
+2019-06-16,25,Cloudy,70,18,0.0
+2019-06-17,25,Patchy rain possible,66,16,1.4
+2019-06-18,25,Patchy rain possible,68,18,0.1
+2019-06-19,25,Patchy rain possible,63,17,0.2
+2019-06-20,25,Patchy rain possible,61,11,0.2
+2019-06-21,25,Heavy rain at times,63,11,1.5
+2019-06-22,26,Sunny,66,13,0.0
+2019-06-23,26,Sunny,60,8,0.0
+2019-06-24,26,Sunny,50,15,0.0
+2019-06-25,26,Sunny,68,20,0.0
+2019-06-26,26,Patchy rain possible,71,25,0.1
+2019-06-27,26,Sunny,57,22,0.0
+2019-06-28,25,Patchy rain possible,59,16,0.1
+2019-06-29,23,Overcast,54,25,0.0
+2019-06-30,23,Patchy rain possible,49,18,0.1
+2019-07-01,23,Sunny,52,18,0.0
+2019-07-02,24,Sunny,61,20,0.0
+2019-07-03,25,Sunny,62,16,0.0
+2019-07-04,25,Sunny,66,21,0.0
+2019-07-05,25,Sunny,64,18,0.0
+2019-07-06,25,Sunny,61,12,0.0
+2019-07-07,26,Sunny,54,15,0.0
+2019-07-08,26,Partly cloudy,55,11,0.0
+2019-07-09,27,Sunny,56,10,0.0
+2019-07-10,24,Moderate or heavy rain shower,65,17,14.1
+2019-07-11,21,Moderate or heavy rain shower,70,22,15.5
+2019-07-12,22,Moderate rain at times,52,8,0.7
+2019-07-13,23,Cloudy,48,8,0.0
+2019-07-14,22,Patchy rain possible,58,11,3.6
+2019-07-15,21,Patchy rain possible,65,10,6.0
+2019-07-16,23,Cloudy,60,13,0.0
+2019-07-17,23,Overcast,64,24,0.0
+2019-07-18,24,Sunny,58,17,0.0
+2019-07-19,24,Sunny,61,21,0.0
+2019-07-20,24,Sunny,65,24,0.0
+2019-07-21,24,Sunny,60,20,0.0
+2019-07-22,25,Sunny,59,19,0.0
+2019-07-23,25,Sunny,58,17,0.0
+2019-07-24,23,Moderate or heavy rain shower,67,17,5.6
+2019-07-25,24,Patchy rain possible,61,14,0.3
+2019-07-26,24,Sunny,59,17,0.0
+2019-07-27,24,Sunny,62,20,0.0
+2019-07-28,25,Sunny,67,18,0.0
+2019-07-29,25,Sunny,66,12,0.0
+2019-07-30,25,Patchy rain possible,70,10,0.3
+2019-07-31,26,Sunny,59,9,0.0
+2019-08-01,27,Sunny,61,18,0.0
+2019-08-02,26,Patchy rain possible,66,15,0.5
+2019-08-03,26,Sunny,58,8,0.0
+2019-08-04,24,Patchy rain possible,61,18,0.1
+2019-08-05,24,Cloudy,53,18,0.0
+2019-08-06,24,Sunny,53,21,0.0
+2019-08-07,24,Sunny,61,22,0.0
+2019-08-08,25,Sunny,60,19,0.0
+2019-08-09,25,Sunny,63,20,0.0
+2019-08-10,25,Sunny,61,20,0.0
+2019-08-11,25,Sunny,63,27,0.0
+2019-08-12,26,Sunny,56,31,0.0
+2019-08-13,25,Sunny,64,28,0.0
+2019-08-14,25,Cloudy,74,16,0.0
+2019-08-15,25,Overcast,76,17,0.0
+2019-08-16,24,Patchy rain possible,74,19,0.6
+2019-08-17,22,Moderate or heavy rain shower,73,19,22.7
+2019-08-18,22,Partly cloudy,59,16,0.8
+2019-08-19,23,Sunny,62,18,0.0
+2019-08-20,24,Sunny,66,21,0.0
+2019-08-21,24,Heavy rain at times,72,16,2.4
+2019-08-22,25,Sunny,70,17,0.0
+2019-08-23,25,Sunny,75,21,0.0
+2019-08-24,25,Sunny,71,19,0.0
+2019-08-25,26,Sunny,69,21,0.0
+2019-08-26,26,Sunny,68,26,0.0
+2019-08-27,26,Sunny,62,28,0.0
+2019-08-28,25,Sunny,60,28,0.0
+2019-08-29,24,Sunny,63,24,0.0
+2019-08-30,24,Cloudy,66,21,0.0
+2019-08-31,23,Partly cloudy,64,22,0.0
+2019-09-01,24,Sunny,69,21,0.0
+2019-09-02,24,Sunny,65,24,0.0
+2019-09-03,25,Sunny,58,26,0.0
+2019-09-04,24,Sunny,62,26,0.0
+2019-09-05,23,Overcast,68,25,0.0
+2019-09-06,22,Sunny,63,23,0.0
+2019-09-07,23,Partly cloudy,64,19,0.0
+2019-09-08,23,Patchy rain possible,66,21,0.1
+2019-09-09,23,Partly cloudy,65,18,0.0
+2019-09-10,23,Overcast,71,22,0.0
+2019-09-11,23,Partly cloudy,69,25,0.0
+2019-09-12,23,Cloudy,71,20,0.0
+2019-09-13,23,Cloudy,62,27,0.0
+2019-09-14,23,Sunny,55,25,0.0
+2019-09-15,22,Patchy rain possible,66,25,0.1
+2019-09-16,22,Cloudy,62,16,0.0
+2019-09-17,22,Sunny,58,7,0.0
+2019-09-18,24,Sunny,51,10,0.0
+2019-09-19,22,Cloudy,71,28,0.0
+2019-09-20,18,Moderate or heavy rain shower,77,25,8.3
+2019-09-21,18,Partly cloudy,50,24,0.1
+2019-09-22,17,Sunny,55,20,0.0
+2019-09-23,19,Cloudy,57,10,0.0
+2019-09-24,20,Patchy rain possible,59,11,5.0
+2019-09-25,20,Cloudy,74,14,0.3
+2019-09-26,21,Partly cloudy,71,5,0.0
+2019-09-27,21,Patchy rain possible,66,11,1.0
+2019-09-28,20,Sunny,69,12,0.0
+2019-09-29,21,Sunny,59,8,0.0
+2019-09-30,22,Sunny,48,6,0.0
+2019-10-01,22,Sunny,59,11,0.0
+2019-10-02,22,Sunny,71,14,0.0
+2019-10-03,23,Sunny,57,12,0.0
+2019-10-04,24,Partly cloudy,54,15,0.2
+2019-10-05,19,Moderate or heavy rain shower,76,18,13.9
+2019-10-06,17,Moderate or heavy rain shower,67,13,12.5
+2019-10-07,18,Partly cloudy,64,19,0.6
+2019-10-08,16,Moderate or heavy rain shower,80,28,16.8
+2019-10-09,18,Sunny,69,12,0.0
+2019-10-10,19,Sunny,68,12,0.0
+2019-10-11,19,Cloudy,73,15,0.0
+2019-10-12,18,Partly cloudy,73,22,0.0
+2019-10-13,19,Sunny,77,19,0.0
+2019-10-14,19,Sunny,78,16,0.0
+2019-10-15,19,Sunny,80,14,0.0
+2019-10-16,19,Cloudy,80,15,0.0
+2019-10-17,19,Overcast,80,9,0.0
+2019-10-18,19,Cloudy,78,8,0.0
+2019-10-19,19,Sunny,71,8,0.0
+2019-10-20,19,Sunny,74,12,0.0
+2019-10-21,18,Cloudy,76,18,0.0
+2019-10-22,18,Cloudy,76,21,0.0
+2019-10-23,18,Partly cloudy,75,22,0.0
+2019-10-24,18,Partly cloudy,76,19,0.0
+2019-10-25,18,Partly cloudy,77,16,0.0
+2019-10-26,17,Cloudy,75,16,0.0
+2019-10-27,17,Patchy rain possible,76,15,0.5
+2019-10-28,17,Cloudy,75,11,0.0
+2019-10-29,17,Overcast,73,7,0.2
+2019-10-30,16,Partly cloudy,75,10,0.0
+2019-10-31,16,Heavy rain at times,79,16,6.3
+2019-11-01,14,Moderate rain at times,75,30,10.1
+2019-11-02,14,Sunny,63,17,0.0
+2019-11-03,16,Sunny,55,10,0.0
+2019-11-04,19,Partly cloudy,62,21,0.0
+2019-11-05,20,Patchy rain possible,68,23,1.5
+2019-11-06,20,Sunny,65,20,0.0
+2019-11-07,20,Sunny,61,11,0.0
+2019-11-08,20,Sunny,52,7,0.0
+2019-11-09,20,Sunny,53,7,0.0
+2019-11-10,19,Sunny,56,7,0.0
+2019-11-11,19,Partly cloudy,65,8,0.0
+2019-11-12,19,Sunny,57,7,0.0
+2019-11-13,19,Partly cloudy,49,9,0.0
+2019-11-14,17,Patchy rain possible,68,9,3.8
+2019-11-15,18,Sunny,67,8,0.0
+2019-11-16,18,Sunny,67,13,0.0
+2019-11-17,18,Sunny,75,13,0.0
+2019-11-18,17,Sunny,61,5,0.0
+2019-11-19,18,Sunny,49,8,0.0
+2019-11-20,16,Sunny,51,10,0.0
+2019-11-21,16,Sunny,51,13,0.0
+2019-11-22,14,Overcast,76,27,0.2
+2019-11-23,15,Patchy rain possible,79,11,4.4
+2019-11-24,15,Partly cloudy,78,7,0.0
+2019-11-25,15,Overcast,70,15,2.0
+2019-11-26,15,Patchy rain possible,77,12,7.0
+2019-11-27,13,Patchy rain possible,76,16,0.9
+2019-11-28,15,Partly cloudy,71,19,0.0
+2019-11-29,16,Moderate or heavy rain shower,71,26,12.7
+2019-11-30,16,Moderate or heavy rain shower,73,19,9.2
+2019-12-01,10,Patchy rain possible,73,28,0.9
+2019-12-02,10,Sunny,58,11,0.0
+2019-12-03,11,Moderate rain at times,73,17,2.3
+2019-12-04,8,Heavy rain at times,72,30,9.5
+2019-12-05,9,Overcast,67,22,0.1
+2019-12-06,10,Sunny,64,10,0.0
+2019-12-07,10,Patchy rain possible,64,12,0.1
+2019-12-08,11,Patchy rain possible,72,9,0.2
+2019-12-09,10,Sunny,66,7,0.0
+2019-12-10,11,Sunny,61,10,0.0
+2019-12-11,11,Patchy rain possible,65,18,1.4
+2019-12-12,12,Overcast,79,11,0.3
+2019-12-13,12,Patchy rain possible,81,11,4.8
+2019-12-14,14,Partly cloudy,67,15,3.0
+2019-12-15,13,Moderate rain at times,71,10,1.5
+2019-12-16,11,Partly cloudy,65,7,0.0
+2019-12-17,12,Sunny,61,8,0.0
+2019-12-18,14,Sunny,68,15,0.0
+2019-12-19,13,Partly cloudy,75,10,0.0
+2019-12-20,13,Overcast,65,10,0.0
+2019-12-21,15,Patchy rain possible,67,30,0.1
+2019-12-22,15,Partly cloudy,70,36,0.0
+2019-12-23,14,Patchy rain possible,68,29,2.4
+2019-12-24,11,Moderate or heavy rain shower,75,17,8.0
+2019-12-25,9,Overcast,80,14,1.1
+2019-12-26,9,Heavy rain at times,71,22,8.4
+2019-12-27,8,Patchy rain possible,66,13,1.9
+2019-12-28,6,Moderate rain at times,79,17,2.9
+2019-12-29,6,Moderate rain at times,76,29,4.4
+2019-12-30,9,Moderate rain at times,74,39,6.5
+2019-12-31,7,Moderate rain at times,79,27,4.6
