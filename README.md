@@ -50,7 +50,8 @@ Source: https://ourworldindata.org/grapher/gdp-per-capita-worldbank
 Source: https://www.worldbank.org/en/research/brief/inflation-database
 
 **Seasonal weather data**
-https://climateknowledgeportal.worldbank.org
+
+source: https://climateknowledgeportal.worldbank.org
 
 ## Data Analysis Plan
 
