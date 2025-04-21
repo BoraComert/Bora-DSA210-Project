@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 API_KEY = "1a265a09184c43d18b2174304251203"
 CITY = "Istanbul"
-DAYS_TO_FETCH = 365
+DAYS_TO_FETCH = 366
 START_DATE = "2019-01-01"
 BASE_URL = "https://api.worldweatheronline.com/premium/v1/past-weather.ashx"
 
