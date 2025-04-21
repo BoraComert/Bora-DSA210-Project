@@ -47,7 +47,11 @@ Source: https://ourworldindata.org/grapher/gdp-per-capita-worldbank
 
 **Inflation Of Consumer Prices**
 
-Source: https://ourworldindata.org/grapher/inflation-of-consumer-prices
+Source: https://www.worldbank.org/en/research/brief/inflation-database
+
+**Seasonal weather data**
+
+source: https://climateknowledgeportal.worldbank.org
 
 ## Data Analysis Plan
 
