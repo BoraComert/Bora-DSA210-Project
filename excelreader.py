@@ -1,23 +1,22 @@
 import pandas as pd
 
 # Load Excel data
-df = pd.read_excel("seasonal_climate_data.xlsx")
+df = pd.read_excel("euTAS.xlsx")
 
-# Filter to only 'Country Average' rows
-df_country = df[df["Type"] == "Country Average"]
+# Confirm actual column name for 'code' — update if needed
+df = df.set_index("code")
 
-# Set 'Code' or 'Name' as index if needed
-df_country = df_country.set_index("Code") 
+# Keep only country-level data (exclude anything with a dot in the code)
+df = df[~df.index.str.contains(r"\.")]
 
-# Drop non-date columns (keeping only seasonal dates)
-date_columns = [col for col in df_country.columns if col[:4].isdigit() and "-" in col]
-df_filtered = df_country[date_columns]
+# Select columns 17 to 40 (Python index 16 to 41)
+df_filtered = df.iloc[:, 16:41]
 
-# Change the place of the row and columns to fit the existing data sets
+# Transpose to get dates as rows
 df_transposed = df_filtered.T
 df_transposed.index.name = "Date"
 
-# Save as a new CSV file
+# Save as CSV
 df_transposed.to_csv("filtered_climate_data.csv")
 
-print("Filtered climate data saved to 'filtered_climate_data.csv'")
+print("Saved filtered data with only country averages to 'filtered_climate_data.csv'")
