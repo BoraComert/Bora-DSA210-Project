@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load Excel data
-df = pd.read_excel("ALLTAS.xlsx")
+df = pd.read_excel("allprecipatation.xlsx")
 
 # Confirm actual column name for 'code' — update if needed
 df = df.set_index("code")
