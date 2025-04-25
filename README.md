@@ -56,6 +56,10 @@ Source: https://ourworldindata.org/grapher/gdp-per-capita-worldbank
 
 Source: https://www.worldbank.org/en/research/brief/inflation-database
 
+**Past Dolar/Try exchange rate**
+
+Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&period2=1704067200&frequency=1mo&guccounter=1
+
 ## Data Analysis Plan
 
 **Weather Conditions Analysis**
