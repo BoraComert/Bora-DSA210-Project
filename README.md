@@ -60,21 +60,27 @@ Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&p
 
 **Weather Conditions Analysis**
 
-1.  Weather data of Istanbul will be requested from weather api and arranged into a dataset.
+1.  Daily Weather data of Istanbul is requested via weather api and arranged into a dataset.
    
-2.  A daily weather quality score will be generated from weather data for Istanbul.
+2.  A seasonal weather data is generated from daily weather data for Istanbul.
+   Winter: January,February,March
+   Spring: April,May,June
+   Summer: July,August,Septembre
+   Fall:   October,November,December
 
 3.  Monthly foreign visitor numbers will be compared to see if a pattern exists.
 
-4.  Nationalities of the the foreign visitors will be compared if a pattern exists.
+4.  Nationalities of the the foreign visitors will be compared against income if a pattern exists.
 
-5.  Climate of the Countries with the most tourists come from will be analyzed and seperated into cold or hot weather categories.
+5.  Climate of the Countries tourists come from are  analyzed and seperated into cold or hot weather categories.
 
 **Economic Conditions Analysis**
 
-1. Median income of citizens of foreign countries will be compared against Turkish Citizens.
+1. Country Income Classification is taken from worldbank and used to analyze if income levels affect seasonality.
    
-2. Inflation trends in Turkey and the rest of the world will be analyzed.
+2. Core Costumer Inflation trends in Turkey is analyzed.
+
+3. Inflation and USD/TRY exchange rate data is merged and used to analyze if total visitor number has a correlation with them.
  
 ## Processing Data
 
