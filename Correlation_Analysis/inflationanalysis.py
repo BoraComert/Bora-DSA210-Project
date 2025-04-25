@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import pearsonr
 
 # Load the data
-file_path = 'merged_visitors_inflation.csv'  # update the path if needed
+file_path = 'merged_visitors_inflation.csv'  
 df = pd.read_csv(file_path)
 
 
