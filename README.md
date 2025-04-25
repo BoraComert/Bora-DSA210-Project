@@ -88,12 +88,19 @@ Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&p
 
 The plot is created by Seasonalityplot.py
 
+Since economic is one of the factors in tourism inflation trends in Turkey has been analyzed.
+
 
 ![Figure_4](https://github.com/user-attachments/assets/24d0fd04-d055-459c-a54e-46686fb9dca0)
+The plot is created with inflationanalysis.py
+
+It appears to be there is a significant correlation between inflation of TL and tourists coming to Istanbul.
+
 
 ![Figure_3](https://github.com/user-attachments/assets/5376ea7e-cb74-46f1-a910-6af9983eabc6)
-
 The plot is created with inflationanalysis.py
+
+The USD/TL exchange rate has a moderate effect on the tourist preference while coming to Istanbul.
 
 ## Hypothesis Testing
 
@@ -111,3 +118,5 @@ Null Hypothesis: There is no significant relationship between the climate of tou
 Alternative Hypothesis: There is a significant relationship between the climate of tourists' home countries and the season during which they choose to visit Istanbul.
 
 There is a relationship between climate of the tourists origin country and their preference for Istanbul
+
+
