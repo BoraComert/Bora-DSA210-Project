@@ -84,7 +84,18 @@ Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&p
  
 ## Processing Data
 
+A table containing Season of Istanbul and total tourist numbers from cold,moderate and warm countries is formed. By doing so we can actually analyze the preference of people from different climates.
+
 ![Figure_2](https://github.com/user-attachments/assets/d2ace642-b61e-4ead-b47a-7d14a14a135a)
 
 The plot is created by Seasonalityplot.py
 
+
+Chi-Square Test Results:
+Chi2 statistic: 26093420.685
+P-value: 0.00000
+Degrees of freedom: 6
+
+Means there is a significant amount of correlation between the climate of the tourist and their preference.
+
+Null Hypothesis: There is no relation between tourist
