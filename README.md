@@ -81,7 +81,7 @@ Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&p
 2. Core Costumer Inflation trends in Turkey is analyzed.
 
 3. Inflation and USD/TRY exchange rate data is merged and used to analyze if total visitor number has a correlation with them.
- 
+
 ## Processing Data
 
 A table containing Season of Istanbul and total tourist numbers from cold,moderate and warm countries is formed. By doing so we can actually analyze the preference of people from different climates.
@@ -89,6 +89,11 @@ A table containing Season of Istanbul and total tourist numbers from cold,modera
 ![Figure_2](https://github.com/user-attachments/assets/d2ace642-b61e-4ead-b47a-7d14a14a135a)
 
 The plot is created by Seasonalityplot.py
+
+
+![Figure_4](https://github.com/user-attachments/assets/24d0fd04-d055-459c-a54e-46686fb9dca0)
+
+![Figure_3](https://github.com/user-attachments/assets/5376ea7e-cb74-46f1-a910-6af9983eabc6)
 
 
 Chi-Square Test Results:
