@@ -35,7 +35,7 @@ source: https://climateknowledgeportal.worldbank.org
 
 **Country Classifications by Income Level**
 
-    Source: https://www.worldbank.org/en/search?q=income+groups
+   Source: https://www.worldbank.org/en/search?q=income+groups
 
 **Nationalities of Foreign Tourists Coming to Istanbul(2019-2024)**
 
@@ -47,10 +47,6 @@ Source: https://data.ibb.gov.tr/dataset/milliyetlerine-gore-istanbul-a-gelen-yab
 **Median Income Of The World**
 
 Source: https://ourworldindata.org/grapher/daily-median-income?tab=chart&country=TUR~OWID_WRL~AUT
-
-**Gdp Per Capita Of Countries**
-
-Source: https://ourworldindata.org/grapher/gdp-per-capita-worldbank
 
 **Inflation Of Consumer Prices**
 
