@@ -1,5 +1,4 @@
 Country;Income classification;Years
-Mayotte;Not classified;2019
 Yemen, Rep.;Low Income;2019
 Uganda;Low Income;2019
 Togo;Low Income;2019
@@ -42,7 +41,7 @@ Tanzania;Lower Middle Income;2019
 Sri Lanka;Lower Middle Income;2019
 Solomon Islands;Lower Middle Income;2019
 Senegal;Lower Middle Income;2019
-São Tomé and Principe;Lower Middle Income;2019
+SÔøΩo TomÔøΩ and Principe;Lower Middle Income;2019
 Philippines;Lower Middle Income;2019
 Papua New Guinea;Lower Middle Income;2019
 Pakistan;Lower Middle Income;2019
@@ -67,7 +66,7 @@ Eswatini;Lower Middle Income;2019
 El Salvador;Lower Middle Income;2019
 Egypt, Arab Rep.;Lower Middle Income;2019
 Djibouti;Lower Middle Income;2019
-Côte d'Ivoire;Lower Middle Income;2019
+CÔøΩte d'Ivoire;Lower Middle Income;2019
 Congo, Rep.;Lower Middle Income;2019
 Comoros;Lower Middle Income;2019
 Cameroon;Lower Middle Income;2019
@@ -200,7 +199,7 @@ Estonia;High Income;2019
 Denmark;High Income;2019
 Czech Republic;High Income;2019
 Cyprus;High Income;2019
-Curaçao;High Income;2019
+CuraÔøΩao;High Income;2019
 Croatia;High Income;2019
 Chile;High Income;2019
 Channel Islands;High Income;2019
@@ -218,8 +217,7 @@ Australia;High Income;2019
 Aruba;High Income;2019
 Antigua and Barbuda;High Income;2019
 Andorra;High Income;2019
-Venezuela, RB;Not classified;2020
-Mayotte;Not classified;2020
+Venezuela, RB;Lower Middle Income;2020
 Yemen, Rep.;Low Income;2020
 Uganda;Low Income;2020
 Togo;Low Income;2020
@@ -261,7 +259,7 @@ Tajikistan;Lower Middle Income;2020
 Sri Lanka;Lower Middle Income;2020
 Solomon Islands;Lower Middle Income;2020
 Senegal;Lower Middle Income;2020
-São Tomé and Principe;Lower Middle Income;2020
+SÔøΩo TomÔøΩ and Principe;Lower Middle Income;2020
 Samoa;Lower Middle Income;2020
 Philippines;Lower Middle Income;2020
 Papua New Guinea;Lower Middle Income;2020
@@ -289,7 +287,7 @@ Eswatini;Lower Middle Income;2020
 El Salvador;Lower Middle Income;2020
 Egypt, Arab Rep.;Lower Middle Income;2020
 Djibouti;Lower Middle Income;2020
-Côte d'Ivoire;Lower Middle Income;2020
+CÔøΩte d'Ivoire;Lower Middle Income;2020
 Congo, Rep.;Lower Middle Income;2020
 Comoros;Lower Middle Income;2020
 Cameroon;Lower Middle Income;2020
@@ -419,7 +417,7 @@ Estonia;High Income;2020
 Denmark;High Income;2020
 Czech Republic;High Income;2020
 Cyprus;High Income;2020
-Curaçao;High Income;2020
+CuraÔøΩao;High Income;2020
 Croatia;High Income;2020
 Chile;High Income;2020
 Channel Islands;High Income;2020
@@ -484,10 +482,10 @@ Comoros;Lower Middle Income;2021
 Congo, Dem. Rep.;Low Income;2021
 Congo, Rep.;Lower Middle Income;2021
 Costa Rica;Upper Middle Income;2021
-Côte d'Ivoire;Lower Middle Income;2021
+CÔøΩte d'Ivoire;Lower Middle Income;2021
 Croatia;High Income;2021
 Cuba;Upper Middle Income;2021
-Curaçao;High Income;2021
+CuraÔøΩao;High Income;2021
 Cyprus;High Income;2021
 Czech Republic;High Income;2021
 Denmark;High Income;2021
@@ -564,7 +562,6 @@ Malta;High Income;2021
 Marshall Islands;Upper Middle Income;2021
 Mauritania;Lower Middle Income;2021
 Mauritius;Upper Middle Income;2021
-Mayotte;Not classified;2021
 Mexico;Upper Middle Income;2021
 Micronesia, Fed. Sts.;Lower Middle Income;2021
 Moldova;Upper Middle Income;2021
@@ -603,7 +600,7 @@ Russian Federation;Upper Middle Income;2021
 Rwanda;Low Income;2021
 Samoa;Lower Middle Income;2021
 San Marino;High Income;2021
-São Tomé and Principe;Lower Middle Income;2021
+SÔøΩo TomÔøΩ and Principe;Lower Middle Income;2021
 Saudi Arabia;High Income;2021
 Senegal;Lower Middle Income;2021
 Serbia;Upper Middle Income;2021
@@ -649,7 +646,7 @@ United States;High Income;2021
 Uruguay;High Income;2021
 Uzbekistan;Lower Middle Income;2021
 Vanuatu;Lower Middle Income;2021
-Venezuela, RB;Not classified;2021
+Venezuela, RB;Lower Middle Income;2021
 Vietnam;Lower Middle Income;2021
 Virgin Islands (U.S.);High Income;2021
 West Bank and Gaza;Lower Middle Income;2021
@@ -703,10 +700,10 @@ Comoros;Lower Middle Income;2022
 Congo, Dem. Rep.;Low Income;2022
 Congo, Rep.;Lower Middle Income;2022
 Costa Rica;Upper Middle Income;2022
-Côte d'Ivoire;Lower Middle Income;2022
+CÔøΩte d'Ivoire;Lower Middle Income;2022
 Croatia;High Income;2022
 Cuba;Upper Middle Income;2022
-Curaçao;High Income;2022
+CuraÔøΩao;High Income;2022
 Cyprus;High Income;2022
 Czech Republic;High Income;2022
 Denmark;High Income;2022
@@ -783,7 +780,6 @@ Malta;High Income;2022
 Marshall Islands;Upper Middle Income;2022
 Mauritania;Lower Middle Income;2022
 Mauritius;Upper Middle Income;2022
-Mayotte;Not classified;2022
 Mexico;Upper Middle Income;2022
 Micronesia, Fed. Sts.;Lower Middle Income;2022
 Moldova;Upper Middle Income;2022
@@ -822,7 +818,7 @@ Russian Federation;Upper Middle Income;2022
 Rwanda;Low Income;2022
 Samoa;Lower Middle Income;2022
 San Marino;High Income;2022
-São Tomé and Principe;Lower Middle Income;2022
+SÔøΩo TomÔøΩ and Principe;Lower Middle Income;2022
 Saudi Arabia;High Income;2022
 Senegal;Lower Middle Income;2022
 Serbia;Upper Middle Income;2022
@@ -868,7 +864,7 @@ United States;High Income;2022
 Uruguay;High Income;2022
 Uzbekistan;Lower Middle Income;2022
 Vanuatu;Lower Middle Income;2022
-Venezuela, RB;Not classified;2022
+Venezuela, RB;Lower Middle Income;2022
 Vietnam;Lower Middle Income;2022
 Virgin Islands (U.S.);High Income;2022
 West Bank and Gaza;Lower Middle Income;2022
