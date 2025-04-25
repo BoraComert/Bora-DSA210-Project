@@ -106,6 +106,7 @@ The USD/TL exchange rate has a moderate effect on the tourist preference while c
 
 A table containing Season of Istanbul and total tourist numbers from cold,moderate and warm countries is formed. By doing so we can actually analyze the preference of people from different climates.
 
+
 Chi-Square Test of Independence Results:
 Chi2 statistic: 26093420.685
 P-value: 0.00000
