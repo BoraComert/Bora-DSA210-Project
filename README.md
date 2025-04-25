@@ -78,5 +78,6 @@ Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&p
  
 ## Processing Data
 
+![Uploading Figure_2.png…]()
 
 
