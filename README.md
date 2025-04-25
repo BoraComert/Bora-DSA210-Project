@@ -22,6 +22,10 @@ Tourism is highly influenced by economic conditions. Therefore in addition to we
 - Minimum temperature
 - Average Humidity
 
+**Seasonal weather data**
+
+source: https://climateknowledgeportal.worldbank.org
+
 **Monthly Foreign Visitor Data(2019-2024)** 
  
  Source: https://data.ibb.gov.tr/dataset/turkiye-ve-istanbul-olceginde-gelen-yabanci-ziyaretci-sayisi
@@ -29,6 +33,8 @@ Tourism is highly influenced by economic conditions. Therefore in addition to we
 - Place(Turkey or Istanbul)
 - Monthly Foreign Visitor Number
 
+**Country Classifications by Income Level**
+Source: https://www.worldbank.org/en/search?q=income+groups
 
 **Nationalities of Foreign Tourists Coming to Istanbul(2019-2024)**
 
@@ -48,10 +54,6 @@ Source: https://ourworldindata.org/grapher/gdp-per-capita-worldbank
 **Inflation Of Consumer Prices**
 
 Source: https://www.worldbank.org/en/research/brief/inflation-database
-
-**Seasonal weather data**
-
-source: https://climateknowledgeportal.worldbank.org
 
 ## Data Analysis Plan
 
@@ -73,7 +75,7 @@ source: https://climateknowledgeportal.worldbank.org
    
 2. Inflation trends in Turkey and the rest of the world will be analyzed.
  
-
+## Processing Data
 
 
 
