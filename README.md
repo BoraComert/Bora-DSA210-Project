@@ -13,7 +13,7 @@ Tourism is highly influenced by economic conditions. Therefore in addition to we
 
 **Weather Data(2019-2024)**
 
- Source: Past Observations will be taken from Weather Api
+ Source: https://www.worldweatheronline.com
  
 - Average Wind Speed
 - Weather Condition(sunny,cloudy etc.) 
@@ -60,7 +60,7 @@ Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&p
 
 **Weather Conditions Analysis**
 
-1.  Daily Weather data of Istanbul is requested via weather api and arranged into a dataset.
+1.  Daily Weather data of Istanbul  from 2019 to 2024 is requested from worldweatheronline.com via weather api and arranged into a dataset.
    
 2.  A seasonal weather data is generated from daily weather data for Istanbul.
    Winter: January,February,March
