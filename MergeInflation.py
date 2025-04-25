@@ -1,5 +1,7 @@
 import pandas as pd
 
+#I used this code to merge tourist data with inflation data
+
 # Load both datasets
 visitors_df = pd.read_csv('turkiye-ve-istanbul-olceginde-gelen-yabanci-ziyaretci-sayisi.csv')
 inflation_df = pd.read_csv('yoy_inflation.csv')
@@ -28,7 +30,6 @@ merged_df = pd.merge(
     how='inner'
 )
 
-# Sort the final DataFrame by date
 merged_df = merged_df.sort_values(by='year_month')
 
 # Save the merged data to a new CSV file

@@ -1,10 +1,12 @@
 import pandas as pd
 
+#I used this code to merge tourist data with countries and istanbul's seasonal weather data
+
 # Load both datasets
 df1 = pd.read_csv('/Users/boracomert/Desktop/Bora-DSA210-Project-1/seasonal averages/final_weather_with_precipitation_and_humidity.csv')  # Replace with your actual file name
-df2 = pd.read_csv('seasonal_tourist_data.csv')  # Replace with your actual file name
+df2 = pd.read_csv('seasonal_tourist_data.csv')  
 
-# Remove extra spaces from 'Date' columns before conversion
+
 df1['Date'] = df1['Date'].str.strip()  # For weather data
 df2['Date'] = df2['Date'].str.strip()  # For tourist data
 
