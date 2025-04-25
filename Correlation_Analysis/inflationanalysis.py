@@ -6,10 +6,10 @@ from scipy.stats import pearsonr
 file_path = 'merged_visitors_inflation.csv'  # update the path if needed
 df = pd.read_csv(file_path)
 
-# Check the first few rows (optional)
+
 print(df.head())
 
-# --- Visitor Numbers vs Inflation ---
+# Visitor Numbers vs Inflation 
 
 # Calculate Pearson correlation
 visitor_inflation_corr, _ = pearsonr(df['ziyaretci_sayisi'], df['YoY_Inflation (%)'])
@@ -25,7 +25,7 @@ plt.show()
 
 print(f"Visitor vs Inflation Pearson Correlation: {visitor_inflation_corr:.2f}")
 
-# --- Visitor Numbers vs Exchange Rate ---
+# Visitor Numbers vs Exchange Rate 
 
 # Calculate Pearson correlation
 visitor_exchange_corr, _ = pearsonr(df['ziyaretci_sayisi'], df['tr/usd_exchange_rate'])
