@@ -1,199 +1,199 @@
-Entity,Code,Year,World Bank's income classification,time
-Afghanistan,AFG,2023,Low-income countries,2023
-Albania,ALB,2023,Upper-middle-income countries,2023
-Algeria,DZA,2023,Upper-middle-income countries,2023
-Andorra,AND,2023,High-income countries,2023
-Angola,AGO,2023,Lower-middle-income countries,2023
-Antigua and Barbuda,ATG,2023,High-income countries,2023
-Argentina,ARG,2023,Upper-middle-income countries,2023
-Armenia,ARM,2023,Upper-middle-income countries,2023
-Australia,AUS,2023,High-income countries,2023
-Austria,AUT,2023,High-income countries,2023
-Azerbaijan,AZE,2023,Upper-middle-income countries,2023
-Bahamas,BHS,2023,High-income countries,2023
-Bahrain,BHR,2023,High-income countries,2023
-Bangladesh,BGD,2023,Lower-middle-income countries,2023
-Barbados,BRB,2023,High-income countries,2023
-Belarus,BLR,2023,Upper-middle-income countries,2023
-Belgium,BEL,2023,High-income countries,2023
-Belize,BLZ,2023,Upper-middle-income countries,2023
-Benin,BEN,2023,Lower-middle-income countries,2023
-Bhutan,BTN,2023,Lower-middle-income countries,2023
-Bolivia,BOL,2023,Lower-middle-income countries,2023
-Bosnia and Herzegovina,BIH,2023,Upper-middle-income countries,2023
-Botswana,BWA,2023,Upper-middle-income countries,2023
-Brazil,BRA,2023,Upper-middle-income countries,2023
-Brunei,BRN,2023,High-income countries,2023
-Bulgaria,BGR,2023,High-income countries,2023
-Burkina Faso,BFA,2023,Low-income countries,2023
-Burundi,BDI,2023,Low-income countries,2023
-Cambodia,KHM,2023,Lower-middle-income countries,2023
-Cameroon,CMR,2023,Lower-middle-income countries,2023
-Canada,CAN,2023,High-income countries,2023
-Cape Verde,CPV,2023,Lower-middle-income countries,2023
-Central African Republic,CAF,2023,Low-income countries,2023
-Chad,TCD,2023,Low-income countries,2023
-Chile,CHL,2023,High-income countries,2023
-China,CHN,2023,Upper-middle-income countries,2023
-Colombia,COL,2023,Upper-middle-income countries,2023
-Comoros,COM,2023,Lower-middle-income countries,2023
-Congo,COG,2023,Lower-middle-income countries,2023
-Costa Rica,CRI,2023,Upper-middle-income countries,2023
-Cote d'Ivoire,CIV,2023,Lower-middle-income countries,2023
-Croatia,HRV,2023,High-income countries,2023
-Cuba,CUB,2023,Upper-middle-income countries,2023
-Cyprus,CYP,2023,High-income countries,2023
-Czechia,CZE,2023,High-income countries,2023
-Democratic Republic of Congo,COD,2023,Low-income countries,2023
-Denmark,DNK,2023,High-income countries,2023
-Djibouti,DJI,2023,Lower-middle-income countries,2023
-Dominica,DMA,2023,Upper-middle-income countries,2023
-Dominican Republic,DOM,2023,Upper-middle-income countries,2023
-East Timor,TLS,2023,Lower-middle-income countries,2023
-Ecuador,ECU,2023,Upper-middle-income countries,2023
-Egypt,EGY,2023,Lower-middle-income countries,2023
-El Salvador,SLV,2023,Upper-middle-income countries,2023
-Equatorial Guinea,GNQ,2023,Upper-middle-income countries,2023
-Eritrea,ERI,2023,Low-income countries,2023
-Estonia,EST,2023,High-income countries,2023
-Eswatini,SWZ,2023,Lower-middle-income countries,2023
-Ethiopia,ETH,2023,Low-income countries,2023
-Fiji,FJI,2023,Upper-middle-income countries,2023
-Finland,FIN,2023,High-income countries,2023
-France,FRA,2023,High-income countries,2023
-Gabon,GAB,2023,Upper-middle-income countries,2023
-Gambia,GMB,2023,Low-income countries,2023
-Georgia,GEO,2023,Upper-middle-income countries,2023
-Germany,DEU,2023,High-income countries,2023
-Ghana,GHA,2023,Lower-middle-income countries,2023
-Greece,GRC,2023,High-income countries,2023
-Greenland,GRL,2023,High-income countries,2023
-Grenada,GRD,2023,Upper-middle-income countries,2023
-Guatemala,GTM,2023,Upper-middle-income countries,2023
-Guinea,GIN,2023,Lower-middle-income countries,2023
-Guinea-Bissau,GNB,2023,Low-income countries,2023
-Guyana,GUY,2023,High-income countries,2023
-Haiti,HTI,2023,Lower-middle-income countries,2023
-Honduras,HND,2023,Lower-middle-income countries,2023
-Hungary,HUN,2023,High-income countries,2023
-Iceland,ISL,2023,High-income countries,2023
-India,IND,2023,Lower-middle-income countries,2023
-Indonesia,IDN,2023,Upper-middle-income countries,2023
-Iran,IRN,2023,Upper-middle-income countries,2023
-Iraq,IRQ,2023,Upper-middle-income countries,2023
-Ireland,IRL,2023,High-income countries,2023
-Israel,ISR,2023,High-income countries,2023
-Italy,ITA,2023,High-income countries,2023
-Jamaica,JAM,2023,Upper-middle-income countries,2023
-Japan,JPN,2023,High-income countries,2023
-Jordan,JOR,2023,Lower-middle-income countries,2023
-Kazakhstan,KAZ,2023,Upper-middle-income countries,2023
-Kenya,KEN,2023,Lower-middle-income countries,2023
-Kiribati,KIR,2023,Lower-middle-income countries,2023
-Kosovo,OWID_KOS,2023,Upper-middle-income countries,2023
-Kuwait,KWT,2023,High-income countries,2023
-Kyrgyzstan,KGZ,2023,Lower-middle-income countries,2023
-Laos,LAO,2023,Lower-middle-income countries,2023
-Latvia,LVA,2023,High-income countries,2023
-Lebanon,LBN,2023,Lower-middle-income countries,2023
-Lesotho,LSO,2023,Lower-middle-income countries,2023
-Liberia,LBR,2023,Low-income countries,2023
-Libya,LBY,2023,Upper-middle-income countries,2023
-Liechtenstein,LIE,2023,High-income countries,2023
-Lithuania,LTU,2023,High-income countries,2023
-Luxembourg,LUX,2023,High-income countries,2023
-Madagascar,MDG,2023,Low-income countries,2023
-Malawi,MWI,2023,Low-income countries,2023
-Malaysia,MYS,2023,Upper-middle-income countries,2023
-Maldives,MDV,2023,Upper-middle-income countries,2023
-Mali,MLI,2023,Low-income countries,2023
-Malta,MLT,2023,High-income countries,2023
-Marshall Islands,MHL,2023,Upper-middle-income countries,2023
-Mauritania,MRT,2023,Lower-middle-income countries,2023
-Mauritius,MUS,2023,Upper-middle-income countries,2023
-Mexico,MEX,2023,Upper-middle-income countries,2023
-Micronesia (country),FSM,2023,Lower-middle-income countries,2023
-Moldova,MDA,2023,Upper-middle-income countries,2023
-Monaco,MCO,2023,High-income countries,2023
-Mongolia,MNG,2023,Upper-middle-income countries,2023
-Montenegro,MNE,2023,Upper-middle-income countries,2023
-Morocco,MAR,2023,Lower-middle-income countries,2023
-Mozambique,MOZ,2023,Low-income countries,2023
-Myanmar,MMR,2023,Lower-middle-income countries,2023
-Namibia,NAM,2023,Upper-middle-income countries,2023
-Nauru,NRU,2023,High-income countries,2023
-Nepal,NPL,2023,Lower-middle-income countries,2023
-Netherlands,NLD,2023,High-income countries,2023
-New Caledonia,NCL,2023,High-income countries,2023
-New Zealand,NZL,2023,High-income countries,2023
-Nicaragua,NIC,2023,Lower-middle-income countries,2023
-Niger,NER,2023,Low-income countries,2023
-Nigeria,NGA,2023,Lower-middle-income countries,2023
-North Korea,PRK,2023,Low-income countries,2023
-North Macedonia,MKD,2023,Upper-middle-income countries,2023
-Norway,NOR,2023,High-income countries,2023
-Oman,OMN,2023,High-income countries,2023
-Pakistan,PAK,2023,Lower-middle-income countries,2023
-Palau,PLW,2023,High-income countries,2023
-Palestine,PSE,2023,Lower-middle-income countries,2023
-Panama,PAN,2023,High-income countries,2023
-Papua New Guinea,PNG,2023,Lower-middle-income countries,2023
-Paraguay,PRY,2023,Upper-middle-income countries,2023
-Peru,PER,2023,Upper-middle-income countries,2023
-Philippines,PHL,2023,Lower-middle-income countries,2023
-Poland,POL,2023,High-income countries,2023
-Portugal,PRT,2023,High-income countries,2023
-Puerto Rico,PRI,2023,High-income countries,2023
-Qatar,QAT,2023,High-income countries,2023
-Romania,ROU,2023,High-income countries,2023
-Russia,RUS,2023,High-income countries,2023
-Rwanda,RWA,2023,Low-income countries,2023
-Saint Kitts and Nevis,KNA,2023,High-income countries,2023
-Saint Lucia,LCA,2023,Upper-middle-income countries,2023
-Saint Vincent and the Grenadines,VCT,2023,Upper-middle-income countries,2023
-Samoa,WSM,2023,Lower-middle-income countries,2023
-San Marino,SMR,2023,High-income countries,2023
-Sao Tome and Principe,STP,2023,Lower-middle-income countries,2023
-Saudi Arabia,SAU,2023,High-income countries,2023
-Senegal,SEN,2023,Lower-middle-income countries,2023
-Serbia,SRB,2023,Upper-middle-income countries,2023
-Seychelles,SYC,2023,High-income countries,2023
-Sierra Leone,SLE,2023,Low-income countries,2023
-Singapore,SGP,2023,High-income countries,2023
-Slovakia,SVK,2023,High-income countries,2023
-Slovenia,SVN,2023,High-income countries,2023
-Solomon Islands,SLB,2023,Lower-middle-income countries,2023
-Somalia,SOM,2023,Low-income countries,2023
-South Africa,ZAF,2023,Upper-middle-income countries,2023
-South Korea,KOR,2023,High-income countries,2023
-South Sudan,SSD,2023,Low-income countries,2023
-Spain,ESP,2023,High-income countries,2023
-Sri Lanka,LKA,2023,Lower-middle-income countries,2023
-Sudan,SDN,2023,Low-income countries,2023
-Suriname,SUR,2023,Upper-middle-income countries,2023
-Sweden,SWE,2023,High-income countries,2023
-Switzerland,CHE,2023,High-income countries,2023
-Syria,SYR,2023,Low-income countries,2023
-Taiwan,TWN,2023,High-income countries,2023
-Tajikistan,TJK,2023,Lower-middle-income countries,2023
-Tanzania,TZA,2023,Lower-middle-income countries,2023
-Thailand,THA,2023,Upper-middle-income countries,2023
-Togo,TGO,2023,Low-income countries,2023
-Tonga,TON,2023,Upper-middle-income countries,2023
-Trinidad and Tobago,TTO,2023,High-income countries,2023
-Tunisia,TUN,2023,Lower-middle-income countries,2023
-Turkey,TUR,2023,Upper-middle-income countries,2023
-Turkmenistan,TKM,2023,Upper-middle-income countries,2023
-Tuvalu,TUV,2023,Upper-middle-income countries,2023
-Uganda,UGA,2023,Low-income countries,2023
-Ukraine,UKR,2023,Upper-middle-income countries,2023
-United Arab Emirates,ARE,2023,High-income countries,2023
-United Kingdom,GBR,2023,High-income countries,2023
-United States,USA,2023,High-income countries,2023
-Uruguay,URY,2023,High-income countries,2023
-Uzbekistan,UZB,2023,Lower-middle-income countries,2023
-Vanuatu,VUT,2023,Lower-middle-income countries,2023
-Vietnam,VNM,2023,Lower-middle-income countries,2023
-Yemen,YEM,2023,Low-income countries,2023
-Zambia,ZMB,2023,Lower-middle-income countries,2023
-Zimbabwe,ZWE,2023,Lower-middle-income countries,2023
+Country,Code,World Bank's income classification,Years
+Afghanistan,AFG,Low Income ,2024
+Albania,ALB,Upper Middle Income ,2024
+Algeria,DZA,Upper Middle Income ,2024
+Andorra,AND,High Income ,2024
+Angola,AGO,Lower Middle Income ,2024
+Antigua and Barbuda,ATG,High Income ,2024
+Argentina,ARG,Upper Middle Income ,2024
+Armenia,ARM,Upper Middle Income ,2024
+Australia,AUS,High Income ,2024
+Austria,AUT,High Income ,2024
+Azerbaijan,AZE,Upper Middle Income ,2024
+Bahamas,BHS,High Income ,2024
+Bahrain,BHR,High Income ,2024
+Bangladesh,BGD,Lower Middle Income ,2024
+Barbados,BRB,High Income ,2024
+Belarus,BLR,Upper Middle Income ,2024
+Belgium,BEL,High Income ,2024
+Belize,BLZ,Upper Middle Income ,2024
+Benin,BEN,Lower Middle Income ,2024
+Bhutan,BTN,Lower Middle Income ,2024
+Bolivia,BOL,Lower Middle Income ,2024
+Bosnia and Herzegovina,BIH,Upper Middle Income ,2024
+Botswana,BWA,Upper Middle Income ,2024
+Brazil,BRA,Upper Middle Income ,2024
+Brunei,BRN,High Income ,2024
+Bulgaria,BGR,High Income ,2024
+Burkina Faso,BFA,Low Income ,2024
+Burundi,BDI,Low Income ,2024
+Cambodia,KHM,Lower Middle Income ,2024
+Cameroon,CMR,Lower Middle Income ,2024
+Canada,CAN,High Income ,2024
+Cape Verde,CPV,Lower Middle Income ,2024
+Central African Republic,CAF,Low Income ,2024
+Chad,TCD,Low Income ,2024
+Chile,CHL,High Income ,2024
+China,CHN,Upper Middle Income ,2024
+Colombia,COL,Upper Middle Income ,2024
+Comoros,COM,Lower Middle Income ,2024
+Congo,COG,Lower Middle Income ,2024
+Costa Rica,CRI,Upper Middle Income ,2024
+Cote d'Ivoire,CIV,Lower Middle Income ,2024
+Croatia,HRV,High Income ,2024
+Cuba,CUB,Upper Middle Income ,2024
+Cyprus,CYP,High Income ,2024
+Czechia,CZE,High Income ,2024
+Democratic Republic of Congo,COD,Low Income ,2024
+Denmark,DNK,High Income ,2024
+Djibouti,DJI,Lower Middle Income ,2024
+Dominica,DMA,Upper Middle Income ,2024
+Dominican Republic,DOM,Upper Middle Income ,2024
+East Timor,TLS,Lower Middle Income ,2024
+Ecuador,ECU,Upper Middle Income ,2024
+Egypt,EGY,Lower Middle Income ,2024
+El Salvador,SLV,Upper Middle Income ,2024
+Equatorial Guinea,GNQ,Upper Middle Income ,2024
+Eritrea,ERI,Low Income ,2024
+Estonia,EST,High Income ,2024
+Eswatini,SWZ,Lower Middle Income ,2024
+Ethiopia,ETH,Low Income ,2024
+Fiji,FJI,Upper Middle Income ,2024
+Finland,FIN,High Income ,2024
+France,FRA,High Income ,2024
+Gabon,GAB,Upper Middle Income ,2024
+Gambia,GMB,Low Income ,2024
+Georgia,GEO,Upper Middle Income ,2024
+Germany,DEU,High Income ,2024
+Ghana,GHA,Lower Middle Income ,2024
+Greece,GRC,High Income ,2024
+Greenland,GRL,High Income ,2024
+Grenada,GRD,Upper Middle Income ,2024
+Guatemala,GTM,Upper Middle Income ,2024
+Guinea,GIN,Lower Middle Income ,2024
+Guinea-Bissau,GNB,Low Income ,2024
+Guyana,GUY,High Income ,2024
+Haiti,HTI,Lower Middle Income ,2024
+Honduras,HND,Lower Middle Income ,2024
+Hungary,HUN,High Income ,2024
+Iceland,ISL,High Income ,2024
+India,IND,Lower Middle Income ,2024
+Indonesia,IDN,Upper Middle Income ,2024
+Iran,IRN,Upper Middle Income ,2024
+Iraq,IRQ,Upper Middle Income ,2024
+Ireland,IRL,High Income ,2024
+Israel,ISR,High Income ,2024
+Italy,ITA,High Income ,2024
+Jamaica,JAM,Upper Middle Income ,2024
+Japan,JPN,High Income ,2024
+Jordan,JOR,Lower Middle Income ,2024
+Kazakhstan,KAZ,Upper Middle Income ,2024
+Kenya,KEN,Lower Middle Income ,2024
+Kiribati,KIR,Lower Middle Income ,2024
+Kosovo,OWID_KOS,Upper Middle Income ,2024
+Kuwait,KWT,High Income ,2024
+Kyrgyzstan,KGZ,Lower Middle Income ,2024
+Laos,LAO,Lower Middle Income ,2024
+Latvia,LVA,High Income ,2024
+Lebanon,LBN,Lower Middle Income ,2024
+Lesotho,LSO,Lower Middle Income ,2024
+Liberia,LBR,Low Income ,2024
+Libya,LBY,Upper Middle Income ,2024
+Liechtenstein,LIE,High Income ,2024
+Lithuania,LTU,High Income ,2024
+Luxembourg,LUX,High Income ,2024
+Madagascar,MDG,Low Income ,2024
+Malawi,MWI,Low Income ,2024
+Malaysia,MYS,Upper Middle Income ,2024
+Maldives,MDV,Upper Middle Income ,2024
+Mali,MLI,Low Income ,2024
+Malta,MLT,High Income ,2024
+Marshall Islands,MHL,Upper Middle Income ,2024
+Mauritania,MRT,Lower Middle Income ,2024
+Mauritius,MUS,Upper Middle Income ,2024
+Mexico,MEX,Upper Middle Income ,2024
+Micronesia (country),FSM,Lower Middle Income ,2024
+Moldova,MDA,Upper Middle Income ,2024
+Monaco,MCO,High Income ,2024
+Mongolia,MNG,Upper Middle Income ,2024
+Montenegro,MNE,Upper Middle Income ,2024
+Morocco,MAR,Lower Middle Income ,2024
+Mozambique,MOZ,Low Income ,2024
+Myanmar,MMR,Lower Middle Income ,2024
+Namibia,NAM,Upper Middle Income ,2024
+Nauru,NRU,High Income ,2024
+Nepal,NPL,Lower Middle Income ,2024
+Netherlands,NLD,High Income ,2024
+New Caledonia,NCL,High Income ,2024
+New Zealand,NZL,High Income ,2024
+Nicaragua,NIC,Lower Middle Income ,2024
+Niger,NER,Low Income ,2024
+Nigeria,NGA,Lower Middle Income ,2024
+North Korea,PRK,Low Income ,2024
+North Macedonia,MKD,Upper Middle Income ,2024
+Norway,NOR,High Income ,2024
+Oman,OMN,High Income ,2024
+Pakistan,PAK,Lower Middle Income ,2024
+Palau,PLW,High Income ,2024
+Palestine,PSE,Lower Middle Income ,2024
+Panama,PAN,High Income ,2024
+Papua New Guinea,PNG,Lower Middle Income ,2024
+Paraguay,PRY,Upper Middle Income ,2024
+Peru,PER,Upper Middle Income ,2024
+Philippines,PHL,Lower Middle Income ,2024
+Poland,POL,High Income ,2024
+Portugal,PRT,High Income ,2024
+Puerto Rico,PRI,High Income ,2024
+Qatar,QAT,High Income ,2024
+Romania,ROU,High Income ,2024
+Russia,RUS,High Income ,2024
+Rwanda,RWA,Low Income ,2024
+Saint Kitts and Nevis,KNA,High Income ,2024
+Saint Lucia,LCA,Upper Middle Income ,2024
+Saint Vincent and the Grenadines,VCT,Upper Middle Income ,2024
+Samoa,WSM,Lower Middle Income ,2024
+San Marino,SMR,High Income ,2024
+Sao Tome and Principe,STP,Lower Middle Income ,2024
+Saudi Arabia,SAU,High Income ,2024
+Senegal,SEN,Lower Middle Income ,2024
+Serbia,SRB,Upper Middle Income ,2024
+Seychelles,SYC,High Income ,2024
+Sierra Leone,SLE,Low Income ,2024
+Singapore,SGP,High Income ,2024
+Slovakia,SVK,High Income ,2024
+Slovenia,SVN,High Income ,2024
+Solomon Islands,SLB,Lower Middle Income ,2024
+Somalia,SOM,Low Income ,2024
+South Africa,ZAF,Upper Middle Income ,2024
+South Korea,KOR,High Income ,2024
+South Sudan,SSD,Low Income ,2024
+Spain,ESP,High Income ,2024
+Sri Lanka,LKA,Lower Middle Income ,2024
+Sudan,SDN,Low Income ,2024
+Suriname,SUR,Upper Middle Income ,2024
+Sweden,SWE,High Income ,2024
+Switzerland,CHE,High Income ,2024
+Syria,SYR,Low Income ,2024
+Taiwan,TWN,High Income ,2024
+Tajikistan,TJK,Lower Middle Income ,2024
+Tanzania,TZA,Lower Middle Income ,2024
+Thailand,THA,Upper Middle Income ,2024
+Togo,TGO,Low Income ,2024
+Tonga,TON,Upper Middle Income ,2024
+Trinidad and Tobago,TTO,High Income ,2024
+Tunisia,TUN,Lower Middle Income ,2024
+Turkey,TUR,Upper Middle Income ,2024
+Turkmenistan,TKM,Upper Middle Income ,2024
+Tuvalu,TUV,Upper Middle Income ,2024
+Uganda,UGA,Low Income ,2024
+Ukraine,UKR,Upper Middle Income ,2024
+United Arab Emirates,ARE,High Income ,2024
+United Kingdom,GBR,High Income ,2024
+United States,USA,High Income ,2024
+Uruguay,URY,High Income ,2024
+Uzbekistan,UZB,Lower Middle Income ,2024
+Vanuatu,VUT,Lower Middle Income ,2024
+Vietnam,VNM,Lower Middle Income ,2024
+Yemen,YEM,Low Income ,2024
+Zambia,ZMB,Lower Middle Income ,2024
+Zimbabwe,ZWE,Lower Middle Income ,2024
