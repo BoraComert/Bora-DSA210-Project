@@ -1,0 +1,877 @@
+Country;Income classification;Years
+Mayotte;Not classified;2019
+Yemen, Rep.;Low Income;2019
+Uganda;Low Income;2019
+Togo;Low Income;2019
+Tajikistan;Low Income;2019
+Syrian Arab Republic;Low Income;2019
+Sudan;Low Income;2019
+South Sudan;Low Income;2019
+Somalia;Low Income;2019
+Sierra Leone;Low Income;2019
+Rwanda;Low Income;2019
+Niger;Low Income;2019
+Mozambique;Low Income;2019
+Mali;Low Income;2019
+Malawi;Low Income;2019
+Madagascar;Low Income;2019
+Liberia;Low Income;2019
+Korea, Dem. Rep.;Low Income;2019
+Haiti;Low Income;2019
+Guinea-Bissau;Low Income;2019
+Guinea;Low Income;2019
+Gambia, The;Low Income;2019
+Ethiopia;Low Income;2019
+Eritrea;Low Income;2019
+Congo, Dem. Rep.;Low Income;2019
+Chad;Low Income;2019
+Central African Republic;Low Income;2019
+Burundi;Low Income;2019
+Burkina Faso;Low Income;2019
+Afghanistan;Low Income;2019
+Zimbabwe;Lower Middle Income;2019
+Zambia;Lower Middle Income;2019
+West Bank and Gaza;Lower Middle Income;2019
+Vietnam;Lower Middle Income;2019
+Vanuatu;Lower Middle Income;2019
+Uzbekistan;Lower Middle Income;2019
+Ukraine;Lower Middle Income;2019
+Tunisia;Lower Middle Income;2019
+Timor-Leste;Lower Middle Income;2019
+Tanzania;Lower Middle Income;2019
+Sri Lanka;Lower Middle Income;2019
+Solomon Islands;Lower Middle Income;2019
+Senegal;Lower Middle Income;2019
+São Tomé and Principe;Lower Middle Income;2019
+Philippines;Lower Middle Income;2019
+Papua New Guinea;Lower Middle Income;2019
+Pakistan;Lower Middle Income;2019
+Nigeria;Lower Middle Income;2019
+Nicaragua;Lower Middle Income;2019
+Nepal;Lower Middle Income;2019
+Myanmar;Lower Middle Income;2019
+Morocco;Lower Middle Income;2019
+Mongolia;Lower Middle Income;2019
+Moldova;Lower Middle Income;2019
+Micronesia, Fed. Sts.;Lower Middle Income;2019
+Mauritania;Lower Middle Income;2019
+Lesotho;Lower Middle Income;2019
+Lao PDR;Lower Middle Income;2019
+Kyrgyz Republic;Lower Middle Income;2019
+Kiribati;Lower Middle Income;2019
+Kenya;Lower Middle Income;2019
+India;Lower Middle Income;2019
+Honduras;Lower Middle Income;2019
+Ghana;Lower Middle Income;2019
+Eswatini;Lower Middle Income;2019
+El Salvador;Lower Middle Income;2019
+Egypt, Arab Rep.;Lower Middle Income;2019
+Djibouti;Lower Middle Income;2019
+Côte d'Ivoire;Lower Middle Income;2019
+Congo, Rep.;Lower Middle Income;2019
+Comoros;Lower Middle Income;2019
+Cameroon;Lower Middle Income;2019
+Cambodia;Lower Middle Income;2019
+Cabo Verde;Lower Middle Income;2019
+Bolivia;Lower Middle Income;2019
+Bhutan;Lower Middle Income;2019
+Benin;Lower Middle Income;2019
+Bangladesh;Lower Middle Income;2019
+Angola;Lower Middle Income;2019
+Algeria;Lower Middle Income;2019
+Venezuela, RB;Upper Middle Income;2019
+Tuvalu;Upper Middle Income;2019
+Turkmenistan;Upper Middle Income;2019
+Turkey;Upper Middle Income;2019
+Tonga;Upper Middle Income;2019
+Thailand;Upper Middle Income;2019
+Suriname;Upper Middle Income;2019
+St. Vincent and the Grenadines;Upper Middle Income;2019
+St. Lucia;Upper Middle Income;2019
+South Africa;Upper Middle Income;2019
+Serbia;Upper Middle Income;2019
+Samoa;Upper Middle Income;2019
+Russian Federation;Upper Middle Income;2019
+Peru;Upper Middle Income;2019
+Paraguay;Upper Middle Income;2019
+North Macedonia;Upper Middle Income;2019
+Namibia;Upper Middle Income;2019
+Montenegro;Upper Middle Income;2019
+Mexico;Upper Middle Income;2019
+Marshall Islands;Upper Middle Income;2019
+Maldives;Upper Middle Income;2019
+Malaysia;Upper Middle Income;2019
+Libya;Upper Middle Income;2019
+Lebanon;Upper Middle Income;2019
+Kosovo;Upper Middle Income;2019
+Kazakhstan;Upper Middle Income;2019
+Jordan;Upper Middle Income;2019
+Jamaica;Upper Middle Income;2019
+Iraq;Upper Middle Income;2019
+Iran, Islamic Rep.;Upper Middle Income;2019
+Indonesia;Upper Middle Income;2019
+Guyana;Upper Middle Income;2019
+Guatemala;Upper Middle Income;2019
+Grenada;Upper Middle Income;2019
+Georgia;Upper Middle Income;2019
+Gabon;Upper Middle Income;2019
+Fiji;Upper Middle Income;2019
+Equatorial Guinea;Upper Middle Income;2019
+Ecuador;Upper Middle Income;2019
+Dominican Republic;Upper Middle Income;2019
+Dominica;Upper Middle Income;2019
+Cuba;Upper Middle Income;2019
+Costa Rica;Upper Middle Income;2019
+Colombia;Upper Middle Income;2019
+China;Upper Middle Income;2019
+Bulgaria;Upper Middle Income;2019
+Brazil;Upper Middle Income;2019
+Botswana;Upper Middle Income;2019
+Bosnia and Herzegovina;Upper Middle Income;2019
+Belize;Upper Middle Income;2019
+Belarus;Upper Middle Income;2019
+Azerbaijan;Upper Middle Income;2019
+Armenia;Upper Middle Income;2019
+Argentina;Upper Middle Income;2019
+American Samoa;Upper Middle Income;2019
+Albania;Upper Middle Income;2019
+Virgin Islands (U.S.);High Income;2019
+Uruguay;High Income;2019
+United States;High Income;2019
+United Kingdom;High Income;2019
+United Arab Emirates;High Income;2019
+Turks and Caicos Islands;High Income;2019
+Trinidad and Tobago;High Income;2019
+Taiwan, China;High Income;2019
+Switzerland;High Income;2019
+Sweden;High Income;2019
+St. Martin (French part);High Income;2019
+St. Kitts and Nevis;High Income;2019
+Spain;High Income;2019
+Slovenia;High Income;2019
+Slovak Republic;High Income;2019
+Sint Maarten (Dutch part);High Income;2019
+Singapore;High Income;2019
+Seychelles;High Income;2019
+Saudi Arabia;High Income;2019
+San Marino;High Income;2019
+Romania;High Income;2019
+Qatar;High Income;2019
+Puerto Rico;High Income;2019
+Portugal;High Income;2019
+Poland;High Income;2019
+Panama;High Income;2019
+Palau;High Income;2019
+Oman;High Income;2019
+Norway;High Income;2019
+Northern Mariana Islands;High Income;2019
+New Zealand;High Income;2019
+New Caledonia;High Income;2019
+Netherlands;High Income;2019
+Nauru;High Income;2019
+Monaco;High Income;2019
+Mauritius;High Income;2019
+Malta;High Income;2019
+Macao SAR, China;High Income;2019
+Luxembourg;High Income;2019
+Lithuania;High Income;2019
+Liechtenstein;High Income;2019
+Latvia;High Income;2019
+Kuwait;High Income;2019
+Korea, Rep.;High Income;2019
+Japan;High Income;2019
+Italy;High Income;2019
+Israel;High Income;2019
+Isle of Man;High Income;2019
+Ireland;High Income;2019
+Iceland;High Income;2019
+Hungary;High Income;2019
+Hong Kong SAR, China;High Income;2019
+Guam;High Income;2019
+Greenland;High Income;2019
+Greece;High Income;2019
+Gibraltar;High Income;2019
+Germany;High Income;2019
+French Polynesia;High Income;2019
+France;High Income;2019
+Finland;High Income;2019
+Faeroe Islands;High Income;2019
+Estonia;High Income;2019
+Denmark;High Income;2019
+Czech Republic;High Income;2019
+Cyprus;High Income;2019
+Curaçao;High Income;2019
+Croatia;High Income;2019
+Chile;High Income;2019
+Channel Islands;High Income;2019
+Cayman Islands;High Income;2019
+Canada;High Income;2019
+Brunei Darussalam;High Income;2019
+British Virgin Islands;High Income;2019
+Bermuda;High Income;2019
+Belgium;High Income;2019
+Barbados;High Income;2019
+Bahrain;High Income;2019
+Bahamas, The;High Income;2019
+Austria;High Income;2019
+Australia;High Income;2019
+Aruba;High Income;2019
+Antigua and Barbuda;High Income;2019
+Andorra;High Income;2019
+Venezuela, RB;Not classified;2020
+Mayotte;Not classified;2020
+Yemen, Rep.;Low Income;2020
+Uganda;Low Income;2020
+Togo;Low Income;2020
+Syrian Arab Republic;Low Income;2020
+Sudan;Low Income;2020
+South Sudan;Low Income;2020
+Somalia;Low Income;2020
+Sierra Leone;Low Income;2020
+Rwanda;Low Income;2020
+Niger;Low Income;2020
+Mozambique;Low Income;2020
+Mali;Low Income;2020
+Malawi;Low Income;2020
+Madagascar;Low Income;2020
+Liberia;Low Income;2020
+Korea, Dem. Rep.;Low Income;2020
+Guinea-Bissau;Low Income;2020
+Guinea;Low Income;2020
+Gambia, The;Low Income;2020
+Ethiopia;Low Income;2020
+Eritrea;Low Income;2020
+Congo, Dem. Rep.;Low Income;2020
+Chad;Low Income;2020
+Central African Republic;Low Income;2020
+Burundi;Low Income;2020
+Burkina Faso;Low Income;2020
+Afghanistan;Low Income;2020
+Zimbabwe;Lower Middle Income;2020
+Zambia;Lower Middle Income;2020
+West Bank and Gaza;Lower Middle Income;2020
+Vietnam;Lower Middle Income;2020
+Vanuatu;Lower Middle Income;2020
+Uzbekistan;Lower Middle Income;2020
+Ukraine;Lower Middle Income;2020
+Tunisia;Lower Middle Income;2020
+Timor-Leste;Lower Middle Income;2020
+Tanzania;Lower Middle Income;2020
+Tajikistan;Lower Middle Income;2020
+Sri Lanka;Lower Middle Income;2020
+Solomon Islands;Lower Middle Income;2020
+Senegal;Lower Middle Income;2020
+São Tomé and Principe;Lower Middle Income;2020
+Samoa;Lower Middle Income;2020
+Philippines;Lower Middle Income;2020
+Papua New Guinea;Lower Middle Income;2020
+Pakistan;Lower Middle Income;2020
+Nigeria;Lower Middle Income;2020
+Nicaragua;Lower Middle Income;2020
+Nepal;Lower Middle Income;2020
+Myanmar;Lower Middle Income;2020
+Morocco;Lower Middle Income;2020
+Mongolia;Lower Middle Income;2020
+Micronesia, Fed. Sts.;Lower Middle Income;2020
+Mauritania;Lower Middle Income;2020
+Lesotho;Lower Middle Income;2020
+Lao PDR;Lower Middle Income;2020
+Kyrgyz Republic;Lower Middle Income;2020
+Kiribati;Lower Middle Income;2020
+Kenya;Lower Middle Income;2020
+Iran, Islamic Rep.;Lower Middle Income;2020
+Indonesia;Lower Middle Income;2020
+India;Lower Middle Income;2020
+Honduras;Lower Middle Income;2020
+Haiti;Lower Middle Income;2020
+Ghana;Lower Middle Income;2020
+Eswatini;Lower Middle Income;2020
+El Salvador;Lower Middle Income;2020
+Egypt, Arab Rep.;Lower Middle Income;2020
+Djibouti;Lower Middle Income;2020
+Côte d'Ivoire;Lower Middle Income;2020
+Congo, Rep.;Lower Middle Income;2020
+Comoros;Lower Middle Income;2020
+Cameroon;Lower Middle Income;2020
+Cambodia;Lower Middle Income;2020
+Cabo Verde;Lower Middle Income;2020
+Bolivia;Lower Middle Income;2020
+Bhutan;Lower Middle Income;2020
+Benin;Lower Middle Income;2020
+Belize;Lower Middle Income;2020
+Bangladesh;Lower Middle Income;2020
+Angola;Lower Middle Income;2020
+Algeria;Lower Middle Income;2020
+Tuvalu;Upper Middle Income;2020
+Turkmenistan;Upper Middle Income;2020
+Turkey;Upper Middle Income;2020
+Tonga;Upper Middle Income;2020
+Thailand;Upper Middle Income;2020
+Suriname;Upper Middle Income;2020
+St. Vincent and the Grenadines;Upper Middle Income;2020
+St. Lucia;Upper Middle Income;2020
+South Africa;Upper Middle Income;2020
+Serbia;Upper Middle Income;2020
+Russian Federation;Upper Middle Income;2020
+Romania;Upper Middle Income;2020
+Peru;Upper Middle Income;2020
+Paraguay;Upper Middle Income;2020
+Panama;Upper Middle Income;2020
+North Macedonia;Upper Middle Income;2020
+Namibia;Upper Middle Income;2020
+Montenegro;Upper Middle Income;2020
+Moldova;Upper Middle Income;2020
+Mexico;Upper Middle Income;2020
+Mauritius;Upper Middle Income;2020
+Marshall Islands;Upper Middle Income;2020
+Maldives;Upper Middle Income;2020
+Malaysia;Upper Middle Income;2020
+Libya;Upper Middle Income;2020
+Lebanon;Upper Middle Income;2020
+Kosovo;Upper Middle Income;2020
+Kazakhstan;Upper Middle Income;2020
+Jordan;Upper Middle Income;2020
+Jamaica;Upper Middle Income;2020
+Iraq;Upper Middle Income;2020
+Guyana;Upper Middle Income;2020
+Guatemala;Upper Middle Income;2020
+Grenada;Upper Middle Income;2020
+Georgia;Upper Middle Income;2020
+Gabon;Upper Middle Income;2020
+Fiji;Upper Middle Income;2020
+Equatorial Guinea;Upper Middle Income;2020
+Ecuador;Upper Middle Income;2020
+Dominican Republic;Upper Middle Income;2020
+Dominica;Upper Middle Income;2020
+Cuba;Upper Middle Income;2020
+Costa Rica;Upper Middle Income;2020
+Colombia;Upper Middle Income;2020
+China;Upper Middle Income;2020
+Bulgaria;Upper Middle Income;2020
+Brazil;Upper Middle Income;2020
+Botswana;Upper Middle Income;2020
+Bosnia and Herzegovina;Upper Middle Income;2020
+Belarus;Upper Middle Income;2020
+Azerbaijan;Upper Middle Income;2020
+Armenia;Upper Middle Income;2020
+Argentina;Upper Middle Income;2020
+American Samoa;Upper Middle Income;2020
+Albania;Upper Middle Income;2020
+Virgin Islands (U.S.);High Income;2020
+Uruguay;High Income;2020
+United States;High Income;2020
+United Kingdom;High Income;2020
+United Arab Emirates;High Income;2020
+Turks and Caicos Islands;High Income;2020
+Trinidad and Tobago;High Income;2020
+Taiwan, China;High Income;2020
+Switzerland;High Income;2020
+Sweden;High Income;2020
+St. Martin (French part);High Income;2020
+St. Kitts and Nevis;High Income;2020
+Spain;High Income;2020
+Slovenia;High Income;2020
+Slovak Republic;High Income;2020
+Sint Maarten (Dutch part);High Income;2020
+Singapore;High Income;2020
+Seychelles;High Income;2020
+Saudi Arabia;High Income;2020
+San Marino;High Income;2020
+Qatar;High Income;2020
+Puerto Rico;High Income;2020
+Portugal;High Income;2020
+Poland;High Income;2020
+Palau;High Income;2020
+Oman;High Income;2020
+Norway;High Income;2020
+Northern Mariana Islands;High Income;2020
+New Zealand;High Income;2020
+New Caledonia;High Income;2020
+Netherlands;High Income;2020
+Nauru;High Income;2020
+Monaco;High Income;2020
+Malta;High Income;2020
+Macao SAR, China;High Income;2020
+Luxembourg;High Income;2020
+Lithuania;High Income;2020
+Liechtenstein;High Income;2020
+Latvia;High Income;2020
+Kuwait;High Income;2020
+Korea, Rep.;High Income;2020
+Japan;High Income;2020
+Italy;High Income;2020
+Israel;High Income;2020
+Isle of Man;High Income;2020
+Ireland;High Income;2020
+Iceland;High Income;2020
+Hungary;High Income;2020
+Hong Kong SAR, China;High Income;2020
+Guam;High Income;2020
+Greenland;High Income;2020
+Greece;High Income;2020
+Gibraltar;High Income;2020
+Germany;High Income;2020
+French Polynesia;High Income;2020
+France;High Income;2020
+Finland;High Income;2020
+Faeroe Islands;High Income;2020
+Estonia;High Income;2020
+Denmark;High Income;2020
+Czech Republic;High Income;2020
+Cyprus;High Income;2020
+Curaçao;High Income;2020
+Croatia;High Income;2020
+Chile;High Income;2020
+Channel Islands;High Income;2020
+Cayman Islands;High Income;2020
+Canada;High Income;2020
+Brunei Darussalam;High Income;2020
+British Virgin Islands;High Income;2020
+Bermuda;High Income;2020
+Belgium;High Income;2020
+Barbados;High Income;2020
+Bahrain;High Income;2020
+Bahamas, The;High Income;2020
+Austria;High Income;2020
+Australia;High Income;2020
+Aruba;High Income;2020
+Antigua and Barbuda;High Income;2020
+Andorra;High Income;2020
+Afghanistan;Low Income;2021
+Albania;Upper Middle Income;2021
+Algeria;Lower Middle Income;2021
+American Samoa;Upper Middle Income;2021
+Andorra;High Income;2021
+Angola;Lower Middle Income;2021
+Antigua and Barbuda;High Income;2021
+Argentina;Upper Middle Income;2021
+Armenia;Upper Middle Income;2021
+Aruba;High Income;2021
+Australia;High Income;2021
+Austria;High Income;2021
+Azerbaijan;Upper Middle Income;2021
+Bahamas, The;High Income;2021
+Bahrain;High Income;2021
+Bangladesh;Lower Middle Income;2021
+Barbados;High Income;2021
+Belarus;Upper Middle Income;2021
+Belgium;High Income;2021
+Belize;Upper Middle Income;2021
+Benin;Lower Middle Income;2021
+Bermuda;High Income;2021
+Bhutan;Lower Middle Income;2021
+Bolivia;Lower Middle Income;2021
+Bosnia and Herzegovina;Upper Middle Income;2021
+Botswana;Upper Middle Income;2021
+Brazil;Upper Middle Income;2021
+British Virgin Islands;High Income;2021
+Brunei Darussalam;High Income;2021
+Bulgaria;Upper Middle Income;2021
+Burkina Faso;Low Income;2021
+Burundi;Low Income;2021
+Cabo Verde;Lower Middle Income;2021
+Cambodia;Lower Middle Income;2021
+Cameroon;Lower Middle Income;2021
+Canada;High Income;2021
+Cayman Islands;High Income;2021
+Central African Republic;Low Income;2021
+Chad;Low Income;2021
+Channel Islands;High Income;2021
+Chile;High Income;2021
+China;Upper Middle Income;2021
+Colombia;Upper Middle Income;2021
+Comoros;Lower Middle Income;2021
+Congo, Dem. Rep.;Low Income;2021
+Congo, Rep.;Lower Middle Income;2021
+Costa Rica;Upper Middle Income;2021
+Côte d'Ivoire;Lower Middle Income;2021
+Croatia;High Income;2021
+Cuba;Upper Middle Income;2021
+Curaçao;High Income;2021
+Cyprus;High Income;2021
+Czech Republic;High Income;2021
+Denmark;High Income;2021
+Djibouti;Lower Middle Income;2021
+Dominica;Upper Middle Income;2021
+Dominican Republic;Upper Middle Income;2021
+Ecuador;Upper Middle Income;2021
+Egypt, Arab Rep.;Lower Middle Income;2021
+El Salvador;Lower Middle Income;2021
+Equatorial Guinea;Upper Middle Income;2021
+Eritrea;Low Income;2021
+Estonia;High Income;2021
+Eswatini;Lower Middle Income;2021
+Ethiopia;Low Income;2021
+Faeroe Islands;High Income;2021
+Fiji;Upper Middle Income;2021
+Finland;High Income;2021
+France;High Income;2021
+French Polynesia;High Income;2021
+Gabon;Upper Middle Income;2021
+Gambia, The;Low Income;2021
+Georgia;Upper Middle Income;2021
+Germany;High Income;2021
+Ghana;Lower Middle Income;2021
+Gibraltar;High Income;2021
+Greece;High Income;2021
+Greenland;High Income;2021
+Grenada;Upper Middle Income;2021
+Guam;High Income;2021
+Guatemala;Upper Middle Income;2021
+Guinea;Low Income;2021
+Guinea-Bissau;Low Income;2021
+Guyana;Upper Middle Income;2021
+Haiti;Lower Middle Income;2021
+Honduras;Lower Middle Income;2021
+Hong Kong SAR, China;High Income;2021
+Hungary;High Income;2021
+Iceland;High Income;2021
+India;Lower Middle Income;2021
+Indonesia;Lower Middle Income;2021
+Iran, Islamic Rep.;Lower Middle Income;2021
+Iraq;Upper Middle Income;2021
+Ireland;High Income;2021
+Isle of Man;High Income;2021
+Israel;High Income;2021
+Italy;High Income;2021
+Jamaica;Upper Middle Income;2021
+Japan;High Income;2021
+Jordan;Upper Middle Income;2021
+Kazakhstan;Upper Middle Income;2021
+Kenya;Lower Middle Income;2021
+Kiribati;Lower Middle Income;2021
+Korea, Dem. Rep.;Low Income;2021
+Korea, Rep.;High Income;2021
+Kosovo;Upper Middle Income;2021
+Kuwait;High Income;2021
+Kyrgyz Republic;Lower Middle Income;2021
+Lao PDR;Lower Middle Income;2021
+Latvia;High Income;2021
+Lebanon;Lower Middle Income;2021
+Lesotho;Lower Middle Income;2021
+Liberia;Low Income;2021
+Libya;Upper Middle Income;2021
+Liechtenstein;High Income;2021
+Lithuania;High Income;2021
+Luxembourg;High Income;2021
+Macao SAR, China;High Income;2021
+Madagascar;Low Income;2021
+Malawi;Low Income;2021
+Malaysia;Upper Middle Income;2021
+Maldives;Upper Middle Income;2021
+Mali;Low Income;2021
+Malta;High Income;2021
+Marshall Islands;Upper Middle Income;2021
+Mauritania;Lower Middle Income;2021
+Mauritius;Upper Middle Income;2021
+Mayotte;Not classified;2021
+Mexico;Upper Middle Income;2021
+Micronesia, Fed. Sts.;Lower Middle Income;2021
+Moldova;Upper Middle Income;2021
+Monaco;High Income;2021
+Mongolia;Lower Middle Income;2021
+Montenegro;Upper Middle Income;2021
+Morocco;Lower Middle Income;2021
+Mozambique;Low Income;2021
+Myanmar;Lower Middle Income;2021
+Namibia;Upper Middle Income;2021
+Nauru;High Income;2021
+Nepal;Lower Middle Income;2021
+Netherlands;High Income;2021
+New Caledonia;High Income;2021
+New Zealand;High Income;2021
+Nicaragua;Lower Middle Income;2021
+Niger;Low Income;2021
+Nigeria;Lower Middle Income;2021
+North Macedonia;Upper Middle Income;2021
+Northern Mariana Islands;High Income;2021
+Norway;High Income;2021
+Oman;High Income;2021
+Pakistan;Lower Middle Income;2021
+Palau;Upper Middle Income;2021
+Panama;High Income;2021
+Papua New Guinea;Lower Middle Income;2021
+Paraguay;Upper Middle Income;2021
+Peru;Upper Middle Income;2021
+Philippines;Lower Middle Income;2021
+Poland;High Income;2021
+Portugal;High Income;2021
+Puerto Rico;High Income;2021
+Qatar;High Income;2021
+Romania;High Income;2021
+Russian Federation;Upper Middle Income;2021
+Rwanda;Low Income;2021
+Samoa;Lower Middle Income;2021
+San Marino;High Income;2021
+São Tomé and Principe;Lower Middle Income;2021
+Saudi Arabia;High Income;2021
+Senegal;Lower Middle Income;2021
+Serbia;Upper Middle Income;2021
+Seychelles;High Income;2021
+Sierra Leone;Low Income;2021
+Singapore;High Income;2021
+Sint Maarten (Dutch part);High Income;2021
+Slovak Republic;High Income;2021
+Slovenia;High Income;2021
+Solomon Islands;Lower Middle Income;2021
+Somalia;Low Income;2021
+South Africa;Upper Middle Income;2021
+South Sudan;Low Income;2021
+Spain;High Income;2021
+Sri Lanka;Lower Middle Income;2021
+St. Kitts and Nevis;High Income;2021
+St. Lucia;Upper Middle Income;2021
+St. Martin (French part);High Income;2021
+St. Vincent and the Grenadines;Upper Middle Income;2021
+Sudan;Low Income;2021
+Suriname;Upper Middle Income;2021
+Sweden;High Income;2021
+Switzerland;High Income;2021
+Syrian Arab Republic;Low Income;2021
+Taiwan, China;High Income;2021
+Tajikistan;Lower Middle Income;2021
+Tanzania;Lower Middle Income;2021
+Thailand;Upper Middle Income;2021
+Timor-Leste;Lower Middle Income;2021
+Togo;Low Income;2021
+Tonga;Upper Middle Income;2021
+Trinidad and Tobago;High Income;2021
+Tunisia;Lower Middle Income;2021
+Turkey;Upper Middle Income;2021
+Turkmenistan;Upper Middle Income;2021
+Turks and Caicos Islands;High Income;2021
+Tuvalu;Upper Middle Income;2021
+Uganda;Low Income;2021
+Ukraine;Lower Middle Income;2021
+United Arab Emirates;High Income;2021
+United Kingdom;High Income;2021
+United States;High Income;2021
+Uruguay;High Income;2021
+Uzbekistan;Lower Middle Income;2021
+Vanuatu;Lower Middle Income;2021
+Venezuela, RB;Not classified;2021
+Vietnam;Lower Middle Income;2021
+Virgin Islands (U.S.);High Income;2021
+West Bank and Gaza;Lower Middle Income;2021
+Yemen, Rep.;Low Income;2021
+Zambia;Low Income;2021
+Zimbabwe;Lower Middle Income;2021
+Afghanistan;Low Income;2022
+Albania;Upper Middle Income;2022
+Algeria;Lower Middle Income;2022
+American Samoa;Upper Middle Income;2022
+Andorra;High Income;2022
+Angola;Lower Middle Income;2022
+Antigua and Barbuda;High Income;2022
+Argentina;Upper Middle Income;2022
+Armenia;Upper Middle Income;2022
+Aruba;High Income;2022
+Australia;High Income;2022
+Austria;High Income;2022
+Azerbaijan;Upper Middle Income;2022
+Bahamas, The;High Income;2022
+Bahrain;High Income;2022
+Bangladesh;Lower Middle Income;2022
+Barbados;High Income;2022
+Belarus;Upper Middle Income;2022
+Belgium;High Income;2022
+Belize;Upper Middle Income;2022
+Benin;Lower Middle Income;2022
+Bermuda;High Income;2022
+Bhutan;Lower Middle Income;2022
+Bolivia;Lower Middle Income;2022
+Bosnia and Herzegovina;Upper Middle Income;2022
+Botswana;Upper Middle Income;2022
+Brazil;Upper Middle Income;2022
+British Virgin Islands;High Income;2022
+Brunei Darussalam;High Income;2022
+Bulgaria;Upper Middle Income;2022
+Burkina Faso;Low Income;2022
+Burundi;Low Income;2022
+Cabo Verde;Lower Middle Income;2022
+Cambodia;Lower Middle Income;2022
+Cameroon;Lower Middle Income;2022
+Canada;High Income;2022
+Cayman Islands;High Income;2022
+Central African Republic;Low Income;2022
+Chad;Low Income;2022
+Channel Islands;High Income;2022
+Chile;High Income;2022
+China;Upper Middle Income;2022
+Colombia;Upper Middle Income;2022
+Comoros;Lower Middle Income;2022
+Congo, Dem. Rep.;Low Income;2022
+Congo, Rep.;Lower Middle Income;2022
+Costa Rica;Upper Middle Income;2022
+Côte d'Ivoire;Lower Middle Income;2022
+Croatia;High Income;2022
+Cuba;Upper Middle Income;2022
+Curaçao;High Income;2022
+Cyprus;High Income;2022
+Czech Republic;High Income;2022
+Denmark;High Income;2022
+Djibouti;Lower Middle Income;2022
+Dominica;Upper Middle Income;2022
+Dominican Republic;Upper Middle Income;2022
+Ecuador;Upper Middle Income;2022
+Egypt, Arab Rep.;Lower Middle Income;2022
+El Salvador;Lower Middle Income;2022
+Equatorial Guinea;Upper Middle Income;2022
+Eritrea;Low Income;2022
+Estonia;High Income;2022
+Eswatini;Lower Middle Income;2022
+Ethiopia;Low Income;2022
+Faeroe Islands;High Income;2022
+Fiji;Upper Middle Income;2022
+Finland;High Income;2022
+France;High Income;2022
+French Polynesia;High Income;2022
+Gabon;Upper Middle Income;2022
+Gambia, The;Low Income;2022
+Georgia;Upper Middle Income;2022
+Germany;High Income;2022
+Ghana;Lower Middle Income;2022
+Gibraltar;High Income;2022
+Greece;High Income;2022
+Greenland;High Income;2022
+Grenada;Upper Middle Income;2022
+Guam;High Income;2022
+Guatemala;Upper Middle Income;2022
+Guinea;Lower Middle Income;2022
+Guinea-Bissau;Low Income;2022
+Guyana;High Income;2022
+Haiti;Lower Middle Income;2022
+Honduras;Lower Middle Income;2022
+Hong Kong SAR, China;High Income;2022
+Hungary;High Income;2022
+Iceland;High Income;2022
+India;Lower Middle Income;2022
+Indonesia;Lower Middle Income;2022
+Iran, Islamic Rep.;Lower Middle Income;2022
+Iraq;Upper Middle Income;2022
+Ireland;High Income;2022
+Isle of Man;High Income;2022
+Israel;High Income;2022
+Italy;High Income;2022
+Jamaica;Upper Middle Income;2022
+Japan;High Income;2022
+Jordan;Upper Middle Income;2022
+Kazakhstan;Upper Middle Income;2022
+Kenya;Lower Middle Income;2022
+Kiribati;Lower Middle Income;2022
+Korea, Dem. Rep.;Low Income;2022
+Korea, Rep.;High Income;2022
+Kosovo;Upper Middle Income;2022
+Kuwait;High Income;2022
+Kyrgyz Republic;Lower Middle Income;2022
+Lao PDR;Lower Middle Income;2022
+Latvia;High Income;2022
+Lebanon;Lower Middle Income;2022
+Lesotho;Lower Middle Income;2022
+Liberia;Low Income;2022
+Libya;Upper Middle Income;2022
+Liechtenstein;High Income;2022
+Lithuania;High Income;2022
+Luxembourg;High Income;2022
+Macao SAR, China;High Income;2022
+Madagascar;Low Income;2022
+Malawi;Low Income;2022
+Malaysia;Upper Middle Income;2022
+Maldives;Upper Middle Income;2022
+Mali;Low Income;2022
+Malta;High Income;2022
+Marshall Islands;Upper Middle Income;2022
+Mauritania;Lower Middle Income;2022
+Mauritius;Upper Middle Income;2022
+Mayotte;Not classified;2022
+Mexico;Upper Middle Income;2022
+Micronesia, Fed. Sts.;Lower Middle Income;2022
+Moldova;Upper Middle Income;2022
+Monaco;High Income;2022
+Mongolia;Lower Middle Income;2022
+Montenegro;Upper Middle Income;2022
+Morocco;Lower Middle Income;2022
+Mozambique;Low Income;2022
+Myanmar;Lower Middle Income;2022
+Namibia;Upper Middle Income;2022
+Nauru;High Income;2022
+Nepal;Lower Middle Income;2022
+Netherlands;High Income;2022
+New Caledonia;High Income;2022
+New Zealand;High Income;2022
+Nicaragua;Lower Middle Income;2022
+Niger;Low Income;2022
+Nigeria;Lower Middle Income;2022
+North Macedonia;Upper Middle Income;2022
+Northern Mariana Islands;High Income;2022
+Norway;High Income;2022
+Oman;High Income;2022
+Pakistan;Lower Middle Income;2022
+Palau;Upper Middle Income;2022
+Panama;High Income;2022
+Papua New Guinea;Lower Middle Income;2022
+Paraguay;Upper Middle Income;2022
+Peru;Upper Middle Income;2022
+Philippines;Lower Middle Income;2022
+Poland;High Income;2022
+Portugal;High Income;2022
+Puerto Rico;High Income;2022
+Qatar;High Income;2022
+Romania;High Income;2022
+Russian Federation;Upper Middle Income;2022
+Rwanda;Low Income;2022
+Samoa;Lower Middle Income;2022
+San Marino;High Income;2022
+São Tomé and Principe;Lower Middle Income;2022
+Saudi Arabia;High Income;2022
+Senegal;Lower Middle Income;2022
+Serbia;Upper Middle Income;2022
+Seychelles;High Income;2022
+Sierra Leone;Low Income;2022
+Singapore;High Income;2022
+Sint Maarten (Dutch part);High Income;2022
+Slovak Republic;High Income;2022
+Slovenia;High Income;2022
+Solomon Islands;Lower Middle Income;2022
+Somalia;Low Income;2022
+South Africa;Upper Middle Income;2022
+South Sudan;Low Income;2022
+Spain;High Income;2022
+Sri Lanka;Lower Middle Income;2022
+St. Kitts and Nevis;High Income;2022
+St. Lucia;Upper Middle Income;2022
+St. Martin (French part);High Income;2022
+St. Vincent and the Grenadines;Upper Middle Income;2022
+Sudan;Low Income;2022
+Suriname;Upper Middle Income;2022
+Sweden;High Income;2022
+Switzerland;High Income;2022
+Syrian Arab Republic;Low Income;2022
+Taiwan, China;High Income;2022
+Tajikistan;Lower Middle Income;2022
+Tanzania;Lower Middle Income;2022
+Thailand;Upper Middle Income;2022
+Timor-Leste;Lower Middle Income;2022
+Togo;Low Income;2022
+Tonga;Upper Middle Income;2022
+Trinidad and Tobago;High Income;2022
+Tunisia;Lower Middle Income;2022
+Turkey;Upper Middle Income;2022
+Turkmenistan;Upper Middle Income;2022
+Turks and Caicos Islands;High Income;2022
+Tuvalu;Upper Middle Income;2022
+Uganda;Low Income;2022
+Ukraine;Lower Middle Income;2022
+United Arab Emirates;High Income;2022
+United Kingdom;High Income;2022
+United States;High Income;2022
+Uruguay;High Income;2022
+Uzbekistan;Lower Middle Income;2022
+Vanuatu;Lower Middle Income;2022
+Venezuela, RB;Not classified;2022
+Vietnam;Lower Middle Income;2022
+Virgin Islands (U.S.);High Income;2022
+West Bank and Gaza;Lower Middle Income;2022
+Yemen, Rep.;Low Income;2022
+Zambia;Lower Middle Income;2022
+Zimbabwe;Lower Middle Income;2022
