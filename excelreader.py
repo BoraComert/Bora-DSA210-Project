@@ -1,7 +1,9 @@
 import pandas as pd
 
+#I used this code to read from the excel file containing all climate data 
+
 # Load Excel data
-df = pd.read_excel("allhumidity.xlsx")
+df = pd.read_excel("ALLTAS.xlsx")
 
 # Confirm actual column name 
 df = df.set_index("code")
@@ -17,6 +19,6 @@ df_transposed = df_filtered.T
 df_transposed.index.name = "Date"
 
 # Save as CSV
-df_transposed.to_csv("filtered_climate_data_humidity.csv")
+df_transposed.to_csv("filtered_climate_data_temp.csv")
 
 print("Saved filtered data with only country averages to 'filtered_climate_data.csv'")
