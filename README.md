@@ -112,11 +112,16 @@ After Inspecting the plot there is clearly a relationship between humidity of th
 
 A table containing Season of Istanbul and total tourist numbers from cold,moderate and warm countries is formed. By doing so we can actually analyze the preference of people from different climates.
 
-
 Chi-Square Test of Independence Results:
 Chi2 statistic: 26093420.685
 P-value < 0.001
 Degrees of freedom: 6
+
+A table containing humidity classification of Istanbul and other countries were made to analyze the humidity of the peoples origin country on their preference to the time they visit Istanbul.
+
+Chi2 statistic: 240070.010
+p-value < 0.001
+degrees of freedom: 2
 
 We reject null hypothesis (p-value=0.001 < 0.05)
 
@@ -124,6 +129,6 @@ Null Hypothesis: There is no significant relationship between the climate of tou
 
 Alternative Hypothesis: There is a significant relationship between the climate of tourists' home countries and the season during which they choose to visit Istanbul.
 
-There is a relationship between climate of the tourists origin country and their preference for Istanbul
+There is a relationship between climate of the tourists origin country and their preference for Istanbul. People tend to choose the time when climate conditions of Istanbul is similar to their countries.
 
 
