@@ -70,7 +70,7 @@ Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&p
 
 3.  Monthly foreign visitor numbers will be compared to see if a pattern exists.
 
-4.  Nationalities of the the foreign visitors will be compared against income if a pattern exists.
+4.  The time foreign visitors come to Istanbul will be compared against income classification to analyze if a pattern exists.
 
 5.  Climate of the Countries tourists come from are  analyzed and seperated into cold or hot weather categories.
 
