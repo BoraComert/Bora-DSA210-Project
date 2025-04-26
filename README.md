@@ -102,6 +102,10 @@ The plot is created with inflationanalysis.py
 
 The USD/TL exchange rate has a moderate effect on the tourist preference while coming to Istanbul.
 
+![Figure_5](https://github.com/user-attachments/assets/e1d351fc-804a-45fb-a98a-891ee43f8e4b)
+the plot is created by humidityandprecipitationanalysis.py
+
+
 ## Hypothesis Testing
 
 A table containing Season of Istanbul and total tourist numbers from cold,moderate and warm countries is formed. By doing so we can actually analyze the preference of people from different climates.
@@ -109,10 +113,10 @@ A table containing Season of Istanbul and total tourist numbers from cold,modera
 
 Chi-Square Test of Independence Results:
 Chi2 statistic: 26093420.685
-P-value: 0.00000
+P-value < 0.001
 Degrees of freedom: 6
 
-We reject null hypothesis (p-value=0 < 0.05)
+We reject null hypothesis (p-value=0.001 < 0.05)
 
 Null Hypothesis: There is no significant relationship between the climate of tourists' home countries and the season during which they choose to visit Istanbul.
 
