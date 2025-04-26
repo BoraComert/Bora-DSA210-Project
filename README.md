@@ -112,6 +112,11 @@ the plot is created by precipitationanalysis.py
 
 After inspecting this graph it can be concluded that people tend to not come to istanbul during times of high precipitation.
 
+![Figure_1](https://github.com/user-attachments/assets/d1cb9b33-7286-4575-9242-156f845ea3f0)
+the plot is created by IncomeClassification.py
+
+This plot is to analyze if the income group of countries have an effect on when the tourist come to Istanbul.
+
 ## Hypothesis Testing
 
 A table containing Season of Istanbul and total tourist numbers from cold,moderate and warm countries is formed. By doing so we can actually analyze the preference of people from different climates.
@@ -140,5 +145,5 @@ However when analyzing tourist numbers and Istanbul precipitation levels , the f
 ## Future Work 
 
 There might be economic conditions in the background which might require further analysis.
-
+Proximity might have an effect on tourisit decisions.
 
