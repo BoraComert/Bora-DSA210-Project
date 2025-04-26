@@ -2,15 +2,14 @@ import pandas as pd
 from scipy.stats import chi2_contingency
 import matplotlib.pyplot as plt
 
-
+# Read your data
 df = pd.read_csv("/Users/boracomert/Desktop/Bora-DSA210-Project-1/merged_output.csv")
 
-# Grouping function
-def group_by_season(df):
+# Group function
+def group_by_weather(df):
     df['Date'] = pd.to_datetime(df['Date'])
-    month_to_season = {1: 'Winter', 4: 'Spring', 7: 'Summer', 10: 'Autumn'}
-    df['Season'] = df['Date'].dt.month.map(month_to_season)
     
+    # Classify country temperature
     def classify_country(temp):
         if temp > 20:
             return 'Warm'
@@ -20,74 +19,55 @@ def group_by_season(df):
             return 'Cold'
     df['Country_Type'] = df['Country_Temp'].apply(classify_country)
     
-    # Add Humidity Classificaiton
-    def classify_humidity(humidity):
+    # Classify country humidity
+    def classify_country_humidity(humidity):
         if humidity < 40:
             return 'Low Humidity'
         elif humidity <= 70:
             return 'Moderate Humidity'
         else:
             return 'High Humidity'
-    df['Humidity_Type'] = df['Country_Humidity'].apply(classify_humidity)
+    df['Humidity_Type'] = df['Country_Humidity'].apply(classify_country_humidity)
     
-    # Add Precipitation Type
-    def classify_precipitation(precip):
-        if precip < 250:
+    # Classify country precipitation
+    def classify_country_precip(precip):
+        if precip < 500:
             return 'Low Precipitation'
-        elif precip <= 700:
+        elif precip <= 1000:
             return 'Moderate Precipitation'
         else:
             return 'High Precipitation'
-    df['Precipitation_Type'] = df['Country_Precipitation'].apply(classify_precipitation)
+    df['Precipitation_Type'] = df['Country_Precipitation'].apply(classify_country_precip)
+    
+    # Classify Istanbul humidity
+    def classify_istanbul_humidity(humidity):
+        if humidity < 40:
+            return 'Low Humidity'
+        elif humidity <= 70:
+            return 'Moderate Humidity'
+        else:
+            return 'High Humidity'
+    df['Istanbul_Humidity_Type'] = df['Avg Humidity (%)'].apply(classify_istanbul_humidity)
     
     return df
 
-df = group_by_season(df)
+# Apply the function
+df = group_by_weather(df)
 
-# 4. Pivot tables
-# a) Temperature (already done previously)
-temp_group = df.groupby(['Season', 'Country_Type'])['ziyaretci_sayisi'].sum().reset_index()
-temp_pivot = temp_group.pivot(index='Season', columns='Country_Type', values='ziyaretci_sayisi').fillna(0)
+# Group by Istanbul Humidity and Country Humidity
+humidity_group = df.groupby(['Istanbul_Humidity_Type', 'Humidity_Type'])['ziyaretci_sayisi'].sum().reset_index()
+humidity_pivot = humidity_group.pivot(index='Istanbul_Humidity_Type', columns='Humidity_Type', values='ziyaretci_sayisi').fillna(0)
 
-# b) Humidity
-humidity_group = df.groupby(['Season', 'Humidity_Type'])['ziyaretci_sayisi'].sum().reset_index()
-humidity_pivot = humidity_group.pivot(index='Season', columns='Humidity_Type', values='ziyaretci_sayisi').fillna(0)
-
-# c) Precipitation
-precip_group = df.groupby(['Season', 'Precipitation_Type'])['ziyaretci_sayisi'].sum().reset_index()
-precip_pivot = precip_group.pivot(index='Season', columns='Precipitation_Type', values='ziyaretci_sayisi').fillna(0)
-
-
-# a) Temperature Chi-Square
-chi2_temp, p_temp, dof_temp, _ = chi2_contingency(temp_pivot)
-print("\nTemperature Chi-Square Test:")
-print(f"Chi2: {chi2_temp:.3f} | p-value: {p_temp:.5f} | dof: {dof_temp}")
-
-# b) Humidity Chi-Square
+# Run Chi-Square tests
 chi2_hum, p_hum, dof_hum, _ = chi2_contingency(humidity_pivot)
-print("\nHumidity Chi-Square Test:")
+print("\nChi-Square Test between Istanbul Humidity and Country Humidity:")
 print(f"Chi2: {chi2_hum:.3f} | p-value: {p_hum:.5f} | dof: {dof_hum}")
 
-# c) Precipitation Chi-Square
-chi2_prec, p_prec, dof_prec, _ = chi2_contingency(precip_pivot)
-print("\nPrecipitation Chi-Square Test:")
-print(f"Chi2: {chi2_prec:.3f} | p-value: {p_prec:.5f} | dof: {dof_prec}")
-
-# Plot for Humidity
+# (Optional) Plot humidity
 humidity_pivot.plot(kind='bar', figsize=(12,7), width=0.7)
-plt.title('Tourist Numbers by Season and Country Climate (Humidity)')
+plt.title('Tourist Numbers by Istanbul Humidity and Country Humidity')
 plt.ylabel('Total Tourists')
-plt.xlabel('Season')
-plt.xticks(rotation=0)
-plt.grid(axis='y', linestyle='--', alpha=0.7)
-plt.tight_layout()
-plt.show()
-
-# Plot for Precipitation
-precip_pivot.plot(kind='bar', figsize=(12,7), width=0.7)
-plt.title('Tourist Numbers by Season and Country Climate (Precipitation)')
-plt.ylabel('Total Tourists')
-plt.xlabel('Season')
+plt.xlabel('Istanbul Humidity Level')
 plt.xticks(rotation=0)
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.tight_layout()
