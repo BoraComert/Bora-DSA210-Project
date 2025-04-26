@@ -107,6 +107,10 @@ the plot is created by humidityandprecipitationanalysis.py
 
 After Inspecting the plot there is clearly a relationship between humidity of the tourists origin countries and Istanbul's season.
 
+![Figure_10](https://github.com/user-attachments/assets/28081003-b937-4559-b5f5-1e59bdaa2210)
+the plot is created by precipitationanalysis.py
+
+After inspecting this graph it can be concluded that people tend to not come to istanbul during times of high precipitation.
 
 ## Hypothesis Testing
 
@@ -123,12 +127,18 @@ Chi2 statistic: 240070.010
 p-value < 0.001
 degrees of freedom: 2
 
-We reject null hypothesis (p-value=0.001 < 0.05)
+Since both tests p-values are (p-value=0.001 < 0.05) we reject Null Hypothesis.
 
 Null Hypothesis: There is no significant relationship between the climate of tourists' home countries and the season during which they choose to visit Istanbul.
 
 Alternative Hypothesis: There is a significant relationship between the climate of tourists' home countries and the season during which they choose to visit Istanbul.
 
 There is a relationship between climate of the tourists origin country and their preference for Istanbul. People tend to choose the time when climate conditions of Istanbul is similar to their countries.
+
+However when analyzing tourist numbers and Istanbul precipitation levels , the findings indicate that the number of tourists drop in the times of high precipitation on Istanbul regardless of their countries precipitation levels. This suggests that while tourist might prefer similar humidity and temperature levels to their countries they avoid unfavorable weather conditions like heavy rain. 
+
+## Future Work 
+
+There might be economic conditions in the background which might require further analysis.
 
 
