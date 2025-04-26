@@ -115,7 +115,7 @@ After inspecting this graph it can be concluded that people tend to not come to 
 ![Figure_1](https://github.com/user-attachments/assets/d1cb9b33-7286-4575-9242-156f845ea3f0)
 the plot is created by IncomeClassification.py
 
-This plot is to analyze if the income group of countries have an effect on when the tourist come to Istanbul.
+This plot is to analyze if the income group of countries have an effect on when the tourist come to Istanbul. From the the plot i can be interpreted that income groups are not significant at the time of decision.
 
 ## Hypothesis Testing
 
