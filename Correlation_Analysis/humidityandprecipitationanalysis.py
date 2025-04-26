@@ -57,7 +57,7 @@ humidity_pivot = humidity_group.pivot(index='Season', columns='Humidity_Type', v
 precip_group = df.groupby(['Season', 'Precipitation_Type'])['ziyaretci_sayisi'].sum().reset_index()
 precip_pivot = precip_group.pivot(index='Season', columns='Precipitation_Type', values='ziyaretci_sayisi').fillna(0)
 
-# 5. Chi-Square Tests
+
 # a) Temperature Chi-Square
 chi2_temp, p_temp, dof_temp, _ = chi2_contingency(temp_pivot)
 print("\nTemperature Chi-Square Test:")
