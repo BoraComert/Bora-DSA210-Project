@@ -102,8 +102,10 @@ The plot is created with inflationanalysis.py
 
 The USD/TL exchange rate has a moderate effect on the tourist preference while coming to Istanbul.
 
-![Figure_5](https://github.com/user-attachments/assets/e1d351fc-804a-45fb-a98a-891ee43f8e4b)
+![Figure_8](https://github.com/user-attachments/assets/8fd4efed-1880-4e38-ad7d-914bd3942220)
 the plot is created by humidityandprecipitationanalysis.py
+
+After Inspecting the plot there is clearly a relationship between humidity of the tourists origin countries and Istanbul's season.
 
 
 ## Hypothesis Testing
