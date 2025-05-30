@@ -222,6 +222,15 @@ Standard Deviation: 2204.63
 
 ### Multilinear Regression Model 
 
+![image](https://github.com/user-attachments/assets/fa90c939-8e0b-4165-9102-2a212d4e933c)
+
+Multilinear Regression RMSE: 25949.98
+Multilinear Regression R^2 Score: 0.6704
+
+![image](https://github.com/user-attachments/assets/501c9ac9-a544-4989-bdc4-caf74643d2d0)
+
+RMSE: 0.97
+R^2 Score: 0.8654
 
 
 
