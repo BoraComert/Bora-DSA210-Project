@@ -119,17 +119,20 @@ This plot is to analyze if the income group of countries have an effect on when 
 
 A table containing Season of Istanbul and total tourist numbers from cold,moderate and warm countries is formed. By doing so we can actually analyze the preference of people from different climates.
 
-Chi-Square Test of Independence Results:
-Chi2 statistic: 26093420.685
-P-value < 0.001
-Degrees of freedom: 6
+| Temperature Chi^2 Statistics|
+|--------------------------|
+|Chi^square Statistic: 26093420.68|
+|Degrees of Freedom : 6|
+|Critical Value (for alpha == 0.05): 12.59|
+|P-Value : 0.00|
+
 
 A table containing humidity classification of Istanbul and other countries were made to analyze the humidity of the peoples origin country on their preference to the time they visit Istanbul.
-| Chi^2 Statistics         |
+| Humidity Chi^2 Statistics|
 |--------------------------|
 | Chi^2: 2240070.010       |            
 | p-value: 0.00000         | 
-| Degrees of Freedom       | 
+| Degrees of Freedom: 2    | 
 | Critical Chi^2 Value: 5.99 |
 
 Since both tests p-values are (p-value=0.001 < 0.05) we reject Null Hypothesis.
