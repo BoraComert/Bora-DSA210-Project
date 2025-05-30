@@ -14,10 +14,9 @@ df['date'] = df['tarih'].dt.to_period('Q').dt.start_time
 # Group each nationality
 grouped = df.groupby(['uyruk', 'date'])['ziyaretci_sayisi'].sum().reset_index()
 
-# Format the date as 'YYYY-MM'
+# Format the date as YYYY-MM
 grouped['date'] = grouped['date'].dt.strftime('%Y-%m')
-
-# Reorder columns so 'date' is first
+# Reorder columns so the date is first
 grouped = grouped[['date', 'uyruk', 'ziyaretci_sayisi']]
 
 # Save to CSV
