@@ -232,6 +232,9 @@ Multilinear Regression R^2 Score: 0.6704
 RMSE: 0.97
 R^2 Score: 0.8654
 
+After 5 Fold Cross Validation:
+Average RMSE: 0.93
+Average R^2 Score : 0.8806
 
 
 ### Comparison Between Models 
