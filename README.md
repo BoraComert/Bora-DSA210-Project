@@ -174,13 +174,13 @@ Correlation between predicators might skew the results of machine learning algor
 Slight Correlation between Temperature and Humidity is a known weather phenomenon. More weather evaporates when temperature is high and hence more humidity in the air.
 Since any of the predicators are not over 5 we don't have to drop one.
 
-### K Nearest Neigbours Model
+### K Nearest Neighbours Model
 
-![image](https://github.com/user-attachments/assets/d638f39f-8752-4b12-a2f0-9d7461d5fda6)
+K Nearest Neighbour Model using one hot encoding for country and label encoding for Income classification.
+We have to first find the best number of K for the model.
 
-Best k value is 7 with a RMSE of 37800.49
+![image](https://github.com/user-attachments/assets/818fa716-9ce5-4fa0-8904-fa99775ca747)
 
-![image](https://github.com/user-attachments/assets/cc2ec720-7385-4280-beea-a350c5ee161b)
 
 Best k: 4 with RMSE: 23505.06
 
