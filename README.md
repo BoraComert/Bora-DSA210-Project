@@ -296,5 +296,7 @@ Covid years were among the years explored in this project, they might distort th
 
 ## Future Work 
 
-Unsupervised learning can be implemented 
+Unsupervised learning can be implemented.
+
+Online reviews about Turkey and Istanbul can be explored.
 
