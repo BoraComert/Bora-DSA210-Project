@@ -163,6 +163,9 @@ Since the data is continous models will be about regression.
 | Country_Temp             | 1.607103    |
 | YoY_Inflation (%)        | 1.123432    |
 
+Slight Correlation between Temperature and Humidity is a known weather phenomenon. More weather evaporates when temperature is high and hence more humidity in the air.
+Since any of the predicators are not over 5 we don't have to drop one.
+
 
 
 ## Future Work 
