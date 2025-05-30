@@ -203,7 +203,8 @@ Std Deviation: 29030.76
 
 ![image](https://github.com/user-attachments/assets/6a3efaa1-bc4e-4d24-adf4-1e5f1b8f7082)
 
-![image](https://github.com/user-attachments/assets/70a98b0b-9a46-4dfb-b122-1558ce8453ea)
+![image](https://github.com/user-attachments/assets/8803c754-080b-4d9e-8255-6b863927a9d0)
+
 
 
 R^2 Score: 0.7224
