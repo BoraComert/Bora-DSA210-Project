@@ -259,6 +259,8 @@ tourist data is not uniform, sometimes there is 20 tourists coming from a partic
 RMSE: 0.97
 R^2 Score: 0.8654
 
+After log transform our model has got more accurate. But log transform comes with the risks of overfitting the model so we need to perform Cross Validation.
+
 After 5 Fold Cross Validation:
 Average RMSE: 0.93
 Average R^2 Score : 0.8806
