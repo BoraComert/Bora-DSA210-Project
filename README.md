@@ -281,6 +281,9 @@ Average R^2 Score : 0.8806
 |RMSE: 23505.06   |0.7296      |   KNN        |
 |23816.80|0.72240     | Random Forest|
 |0.97(log base)| 0.8654     | Multilinear Regression|
+
+Even though knn model performs better in terms of lower rmse and higher R^2 value than Random Forest model , it is less reliable, more prone to spikes in RMSE in bad data splits.
+Multilinear regression with log transform is the best model among these models. Has the highest R^2 value and consistency.
  
 ## Limitations
 
