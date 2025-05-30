@@ -146,6 +146,24 @@ Now that hypothesis testing is complete , we can develop machine learning models
 
 Since the data is continous models will be about regression.
 
+Multicolinerity Analysis
+
+![image](https://github.com/user-attachments/assets/a1ebbb37-bc45-4941-a72d-31d2ad503c87)
+
+### Variance Inflation Factor (VIF) Scores
+
+| Feature                  | VIF         |
+|--------------------------|-------------|
+| const                    | 1282.178385 |
+| Avg Temperature (C)      | 4.411763    |
+| Avg Humidity (%)         | 4.024948    |
+| Country_Humidity         | 2.186522    |
+| Country_Precipitation    | 2.005954    |
+| Total Precipitation (mm) | 1.638862    |
+| Country_Temp             | 1.607103    |
+| YoY_Inflation (%)        | 1.123432    |
+
+
 
 ## Future Work 
 
