@@ -86,8 +86,6 @@ Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&p
 
 ![image](https://github.com/user-attachments/assets/5a482f20-38e6-461f-b0e1-4da98a3a9ab8)
 
-![image](https://github.com/user-attachments/assets/d6eba1a3-de2a-4945-b559-ffb595e00cca)
-
 
 Since economic is one of the factors in tourism inflation trends in Turkey has been analyzed.
 
@@ -108,12 +106,12 @@ The USD/TL exchange rate has a moderate effect on the tourist preference while c
 After Inspecting the plot there is clearly a relationship between humidity of the tourists origin countries and Istanbul's season.
 
 ![Figure_10](https://github.com/user-attachments/assets/28081003-b937-4559-b5f5-1e59bdaa2210)
-the plot is created by precipitationanalysis.py
+
 
 After inspecting this graph it can be concluded that people tend to not come to istanbul during times of high precipitation.
 
 ![Figure_1](https://github.com/user-attachments/assets/d1cb9b33-7286-4575-9242-156f845ea3f0)
-the plot is created by IncomeClassification.py
+
 
 This plot is to analyze if the income group of countries have an effect on when the tourist come to Istanbul. From the the plot i can be interpreted that income groups are not significant at the time of decision.
 
