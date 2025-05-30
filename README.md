@@ -166,7 +166,24 @@ Since the data is continous models will be about regression.
 Slight Correlation between Temperature and Humidity is a known weather phenomenon. More weather evaporates when temperature is high and hence more humidity in the air.
 Since any of the predicators are not over 5 we don't have to drop one.
 
-K Nearest Neigbours Model
+### K Nearest Neigbours Model
+
+
+
+
+
+### Random Forest Regression Model
+
+
+
+
+### Multilinear Regression Model 
+
+
+
+
+### Comparison Between Models 
+
 
 
 
