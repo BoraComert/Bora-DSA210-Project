@@ -215,6 +215,16 @@ RMSE: 23816.80
 Our Model might be prone for overfitting. We have to check using 5 fold cross validation.
 
 Cross Validation RMSE Scores: [24773.61223564 28022.95107626 30912.70925616 30524.94428591 27966.29144994]
+
+| RMSE                     |Fold Index   |
+|--------------------------|-------------|
+| 24773.61223564           | 1           |
+| 28022.95107626           | 2           |
+| 30912.70925616           | 3           |
+| 30524.94428591           | 4           |
+| 27966.29144994           | 5           |
+
+
 Mean RMSE: 28440.10
 Standard Deviation: 2204.63
 
