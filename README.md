@@ -184,7 +184,8 @@ We have to first find the best number of K for the model.
 
 Best k: 4 with RMSE: 23505.06
 
-![image](https://github.com/user-attachments/assets/2d89bb87-1cc5-4176-b4af-9f226391141c)
+![image](https://github.com/user-attachments/assets/b4da6021-db45-4b1d-8e34-7b18544a14ed)
+
 
 RMSE: 23505.06
 R^2 Score: 0.7296
@@ -211,11 +212,29 @@ R^2 Score: 0.7224
 
 RMSE: 23816.80
 
+Our Model might be prone for overfitting. We have to check using 5 fold cross validation.
+
+Cross Validation RMSE Scores: [24773.61223564 28022.95107626 30912.70925616 30524.94428591 27966.29144994]
+Mean RMSE: 28440.10
+Standard Deviation: 2204.63
+
 
 
 ### Multilinear Regression Model 
 
+![image](https://github.com/user-attachments/assets/fa90c939-8e0b-4165-9102-2a212d4e933c)
 
+Multilinear Regression RMSE: 25949.98
+Multilinear Regression R^2 Score: 0.6704
+
+![image](https://github.com/user-attachments/assets/501c9ac9-a544-4989-bdc4-caf74643d2d0)
+
+RMSE: 0.97
+R^2 Score: 0.8654
+
+After 5 Fold Cross Validation:
+Average RMSE: 0.93
+Average R^2 Score : 0.8806
 
 
 ### Comparison Between Models 
