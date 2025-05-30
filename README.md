@@ -184,7 +184,8 @@ We have to first find the best number of K for the model.
 
 Best k: 4 with RMSE: 23505.06
 
-![image](https://github.com/user-attachments/assets/2d89bb87-1cc5-4176-b4af-9f226391141c)
+![image](https://github.com/user-attachments/assets/b4da6021-db45-4b1d-8e34-7b18544a14ed)
+
 
 RMSE: 23505.06
 R^2 Score: 0.7296
