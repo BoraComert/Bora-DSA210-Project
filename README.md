@@ -176,6 +176,19 @@ Since any of the predicators are not over 5 we don't have to drop one.
 
 ### K Nearest Neigbours Model
 
+![image](https://github.com/user-attachments/assets/d638f39f-8752-4b12-a2f0-9d7461d5fda6)
+
+Best k value is 7 with a RMSE of 37800.49
+
+![image](https://github.com/user-attachments/assets/cc2ec720-7385-4280-beea-a350c5ee161b)
+
+Best k: 4 with RMSE: 23505.06
+
+![image](https://github.com/user-attachments/assets/2d89bb87-1cc5-4176-b4af-9f226391141c)
+
+RMSE: 23505.06
+R^2 Score: 0.7296
+
 
 
 
@@ -183,7 +196,17 @@ Since any of the predicators are not over 5 we don't have to drop one.
 ### Random Forest Regression Model
 
 
-![image](https://github.com/user-attachments/assets/5668aee9-7bab-493a-b0bd-278636292440)
+![image](https://github.com/user-attachments/assets/b5978e7e-eeb9-49e3-8c73-004c182c4dfa)
+
+![image](https://github.com/user-attachments/assets/6a3efaa1-bc4e-4d24-adf4-1e5f1b8f7082)
+
+![image](https://github.com/user-attachments/assets/70a98b0b-9a46-4dfb-b122-1558ce8453ea)
+
+
+R^2 Score: 0.7224
+
+RMSE: 23816.80
+
 
 
 ### Multilinear Regression Model 
