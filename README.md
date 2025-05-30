@@ -194,18 +194,33 @@ Our model might be prone to overfitness.Let's check by using 5 fold  cross valid
 
 Cross-Validation RMSE Scores: [14740.78469004 55886.44534054 62113.35298067 93965.76169791 20713.97639702]
 
+| RMSE                     |Fold Index   |
+|--------------------------|-------------|
+| 14740.78469004           | 1           |
+| 55886.44534054           | 2           |
+| 62113.35298067           | 3           |
+| 93965.76169791           | 4           |
+| 20713.97639702           | 5           |
+
 Mean RMSE: 49484.06
 Std Deviation: 29030.76
 
 ### Random Forest Regression Model
 
+Random Forest Regression Model using label encoding for both Income Classification and Countries because one hot encoding for countries would make the model perform poorer.
+First we need to tune maximum depth.
 
 ![image](https://github.com/user-attachments/assets/b5978e7e-eeb9-49e3-8c73-004c182c4dfa)
 
+Maximum  depth is found to be 15.
+Now we need to find the maximum number of trees.
+
 ![image](https://github.com/user-attachments/assets/6a3efaa1-bc4e-4d24-adf4-1e5f1b8f7082)
 
-![image](https://github.com/user-attachments/assets/8803c754-080b-4d9e-8255-6b863927a9d0)
+Number of trees is 50.
+Using these best hyperparameters.
 
+![image](https://github.com/user-attachments/assets/8803c754-080b-4d9e-8255-6b863927a9d0)
 
 
 R^2 Score: 0.7224
@@ -259,6 +274,6 @@ Average R^2 Score : 0.8806
 
 ## Future Work 
 
-There might be economic conditions in the background which might require further analysis.
-Proximity might have an effect on tourisit decisions.
+There might be economic conditions in the background which might require further analysis like plane ticket fares and hotel prices.
+Proximity might have an effect on tourist decisions.
 
