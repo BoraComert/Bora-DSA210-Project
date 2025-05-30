@@ -189,7 +189,7 @@ Best k: 4 with RMSE: 23505.06
 RMSE: 23505.06
 R^2 Score: 0.7296
 
-
+Our model might be prone to overfitness.Let's check by using 5 fold  cross validation.
 
 
 
@@ -207,7 +207,9 @@ R^2 Score: 0.7224
 
 RMSE: 23816.80
 
-
+Cross-Validation RMSE Scores (k=5): [14740.78469004 55886.44534054 62113.35298067 93965.76169791 20713.97639702]
+Mean RMSE: 49484.06
+Std Deviation: 29030.76
 
 ### Multilinear Regression Model 
 
