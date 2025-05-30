@@ -252,6 +252,8 @@ Standard Deviation: 2204.63
 Multilinear Regression RMSE: 25949.98
 Multilinear Regression R^2 Score: 0.6704
 
+tourist data is not uniform, sometimes there is 20 tourists coming from a particular country while sometimes there is a hundred thousand. This might cause spikes in the RMSE in the model . To prevent this we can log transform the Y so model performs better.
+
 ![image](https://github.com/user-attachments/assets/501c9ac9-a544-4989-bdc4-caf74643d2d0)
 
 RMSE: 0.97
