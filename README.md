@@ -146,7 +146,7 @@ Now that hypothesis testing is complete , we can develop machine learning models
 
 Since the data is continous models will be about regression.
 
-Multicolinerity Analysis
+### Multicolinerity Analysis
 
 ![image](https://github.com/user-attachments/assets/a1ebbb37-bc45-4941-a72d-31d2ad503c87)
 
