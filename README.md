@@ -191,6 +191,7 @@ Since any of the predicators are not over 5 we don't have to drop one.
 
 
 R^2 Score: 0.7224
+
 RMSE: 23816.80
 
 
