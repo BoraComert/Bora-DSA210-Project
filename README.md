@@ -146,7 +146,11 @@ Now that hypothesis testing is complete , we can develop machine learning models
 
 Since the data is continous models will be about regression.
 
-Predicators will be the following columns on the filtered_merged_output.csv : 
+Predicators will be the following columns on the filtered_merged_output.csv : Date,Country,Country_Temp,Country_Humidity,Country_Precipitation,Avg Temperature (C),Avg Humidity (%),Total Precipitation (mm) ,Income classification
+
+Avg Temperature , Total precipitation and Avg Humidity are Istanbul's data
+
+Target will be the Visitors column.
 
 ### Multicolinerity Analysis
 
