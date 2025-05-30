@@ -205,6 +205,8 @@ Cross-Validation RMSE Scores: [14740.78469004 55886.44534054 62113.35298067 9396
 Mean RMSE: 49484.06
 Std Deviation: 29030.76
 
+High standard deviation confirms that our model is suffering from overfitting.
+
 ### Random Forest Regression Model
 
 Random Forest Regression Model using label encoding for both Income Classification and Countries because one hot encoding for countries would make the model perform poorer.
@@ -229,7 +231,7 @@ RMSE: 23816.80
 
 Our Model might be prone for overfitting. We have to check using 5 fold cross validation.
 
-Cross Validation RMSE Scores: [24773.61223564 28022.95107626 30912.70925616 30524.94428591 27966.29144994]
+Cross Validation RMSE Scores: 
 
 | RMSE                     |Fold Index   |
 |--------------------------|-------------|
@@ -243,6 +245,7 @@ Cross Validation RMSE Scores: [24773.61223564 28022.95107626 30912.70925616 3052
 Mean RMSE: 28440.10
 Standard Deviation: 2204.63
 
+Low standard deviation among test folds confirms that there is no overfitting.
 
 
 ### Multilinear Regression Model 
