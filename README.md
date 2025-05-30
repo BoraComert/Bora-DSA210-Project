@@ -133,7 +133,7 @@ A table containing humidity classification of Istanbul and other countries were 
 | Chi^2: 2240070.010       |            
 | p-value: 0.00000         | 
 | Degrees of Freedom: 2    | 
-| Critical Chi^2 Value: 5.99 |
+| Critical Value (for alpha == 0.05): 5.99 |
 
 Since both tests p-values are (p-value=0.001 < 0.05) we reject Null Hypothesis.
 
