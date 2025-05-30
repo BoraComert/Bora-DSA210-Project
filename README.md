@@ -154,7 +154,7 @@ Target will be the Visitors column.
 
 ### Multicolinerity Analysis
 
-Correlation between predicators might skew the results of machine learning algorithms so it is best to check before implementation.
+Correlation between predicators might distort the results of machine learning algorithms so it is best to check before implementation. We will use Variance Inflation Factor (VIF) Scores to check if there is a high correlation between features.
 
 ![image](https://github.com/user-attachments/assets/a1ebbb37-bc45-4941-a72d-31d2ad503c87)
 
