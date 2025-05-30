@@ -207,13 +207,20 @@ Std Deviation: 29030.76
 
 ### Random Forest Regression Model
 
+Random Forest Regression Model using label encoding for both Income Classification and Countries because one hot encoding for countries would make the model perform poorer.
+First we need to tune maximum depth.
 
 ![image](https://github.com/user-attachments/assets/b5978e7e-eeb9-49e3-8c73-004c182c4dfa)
 
+Maximum  depth is found to be 15.
+Now we need to find the maximum number of trees.
+
 ![image](https://github.com/user-attachments/assets/6a3efaa1-bc4e-4d24-adf4-1e5f1b8f7082)
 
-![image](https://github.com/user-attachments/assets/8803c754-080b-4d9e-8255-6b863927a9d0)
+Number of trees is 50.
+Using these best hyperparameters.
 
+![image](https://github.com/user-attachments/assets/8803c754-080b-4d9e-8255-6b863927a9d0)
 
 
 R^2 Score: 0.7224
