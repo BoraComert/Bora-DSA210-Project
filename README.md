@@ -183,6 +183,7 @@ Since any of the predicators are not over 5 we don't have to drop one.
 ### Random Forest Regression Model
 
 
+![image](https://github.com/user-attachments/assets/5668aee9-7bab-493a-b0bd-278636292440)
 
 
 ### Multilinear Regression Model 
