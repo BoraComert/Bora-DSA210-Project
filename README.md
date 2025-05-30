@@ -86,24 +86,22 @@ Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&p
 
 ![Figure_2](https://github.com/user-attachments/assets/d2ace642-b61e-4ead-b47a-7d14a14a135a)
 
-The plot is created by Seasonalityplot.py
 
 Since economic is one of the factors in tourism inflation trends in Turkey has been analyzed.
 
 
 ![Figure_4](https://github.com/user-attachments/assets/24d0fd04-d055-459c-a54e-46686fb9dca0)
-The plot is created with inflationanalysis.py
+
 
 It appears to be there is a significant correlation between inflation of TL and tourists coming to Istanbul.
 
 
 ![Figure_3](https://github.com/user-attachments/assets/5376ea7e-cb74-46f1-a910-6af9983eabc6)
-The plot is created with inflationanalysis.py
+
 
 The USD/TL exchange rate has a moderate effect on the tourist preference while coming to Istanbul.
 
 ![Figure_8](https://github.com/user-attachments/assets/8fd4efed-1880-4e38-ad7d-914bd3942220)
-the plot is created by humidityandprecipitationanalysis.py
 
 After Inspecting the plot there is clearly a relationship between humidity of the tourists origin countries and Istanbul's season.
 
@@ -144,7 +142,10 @@ However when analyzing tourist numbers and Istanbul precipitation levels , the f
 
 ## Machine Learning Techniques
 
-Since the data is continous the machine learning techniques will be focusing on regression.
+Now that hypothesis testing is complete , we can develop machine learning models to predict the number of tourist is coming to istanbul based on Ethnicity, Istanbul's weather condition , other countries weather condition ,TL inflation and income classifcation of countries.
+
+Since the data is continous models will be about regression.
+
 
 ## Future Work 
 
