@@ -142,8 +142,9 @@ There is a relationship between climate of the tourists origin country and their
 
 However when analyzing tourist numbers and Istanbul precipitation levels , the findings indicate that the number of tourists drop in the times of high precipitation on Istanbul regardless of their countries precipitation levels. This suggests that while tourist might prefer similar humidity and temperature levels to their countries they avoid unfavorable weather conditions like heavy rain. 
 
-## Machine Learning 
+## Machine Learning Techniques
 
+Since the data is continous the machine learning techniques will be focusing on regression.
 
 ## Future Work 
 
