@@ -84,7 +84,9 @@ Source: https://finance.yahoo.com/quote/USDTRY%3DX/history/?period1=1546300800&p
 
 ## Processing Data
 
-![Figure_2](https://github.com/user-attachments/assets/d2ace642-b61e-4ead-b47a-7d14a14a135a)
+![image](https://github.com/user-attachments/assets/5a482f20-38e6-461f-b0e1-4da98a3a9ab8)
+
+![image](https://github.com/user-attachments/assets/d6eba1a3-de2a-4945-b559-ffb595e00cca)
 
 
 Since economic is one of the factors in tourism inflation trends in Turkey has been analyzed.
