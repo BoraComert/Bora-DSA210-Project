@@ -187,6 +187,11 @@ Since any of the predicators are not over 5 we don't have to drop one.
 
 
 
+## Limitations
+
+
+
+
 ## Future Work 
 
 There might be economic conditions in the background which might require further analysis.
