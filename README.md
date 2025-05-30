@@ -135,7 +135,7 @@ A table containing humidity classification of Istanbul and other countries were 
 | Degrees of Freedom: 2    | 
 | Critical Value (for alpha == 0.05): 5.99 |
 
-Since both tests p-values are (p-value=0.001 < 0.05) we reject Null Hypothesis.
+Since both tests p-values are (p-value=0.001 < 0.05) and respective chi^2 values are larger then their critical chi^2 values  we reject Null Hypothesis.
 
 Null Hypothesis: There is no significant relationship between the climate of tourists' home countries and the season during which they choose to visit Istanbul.
 
