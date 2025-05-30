@@ -185,10 +185,11 @@ Since any of the predicators are not over 5 we don't have to drop one.
 
 ![image](https://github.com/user-attachments/assets/b5978e7e-eeb9-49e3-8c73-004c182c4dfa)
 
-
 ![image](https://github.com/user-attachments/assets/6a3efaa1-bc4e-4d24-adf4-1e5f1b8f7082)
 
 ![image](https://github.com/user-attachments/assets/70a98b0b-9a46-4dfb-b122-1558ce8453ea)
+R^2 Score: 0.7224
+RMSE: 23816.80
 
 
 
