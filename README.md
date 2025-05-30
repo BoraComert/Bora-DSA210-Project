@@ -218,7 +218,7 @@ Now we need to find the maximum number of trees.
 ![image](https://github.com/user-attachments/assets/6a3efaa1-bc4e-4d24-adf4-1e5f1b8f7082)
 
 Number of trees is 50.
-Using these best hyperparameters.
+Using these best hyperparameters let's visualize the model.
 
 ![image](https://github.com/user-attachments/assets/8803c754-080b-4d9e-8255-6b863927a9d0)
 
