@@ -126,9 +126,12 @@ Degrees of freedom: 6
 
 A table containing humidity classification of Istanbul and other countries were made to analyze the humidity of the peoples origin country on their preference to the time they visit Istanbul.
 
-Chi2 statistic: 240070.010
-p-value < 0.001
-degrees of freedom: 2
+|--------------------------|
+| Chi^2: 2240070.010       |            
+| p-value: 0.00000         | 
+| Degrees of Freedom       | 
+| 93965.76169791           | 
+| Critical Chi^2 Value: 5.991464547107979           |
 
 Since both tests p-values are (p-value=0.001 < 0.05) we reject Null Hypothesis.
 
