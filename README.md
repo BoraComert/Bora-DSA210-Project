@@ -276,10 +276,11 @@ Average R^2 Score : 0.8806
 
 ### Comparison Between Models 
 
-|RMSE| R^2        |          |  Random Forest| Multilinear Regression        |
-|----|------------|----------|---------------|-------------------------------|
-|    |            |          |               |                              |
-|    |            |          |               |                               |
+|RMSE| R^2        |  Model       | 
+|----|------------|--------------|
+|RMSE: 23505.06   |0.7296      |   KNN        |
+|23816.80|0.72240     | Random Forest|
+|0.97(log base)| 0.8654     | Multilinear Regression|
  
 ## Limitations
 
