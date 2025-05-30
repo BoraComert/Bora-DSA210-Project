@@ -269,11 +269,14 @@ Average R^2 Score : 0.8806
 
 ## Limitations
 
+There might be economic conditions in the background which might require further analysis like plane ticket fares and hotel prices.
 
+Proximity might have an effect on tourist decisions.
+
+Covid years were among the years explored in this project, they might distort the overall effect.
 
 
 ## Future Work 
 
-There might be economic conditions in the background which might require further analysis like plane ticket fares and hotel prices.
-Proximity might have an effect on tourist decisions.
+Unsupervised learning can be implemented 
 
