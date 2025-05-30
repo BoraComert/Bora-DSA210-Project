@@ -276,9 +276,11 @@ Average R^2 Score : 0.8806
 
 ### Comparison Between Models 
 
-
-
-
+|RMSE| R^2        |          |  Random Forest| Multilinear Regression        |
+|----|------------|----------|---------------|-------------------------------|
+|    |            |          |               |                              |
+|    |            |          |               |                               |
+ 
 ## Limitations
 
 There might be economic conditions in the background which might require further analysis like plane ticket fares and hotel prices.
