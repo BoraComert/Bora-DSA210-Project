@@ -3,7 +3,7 @@ from scipy.stats import chi2_contingency
 import matplotlib.pyplot as plt
 
 # Read your data
-df = pd.read_csv("/Users/boracomert/Desktop/Bora-DSA210-Project-1/merged_output.csv")
+df = pd.read_csv("/Users/boracomert/Desktop/Bora-DSA210-Project-1/filtered_merged_output.csv")
 
 # Group function
 def group_by_weather(df):
@@ -55,8 +55,8 @@ def group_by_weather(df):
 df = group_by_weather(df)
 
 # Group by Istanbul Humidity and Country Humidity
-humidity_group = df.groupby(['Istanbul_Humidity_Type', 'Humidity_Type'])['ziyaretci_sayisi'].sum().reset_index()
-humidity_pivot = humidity_group.pivot(index='Istanbul_Humidity_Type', columns='Humidity_Type', values='ziyaretci_sayisi').fillna(0)
+humidity_group = df.groupby(['Istanbul_Humidity_Type', 'Humidity_Type'])['Visitors'].sum().reset_index()
+humidity_pivot = humidity_group.pivot(index='Istanbul_Humidity_Type', columns='Humidity_Type', values='Visitors').fillna(0)
 
 # Run Chi-Square tests
 chi2_hum, p_hum, dof_hum, _ = chi2_contingency(humidity_pivot)
