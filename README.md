@@ -194,6 +194,14 @@ Our model might be prone to overfitness.Let's check by using 5 fold  cross valid
 
 Cross-Validation RMSE Scores: [14740.78469004 55886.44534054 62113.35298067 93965.76169791 20713.97639702]
 
+| RMSE                     |Fold Index   |
+|--------------------------|-------------|
+| 14740.78469004           | 1           |
+| 55886.44534054           | 2           |
+| 62113.35298067           | 3           |
+| 93965.76169791           | 4           |
+| 20713.97639702           | 5           |
+
 Mean RMSE: 49484.06
 Std Deviation: 29030.76
 
@@ -259,6 +267,6 @@ Average R^2 Score : 0.8806
 
 ## Future Work 
 
-There might be economic conditions in the background which might require further analysis.
-Proximity might have an effect on tourisit decisions.
+There might be economic conditions in the background which might require further analysis like plane ticket fares and hotel prices.
+Proximity might have an effect on tourist decisions.
 
